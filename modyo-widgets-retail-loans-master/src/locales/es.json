@@ -1,0 +1,87 @@
+{
+  "commons": {
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "currency": {
+    "format": {
+      "standar": {
+        "decimal": ",",
+        "formatWithSymbol": true,
+        "precision": 0,
+        "separator": ".",
+        "symbol": "$"
+      },
+      "uf": {
+        "decimal": ",",
+        "formatWithSymbol": true,
+        "precision": 2,
+        "separator": ".",
+        "symbol": "UF "
+      }
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "dd MMMM yyyy",
+      "short": "dd/MM/yyyy",
+      "this-month": "Este mes"
+    }
+  },
+  "loan-item": {
+    "back": "Volver",
+    "current-fee": "Cuota Actual",
+    "end-date": "Fecha Término",
+    "grant-date": "Fecha Otorgamiento",
+    "month-fee-payed": "La cuota de este mes ya se encuentra saldada",
+    "outstanding-balance": "Saldo Pendiente",
+    "pay-fee": "Pagar Cuota",
+    "summary": {
+      "annual-interest-rate": "Tasa de interés anual",
+      "automatic-charge-in": "Cargo automatico en",
+      "collection": "Cobranza",
+      "credit-balance": "Saldo del credito",
+      "current-equivalent-annual-load": "CAEV",
+      "current-guarantees": "Garantias vigentes",
+      "delayed-payment-amount": "Monto cargado por atrasos",
+      "dividend-value": "Valor del dividendo",
+      "equivalent-annual-load": "CAE",
+      "fee-value": "Valor de la cuota",
+      "granted-gross-amount": "Monto bruto concedido",
+      "insurances": {
+        "download-btn": "Descargar"
+      },
+      "insurances-details-btn": "Detalle",
+      "months": "{n} Meses",
+      "next-payment-date": "Fecha próximo pago",
+      "operation-number": "Numero de operación",
+      "outstanding-credit-term": "Plazo de crédito pendiente",
+      "outstanding-dividends-number": "Numero de dividendos pendientes",
+      "outstanding-fees-number": "Numero de cuotas pendientes",
+      "overdue-amount": "Monto vencido no pagado",
+      "payed-dividends-number": "Numero de dividendos pagados",
+      "payed-fees-number": "Numero de cuotas pagadas",
+      "product-name": "Nombre de producto",
+      "title": "Resumen",
+      "total-delayed-payment-amount": "Monto total atrasado",
+      "view-contracted-insurances": "Seguros contratados"
+    },
+    "type": {
+      "personal": "consumo",
+      "mortgage": "hipotecario"
+    },
+    "view-details": "Ver detalles"
+  },
+  "main": {
+    "pre-approved-loan": "Tienes un crédito {0} por",
+    "pre-approved-loan-strong": "pre-aprobado",
+    "pre-approved-loan-sub-msg": "Renueva tu auto, remodela tu casa con esta increible oferta",
+    "request-btn": "Solicítalo ahora!",
+    "title": "Tus créditos"
+  }
+}

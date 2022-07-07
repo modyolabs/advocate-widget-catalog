@@ -1,0 +1,74 @@
+{
+  "commons": {
+    "back": "Volver",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "account": {
+    "available-balance": "Available Balance",
+    "balance": "Balance",
+    "credit-account-abbr": "CC",
+    "from": "From",
+    "remaining-balance": "Remaining Balance",
+    "savings-account-abbr": "SAV",
+    "title": "Sending Account"
+  },
+  "actions": {
+    "back-to-credit-cards": "Back to Credit Cards",
+    "cancel-button": "Cancel",
+    "continue": "Continue",
+    "pay-button": "Pay"
+  },
+  "card": {
+    "card": "Card",
+    "credit-card": "Credit Card",
+    "international-debt": "Current Card Balance",
+    "national-debt": "National Debt",
+    "title": "Pay Credit Card"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "PPPP 'at' pp",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    }
+  },
+  "payment": {
+    "amount": "Amount",
+    "chilean-currency": "Chilean Pesos",
+    "exchange-type": "Exchange Type",
+    "invoiced-amount-radio": "Pay Invoiced Amount",
+    "lower-payment-msg": "*The balance to be paid is less than the invoiced total. It is possible that additional interest will be generated.",
+    "minimum-amount-radio": "Pay Minimum Amount",
+    "minimum-payment": "Minimum payment",
+    "minimum-payment-msg": "*Your payment cannot be less than the minimum amount due.",
+    "other-amount-radio": "Other Amount",
+    "title": "Amount to be paid"
+  },
+  "payment-confirm": {
+    "input": {
+      "password": "password"
+    },
+    "title": "Enter your password"
+  },
+  "payment-voucher": {
+    "success": "Payment Successful",
+    "title": "Proof of Payment",
+    "to": "To",
+    "transaction-number": "Transaction Number"
+  }
+}

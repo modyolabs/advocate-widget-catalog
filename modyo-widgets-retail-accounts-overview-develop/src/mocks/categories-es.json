@@ -1,0 +1,42 @@
+{
+  "1": {
+    "name": "Transferencia",
+    "color": "#2E4553"
+  },
+  "2": {
+    "name": "Deposito en efectivo",
+    "color": "#47586F"
+  },
+  "3": {
+    "name": "Deposito de documento mismo banco",
+    "color": "#666A89"
+  },
+  "4": {
+    "name": "Deposito de documento otro banco",
+    "color": "#8C7C9F"
+  },
+  "5": {
+    "name": "PAC",
+    "color": "#B48DAF"
+  },
+  "6": {
+    "name": "PAT",
+    "color": "#DC9FBA"
+  },
+  "7": {
+    "name": "Pago",
+    "color": "#5E7584"
+  },
+  "8": {
+    "name": "Cargo",
+    "color": "#503C49"
+  },
+  "9": {
+    "name": "Cheque cobrado",
+    "color": "#826C7A"
+  },
+  "10": {
+    "name": "Giro en cajero automático",
+    "color": "#B7CFE0"
+  }
+}

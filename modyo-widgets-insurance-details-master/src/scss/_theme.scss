@@ -1,0 +1,291 @@
+/*! purgecss start ignore */
+
+html,
+body {
+  min-width: 100%;
+  height: 100%;
+
+  background-color: $secondary;
+}
+
+.btn-icon {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  width: 42px;
+  height: 42px;
+
+  color: $primary;
+
+  border-radius: 50%;
+
+  &:hover,
+  &:focus {
+    color: $primary-dark;
+
+    background-color: $tertiary-10;
+  }
+}
+
+.details-body__button-group {
+  .details-body__button {
+    position: relative;
+
+    border-bottom-width: 0;
+
+    &:first-child {
+      border-top-left-radius: .25rem;
+      border-top-right-radius: .25rem;
+    }
+
+    &:not(:first-child) {
+      border-top: none;
+    }
+
+    &:last-child {
+      border-bottom-width: 1px;
+      border-bottom-right-radius: .25rem;
+      border-bottom-left-radius: .25rem;
+    }
+
+    + .details-body__button {
+      margin-top: 0;
+
+      &::before {
+        position: absolute;
+
+        display: block;
+
+        width: calc(100% - 3rem);
+
+        height: 1px;
+
+        margin-top: -1.5rem;
+
+        content: "";
+
+        background-color: $secondary-20;
+      }
+    }
+  }
+}
+
+.details-body__section-title {
+  font-size: 1.25em;
+  font-weight: 500;
+  color: $primary;
+}
+
+.distribution-table {
+  background-color: $tertiary-10;
+  border: 1px solid $secondary-10;
+  border-radius: .25rem;
+}
+
+.distribution-table__download-btn {
+  color: $tertiary;
+
+  &:hover,
+  &:focus {
+    color: $primary;
+  }
+}
+
+.table.table-striped-rounded {
+  border-radius: .25rem;
+
+  th {
+    background-color: #fff;
+    border-top: none;
+
+    border-bottom: 1px solid $secondary-10;
+
+    + th {
+      border-left: 1px solid $secondary-10;
+    }
+
+  }
+
+  th:first-child {
+    border-top-left-radius: .25rem;
+  }
+
+  th:last-child {
+    border-top-right-radius: .25rem;
+  }
+
+  tr:nth-of-type(even) {
+    td {
+      background-color: #fff;
+    }
+  }
+
+  tr:nth-of-type(odd) {
+    td {
+      background-color: $tertiary-10;
+    }
+  }
+
+  tr:last-child {
+    td:first-child {
+      border-bottom-left-radius: .25rem;
+    }
+
+    td:last-child {
+      border-bottom-right-radius: .25rem;
+    }
+  }
+
+  td {
+    vertical-align: middle;
+
+    border-top: none;
+
+    + td {
+      border-left: 1px solid $secondary-10;
+    }
+  }
+
+  .table-striped-rounded--separator {
+    border-top: 1px solid $secondary-10;
+  }
+}
+
+/******************
+EXTEND BOOTSTRAP
+*******************/
+
+@include text-emphasis-variant(".text-primary-80", $primary-80, true);
+@include text-emphasis-variant(".text-tertiary", $tertiary-100, true);
+
+@include bg-variant(".bg-tertiary", $tertiary, true);
+@include bg-variant(".bg-tertiary-10", $tertiary-10, true);
+@include bg-variant(".bg-tertiary-20", $tertiary-20, true);
+@include bg-variant(".bg-primary-80", $primary-80, true);
+
+// Extend Bootstrap Button classes
+.btn-tertiary {
+  @include button-variant($tertiary, $tertiary);
+}
+
+.btn-outline-tertiary {
+  @include button-outline-variant($tertiary, $white, $primary-80, $primary-80 );
+  color: $secondary-100;
+}
+
+/******************
+END EXTEND BOOTSTRAP
+*******************/
+
+/********************************************
+VUE TRANSITIONS COMPONENT ANIMATIONS
+Enter and leave animations can use different
+*********************************************/
+
+.slide-fade-enter-active {
+  transition: all .3s ease;
+}
+
+.slide-fade-leave-active {
+  transition: all .8s cubic-bezier(1, .5, .8, 1);
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+  opacity: 0;
+
+  transform: translateX(10px);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .5s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/**********
+STYLES
+***********/
+
+[v-cloak] {
+  display: none;
+}
+
+/******************
+MEDIA QUERIES
+*******************/
+
+@include media-breakpoint-down(xs) {
+  .custom-radio {
+    .custom-control-label--block {
+      font-size: 12px;
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .border-md { border: $border-width solid $border-color; }
+
+  .border-md-top { border-top: $border-width solid $border-color; }
+
+  .border-md-right { border-right: $border-width solid $border-color; }
+
+  .border-md-bottom { border-bottom: $border-width solid $border-color; }
+
+  .border-md-left { border-left: $border-width solid $border-color; }
+
+  .rounded-md-0 {
+    border-radius: 0;
+  }
+
+  .btn-block-mobile {
+    width: 100%;
+  }
+
+  .distribution-table {
+    font-size: .875rem;
+  }
+
+  .distribution-table__th {
+    white-space: nowrap;
+  }
+
+  .table-striped-rounded {
+    th:first-child,
+    td:first-child {
+      position: sticky;
+      left: 0;
+      z-index: 1;
+    }
+
+    th:first-child::before,
+    td:first-child::before {
+      position: absolute;
+      top: 0;
+      left: calc(100% - 1px);
+
+      width: 1px;
+      height: 100%;
+
+      content: "";
+
+      box-shadow: 4px 0 12px rgba(0, 0, 0, .6);
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .btn-outline-lg-tertiary {
+    @include button-outline-variant($tertiary, $white, $primary-80, $primary-80 );
+    color: $secondary-100;
+  }
+}
+
+/*! purgecss end ignore */

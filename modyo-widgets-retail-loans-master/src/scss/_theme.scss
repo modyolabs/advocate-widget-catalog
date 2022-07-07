@@ -1,0 +1,93 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: $primary-80;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+  body {
+    font-size: .875rem;
+  }
+}
+
+p {
+  color: $primary-80;
+}
+
+.btn-primary {
+  &:disabled {
+    background: $primary-20;
+    border-color: $primary-20;
+    opacity: 1;
+  }
+}
+
+.btn-white {
+  color: $primary;
+
+  background-color: #fff;
+  border-color: $primary-60;
+
+  &:hover,
+  &:focus {
+    background-color: #fcfcfc;
+  }
+}
+
+.text-tertiary {
+  color: $tertiary-100;
+}
+
+.bg-tertiary-20 {
+  background-color: $tertiary-20;
+}
+
+.btn-primary-dark {
+  color: #fff;
+
+  background-color: $primary;
+
+  &:focus,
+  &:hover {
+    color: #fff;
+
+    background-color: $primary-dark;
+  }
+
+  &:disabled {
+    color: #fff;
+
+    background-color: $primary-20;
+    opacity: 1;
+  }
+}
+
+.nav-link {
+  background-color: $primary-10;
+
+  &:hover,
+  &:focus {
+    background: $primary-20;
+  }
+
+  small {
+    color: $primary-60;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .nav {
+    .nav-link {
+      &.active {
+        color: $primary;
+
+        background-color: $primary-10;
+      }
+    }
+  }
+}

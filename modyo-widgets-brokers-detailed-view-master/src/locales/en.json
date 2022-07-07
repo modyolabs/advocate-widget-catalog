@@ -1,0 +1,461 @@
+﻿{
+  "_policy-data": {
+    "agreements": [
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 1"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 2"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 3"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 4"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 5"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 6"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 7"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 8"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "0029476",
+        "label": "Policy Nº"
+      },
+      {
+        "description": "11/09/2019",
+        "label": "Creation Date"
+      },
+      {
+        "description": "11/09/2019",
+        "label": "Ending Date"
+      },
+      {
+        "description": "COPROPERTIES",
+        "label": "Product"
+      },
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediary"
+      },
+      {
+        "description": "856347",
+        "label": "Intermediary Key"
+      },
+      {
+        "description": "Coproperty 100",
+        "label": "Name of the Holder"
+      },
+      {
+        "description": "New York",
+        "label": "City"
+      },
+      {
+        "description": "50 W 106th St, New York, NY 10025",
+        "label": "Property Address"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Creation Date"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Last Modified"
+      }
+    ],
+    "historical-table": {
+      "body": [
+        [
+          "Quote",
+          1,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "New Policy",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Canceled Policy",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Endorsement",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Endorsement",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Endorsement",
+          4,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Renewal",
+          2,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Renewal Invitation",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Renewal Invitation",
+          5,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Renewal Invitation",
+          6,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ]
+      ],
+      "header": [
+        {
+          "name": "Movement"
+        },
+        {
+          "name": "Status"
+        },
+        {
+          "align": "center",
+          "name": "Creation Date"
+        },
+        {
+          "align": "center",
+          "name": "Effective Date"
+        },
+        {
+          "align": "right",
+          "name": "Premium"
+        }
+      ]
+    },
+    "table": {
+      "body": [
+        [
+          "Property",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Civil Liability",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Management",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Directors and Administrators",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Personal Accidents",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Assistance",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Issuing Costs",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Totals",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Commission (15%)",
+          11990000,
+          10000000,
+          10000000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Premium wit VAT"
+        },
+        {
+          "align": "right",
+          "name": "Premium"
+        },
+        {
+          "align": "right",
+          "name": "Taxes"
+        }
+      ]
+    }
+  },
+  "_quote-data": {
+    "agreements": [
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 1"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 2"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 3"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 4"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 5"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 6"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 7"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 8"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "0029476",
+        "label": "Quote Nº"
+      },
+      {
+        "description": "11/09/2019",
+        "label": "Creation Date"
+      },
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediary"
+      },
+      {
+        "description": "856347",
+        "label": "Intermediary Key"
+      },
+      {
+        "description": "COPROPERTIES",
+        "label": "Product"
+      },
+      {
+        "description": "Coproperty 100",
+        "label": "Name of the Holder"
+      },
+      {
+        "description": "New York",
+        "label": "City"
+      },
+      {
+        "description": "50 W 106th St, New York, NY 10025",
+        "label": "Property Address"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Validity of the Offer"
+      }
+    ],
+    "table": {
+      "body": [
+        [
+          "Property",
+          11990000,
+          10000000
+        ],
+        [
+          "Civil Liability",
+          11990000,
+          10000000
+        ],
+        [
+          "Management",
+          11990000,
+          10000000
+        ],
+        [
+          "Directors and Administrators",
+          11990000,
+          10000000
+        ],
+        [
+          "Personal Accidents",
+          11990000,
+          10000000
+        ],
+        [
+          "Assistance",
+          11990000,
+          10000000
+        ],
+        [
+          "Issuing Costs",
+          11990000,
+          10000000
+        ],
+        [
+          "Totals",
+          11990000,
+          10000000
+        ],
+        [
+          "Commission (15%)",
+          11990000,
+          10000000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Premium wit VAT"
+        },
+        {
+          "align": "right",
+          "name": "Premium"
+        }
+      ]
+    }
+  },
+  "body": {
+    "agreements-title": "Hedges and Deductibles",
+    "btn-go-to-historical-table": "Go to History",
+    "historical-table": "Policy History",
+    "policy-title": "Your Policy Summary",
+    "premium-increase": "Premium Increase",
+    "quote-title": "Your Quote Summary",
+    "status": {
+      "accepted": "Accepted",
+      "confirmed": "Confirmed",
+      "issued": "Issued",
+      "on-revision": "On Revision",
+      "refused": "Refused",
+      "sent": "Sent",
+      "valid": "Valid",
+      "quoted": "Quoted"
+    },
+    "title-mobile": "Summary"
+  },
+  "commons": {
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "email-modal": {
+    "input-placeholder": "Email",
+    "send": "Send",
+    "sending-email-state": "Sending",
+    "title": "Enter the mail to send the signature"
+  },
+  "email-sent-view": {
+    "message": "{email} will soon receive the policy",
+    "title": "Policy Successfully Submitted",
+    "view-policy": "View Policy"
+  },
+  "footer": {
+    "sign": "SEND FOR SIGNATURE"
+  },
+  "header": {
+    "download": "Download",
+    "exit": "Exit",
+    "main-title": "Quote nº {number}"
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "activity": [
+    {
+      "month": "Enero",
+      "total": 249000,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 60032,
+          "payDate": "2021-01-04T05:00:00.000Z",
+          "id": "e6f85438"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 38500,
+          "payDate": "2021-01-07T05:00:00.000Z",
+          "id": "615329bc"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 80324,
+          "payDate": "2021-01-24T05:00:00.000Z",
+          "id": "b4af8cd7"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 20214,
+          "payDate": "2021-01-26T05:00:00.000Z",
+          "id": "2d66348d"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 49930,
+          "payDate": "2021-01-23T05:00:00.000Z",
+          "id": "2e2eac7e"
+        }
+      ]
+    },
+    {
+      "month": "Febrero",
+      "total": 278197,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 7114,
+          "payDate": "2021-02-06T05:00:00.000Z",
+          "id": "d7560691"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 94219,
+          "payDate": "2021-03-02T05:00:00.000Z",
+          "id": "e8538a98"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 43921,
+          "payDate": "2021-02-14T05:00:00.000Z",
+          "id": "1419a395"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 98611,
+          "payDate": "2021-02-06T05:00:00.000Z",
+          "id": "f482cb3e"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 34332,
+          "payDate": "2021-02-16T05:00:00.000Z",
+          "id": "330483e1"
+        }
+      ]
+    },
+    {
+      "month": "Marzo",
+      "total": 177314,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 78803,
+          "payDate": "2021-03-21T05:00:00.000Z",
+          "id": "07d9060d"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 2574,
+          "payDate": "2021-03-07T05:00:00.000Z",
+          "id": "9e0f2d86"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 65287,
+          "payDate": "2021-03-03T05:00:00.000Z",
+          "id": "fdc976fd"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 28770,
+          "payDate": "2021-03-14T05:00:00.000Z",
+          "id": "5dc3bed3"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 1880,
+          "payDate": "2021-03-12T05:00:00.000Z",
+          "id": "b5af96fc"
+        }
+      ]
+    },
+    {
+      "month": "Abril",
+      "total": 267019,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 89253,
+          "payDate": "2021-04-17T05:00:00.000Z",
+          "id": "f31448b9"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 45980,
+          "payDate": "2021-04-08T05:00:00.000Z",
+          "id": "8e8322c1"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 95470,
+          "payDate": null,
+          "id": "9b9bd222"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 9450,
+          "payDate": "2021-04-22T05:00:00.000Z",
+          "id": "105eaf04"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 26866,
+          "payDate": "2021-04-01T05:00:00.000Z",
+          "id": "f584d573"
+        }
+      ]
+    },
+    {
+      "month": "Mayo",
+      "total": 243832,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 42985,
+          "payDate": null,
+          "id": "12b8e8a7"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 92129,
+          "payDate": "2021-05-22T05:00:00.000Z",
+          "id": "a9d22480"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 8145,
+          "payDate": "2021-05-16T05:00:00.000Z",
+          "id": "763e50d8"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 50831,
+          "payDate": "2021-05-26T05:00:00.000Z",
+          "id": "03e33a13"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 49742,
+          "payDate": "2021-05-25T05:00:00.000Z",
+          "id": "0df664a3"
+        }
+      ]
+    },
+    {
+      "month": "Junio",
+      "total": 270137,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 9900,
+          "payDate": "2021-06-14T05:00:00.000Z",
+          "id": "38844e27"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 83602,
+          "payDate": "2021-06-22T05:00:00.000Z",
+          "id": "f6f791dd"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 888,
+          "payDate": "2021-06-23T05:00:00.000Z",
+          "id": "fe6efb90"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 77334,
+          "payDate": "2021-06-08T05:00:00.000Z",
+          "id": "91be295e"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 98413,
+          "payDate": "2021-06-16T05:00:00.000Z",
+          "id": "164a58d6"
+        }
+      ]
+    },
+    {
+      "month": "Julio",
+      "total": 265373,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 88001,
+          "payDate": "2021-07-05T05:00:00.000Z",
+          "id": "7f98cd41"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 10729,
+          "payDate": "2021-07-09T05:00:00.000Z",
+          "id": "904ed66f"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 38331,
+          "payDate": "2021-07-11T05:00:00.000Z",
+          "id": "74ed39a0"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 83351,
+          "payDate": "2021-07-14T05:00:00.000Z",
+          "id": "9ea97240"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 44961,
+          "payDate": "2021-07-12T05:00:00.000Z",
+          "id": "14ccbd4d"
+        }
+      ]
+    },
+    {
+      "month": "Agosto",
+      "total": 130010,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 3786,
+          "payDate": "2021-08-25T05:00:00.000Z",
+          "id": "906456cf"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 2557,
+          "payDate": "2021-08-08T05:00:00.000Z",
+          "id": "222b987b"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 30717,
+          "payDate": "2021-08-21T05:00:00.000Z",
+          "id": "036d4c21"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 78178,
+          "payDate": "2021-08-20T05:00:00.000Z",
+          "id": "20b74b9b"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 14772,
+          "payDate": "2021-08-19T05:00:00.000Z",
+          "id": "1499a66e"
+        }
+      ]
+    },
+    {
+      "month": "Septiembre",
+      "total": 186808,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 27602,
+          "payDate": "2021-09-13T05:00:00.000Z",
+          "id": "8488763b"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 66431,
+          "payDate": "2021-09-18T05:00:00.000Z",
+          "id": "84618fb2"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 5287,
+          "payDate": "2021-09-17T05:00:00.000Z",
+          "id": "bc64b59b"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 59882,
+          "payDate": null,
+          "id": "6bdadced"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 27606,
+          "payDate": null,
+          "id": "50f38df0"
+        }
+      ]
+    },
+    {
+      "month": "Octubre",
+      "total": 317913,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 26197,
+          "payDate": "2021-10-29T05:00:00.000Z",
+          "id": "a7320008"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 7522,
+          "payDate": "2021-10-06T05:00:00.000Z",
+          "id": "7040ab60"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 99093,
+          "payDate": "2021-10-16T05:00:00.000Z",
+          "id": "db784a20"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 89762,
+          "payDate": "2021-10-17T05:00:00.000Z",
+          "id": "184a6613"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 95339,
+          "payDate": "2021-10-28T05:00:00.000Z",
+          "id": "f57a0bbd"
+        }
+      ]
+    },
+    {
+      "month": "Noviembre",
+      "total": 303368,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 93162,
+          "payDate": "2021-11-02T05:00:00.000Z",
+          "id": "62a57059"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 69391,
+          "payDate": "2021-11-29T05:00:00.000Z",
+          "id": "ab5bae48"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 24046,
+          "payDate": "2021-11-14T05:00:00.000Z",
+          "id": "c8cc783c"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 84700,
+          "payDate": "2021-11-27T05:00:00.000Z",
+          "id": "9b7eada9"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 32069,
+          "payDate": "2021-11-26T05:00:00.000Z",
+          "id": "709fb7e0"
+        }
+      ]
+    },
+    {
+      "month": "Diciembre",
+      "total": 304848,
+      "payments": [
+        {
+          "company": "Enel",
+          "department": "Dept. electricidad",
+          "amount": 53120,
+          "payDate": "2021-12-28T05:00:00.000Z",
+          "id": "a2afac11"
+        },
+        {
+          "company": "Movistar",
+          "department": "Dept wifi",
+          "amount": 95174,
+          "payDate": "2021-12-02T05:00:00.000Z",
+          "id": "e9eed581"
+        },
+        {
+          "company": "Aguas Andina",
+          "department": "Dept de agua",
+          "amount": 68469,
+          "payDate": "2021-12-26T05:00:00.000Z",
+          "id": "7941668f"
+        },
+        {
+          "company": "Consorcio",
+          "department": "Seguros de carro",
+          "amount": 74862,
+          "payDate": "2021-12-14T05:00:00.000Z",
+          "id": "23e04b79"
+        },
+        {
+          "company": "Vanti",
+          "department": "Dept de gas",
+          "amount": 13223,
+          "payDate": "2021-12-21T05:00:00.000Z",
+          "id": "5360e7c4"
+        }
+      ]
+    }
+  ],
+  "averages" : [
+    {
+      "company": "Enel",
+      "average": "48125"
+    },
+    {
+      "company": "Movistar",
+      "average": "50000"
+    },
+    {
+      "company": "Aguas Andina",
+      "average": "32108"
+    },
+    {
+      "company": "Consorcio",
+      "average": "20000"
+    },
+    {
+      "company": "Gas compnay",
+      "average": "10200"
+    }
+  ]
+}

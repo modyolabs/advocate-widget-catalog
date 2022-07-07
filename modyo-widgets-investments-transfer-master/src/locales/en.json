@@ -1,0 +1,35 @@
+{
+  "account-list": {
+    "account-class": {
+      "bank-abbr": "B",
+      "investment-abbr": "I"
+    },
+    "balance": "Balance",
+    "no-account-msg": "No bank account registered",
+    "no-currency-msg": "No bank account registered"
+  },
+  "commons": {
+    "amount": "Amount",
+    "from": "From",
+    "to": "To",
+    "loading": "Loading",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show"
+  },
+  "main": {
+    "remaining-balance": "Remaining Balance",
+    "title": "Transfer betweeen accounts",
+    "transfer-btn": "Transfer",
+    "transfer-from": "From",
+    "transfer-to": "To"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "commons": {
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "account": {
+    "available-balance": "Available balance",
+    "balance": "Balance",
+    "checking-account-abbr": "CC",
+    "destination-account": "Destination account",
+    "from": "From",
+    "new-balance": "Balance....",
+    "origin-account": "Origin account",
+    "remaining-balance": "Remaining balance",
+    "savings-account-abbr": "SAV",
+    "type": {
+      "checking": "Checking Account",
+      "savings": "Savings Account"
+    }
+  },
+  "actions": {
+    "back-to-transfers": "Back to Transfers",
+    "cancel-button": "Cancel",
+    "contacts": "My Contacts",
+    "continue": "Continue",
+    "new-contact": "New Contact",
+    "search": "Search...",
+    "to-others": "To third parties",
+    "to-own": "Between my accounts",
+    "transfer-button": "Transfer"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "PPPP 'at' pp",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    },
+    "frequency-list": {
+      "monthly": "Monthly",
+      "one-time": "One time",
+      "quarterly": "Quarterly",
+      "twice-a-month": "Twice a month",
+      "twice-a-year": "Twice a year",
+      "weekly": "Weekly"
+    },
+    "schedule-transfer": "Schedule transfer?",
+    "select-frequency": "Select frequency"
+  },
+  "new-contact": {
+    "account-number": "Account number",
+    "account-type": "Account type",
+    "bank": "Bank",
+    "email": "Email",
+    "fullname": "Full name",
+    "payee-id": "ID",
+    "select-bank": "Select bank"
+  },
+  "transfer": {
+    "amount": "Amount",
+    "minimum-transfer-msg": "*The transfer amount cannot be less than {0}",
+    "title": "Amount",
+    "to": " Transfer to"
+  },
+  "transfer-confirm": {
+    "input": {
+      "password": "password"
+    },
+    "title": "Enter your password"
+  },
+  "transfer-summary": {
+    "bank": "Bank",
+    "confirm-title": "Transfer summary",
+    "name": "Name",
+    "voucher-title": "Transfer voucher"
+  },
+  "transfer-voucher": {
+    "success": "Transfer successful",
+    "to": "to",
+    "transaction-number": "Transaction number"
+  }
+}

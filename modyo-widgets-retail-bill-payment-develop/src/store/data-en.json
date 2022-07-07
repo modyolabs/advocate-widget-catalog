@@ -1,0 +1,101 @@
+{
+  "companies": {
+    "Water": [
+      {
+        "name": "Company Water 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Water 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Water 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Transportation": [
+      {
+        "name": "Company Transportation 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Transportation 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Transportation 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Highways": [
+      {
+        "name": "Company Highways 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Highways 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Highways 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Education": [
+      {
+        "name": "Company Education 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Education 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Education 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Default": [
+      {
+        "name": "Company Default 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Default 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Company Default 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ]
+  },
+  "billCategories" : [
+    { "icon": "tint", "name": "Water", "code": 1 },
+    { "icon": "car", "name": "Transportation", "code": 2 },
+    { "icon": "road", "name": "Highways", "code": 3 },
+    { "icon": "school", "name": "Education", "code": 4 },
+    { "icon": "file-invoice", "name": "Contributions", "code": 5 },
+    { "icon": "bolt", "name": "Electricity", "code": 6 },
+    { "icon": "gas-pump", "name": "Gas", "code": 7 },
+    { "icon": "building", "name": "Real-estate", "code": 8 },
+    { "icon": "hospital", "name": "Institute", "code": 9 },
+    { "icon": "shield-alt", "name": "Insurance", "code": 10 }
+  ]
+}

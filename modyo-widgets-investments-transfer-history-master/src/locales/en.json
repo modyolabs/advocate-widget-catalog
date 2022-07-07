@@ -1,0 +1,34 @@
+{
+  "commons": {
+    "amount": "Amount",
+    "date": "Date",
+    "description": "Description",
+    "from": "From",
+    "to": "To",
+    "loading": "Loading",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show"
+  },
+  "main": {
+    "transfer-type": "Transfer type",
+    "filters": {
+      "all": "All",
+      "payments": "Payments",
+      "transfers": "Transfers"
+    },
+    "no-movements": "No movements",
+    "title": "Transfers and deposits"
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MM-dd-yyyy",
+      "short": "MM-DD-YYYY",
+      "this-month": "This month",
+      "range": "Date range"
+    }
+  }
+}

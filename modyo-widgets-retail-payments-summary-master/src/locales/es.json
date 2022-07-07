@@ -1,0 +1,37 @@
+{
+  "payments": {
+    "summary": "Resumen de pagos",
+    "add-bill": "Añadir cuenta",
+    "pay-bill": "Pagar cuenta"
+  },
+  "recent-payments": {
+    "title": "Pagos Recientes",
+    "amount": "Monto",
+    "date": "Fecha"
+  },
+  "upcoming-payments": {
+    "title": "Pagos Próximos"
+  },
+  "activity": {
+    "title": "Actividad",
+    "last-pay": "Ultimo pago",
+    "average": "Promedio",
+    "pay-day": "Día de pago",
+    "amount": "Monto"
+  },
+  "currency": {
+    "format": {
+      "symbol": "$",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "decimal": ","
+    }
+  },
+  "ranges": {
+    "last-3-months": "Ultimos 3 meses",
+    "last-6-months": "Ultimos 6 meses",
+    "last-9-months": "Ultimos 9 meses",
+    "last-12-months": "Ultimos 12 meses"
+  }
+}

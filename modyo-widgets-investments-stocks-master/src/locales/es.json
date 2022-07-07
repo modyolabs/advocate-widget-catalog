@@ -1,0 +1,95 @@
+{
+  "commons": {
+    "account": "Cuenta",
+    "all": "Todos",
+    "amount": "Monto",
+    "back-btn": "Volver",
+    "cancel-btn": "Cancelar",
+    "cash-balance": "Saldo en caja",
+    "confirm": "Confirmar",
+    "finish-btn": "Terminar",
+    "name": "Nombre",
+    "next-btn": "Siguiente",
+    "only-today": "Solo por hoy",
+    "price": "Precio",
+    "price-per-stock": "Precio por accion",
+    "purchase": "Compra",
+    "quantity": "Cantidad",
+    "sale": "Venta",
+    "search": "Buscar",
+    "select-account": "Seleccionar cuenta",
+    "total-amount": "Monto total",
+    "type": "Tipo",
+    "until": "Hasta el",
+    "validity": "Vigencia",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "main": {
+    "mutual-funds-link": "Fondos Mutuos",
+    "title": "Acciones"
+  },
+  "stock-details": {
+    "closing-peak": "Punta cierre",
+    "graph": {
+      "filter": {
+        "days": "1 día | {n} días",
+        "months": "1 mes | {n} meses",
+        "years": "1 año | {n} años"
+      }
+    },
+    "graph-btn": "Gráfico",
+    "info": "Info",
+    "last-day-values-msg": "Valores al cierre día anterior",
+    "last-price": "Ult. precio",
+    "max": "Max",
+    "min": "Min",
+    "selling-peak": "Punta venta",
+    "subtitle": "Selecciona una accion para visualizar su información",
+    "title": "Acciones",
+    "traded-stocks": "Acciones transadas",
+    "variation": "Var %"
+  },
+  "stock-list": {
+    "my-stock-lbl": "Mis acciones",
+    "variation-tooltip": "Variación precio mes anterior"
+  },
+  "stock-sell": {
+    "select-to-account": "Seleccionar cuenta destino",
+    "stocks": "Acciones"
+  },
+  "stocks-buy": {
+    "buy-btn": "Comprar",
+    "max-price-per-stock": "Precio máximo por acción",
+    "success-msg": "Orden enviada exitosamente.",
+    "title": "Comprar",
+    "options": {
+      "per-stocks": "Por acciones",
+      "per-amount": "Por monto"
+    }
+  },
+  "stocks-sell": {
+    "fund": "Fondo",
+    "investment-account": "Cuenta de inversión",
+    "minimum-price-per-stock": "Precio mínimo por acción",
+    "select-account": "Seleccionar cuenta inversión",
+    "sell-btn": "Vender",
+    "success-msg": "Orden enviada exitosamente.",
+    "title": "Venta",
+    "to-account": "Cuenta de destino",
+    "options": {
+      "per-stocks": "Por acciones",
+      "per-amount": "Por monto"
+    }
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  }
+}

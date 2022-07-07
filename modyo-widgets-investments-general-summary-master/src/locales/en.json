@@ -1,0 +1,43 @@
+{
+  "commons": {
+    "amount": "Amount",
+    "percentage": "Percentage",
+    "percentage-abbr": "Pct. (%)",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show"
+  },
+  "investment-evolution": {
+    "year": "Year",
+    "month": "Month",
+    "filter": {
+      "montly": "Monthly",
+      "yearly": "Annual"
+    },
+    "title": "Investment Growth"
+  },
+  "main": {
+    "back-to-resume-btn": "Back",
+    "summary-tabs": {
+      "per-currency": "By currency",
+      "per-group": "By account",
+      "per-product": "By position"
+    },
+    "title": "General Summary",
+    "total-legacy-lbl": "Total Assets",
+    "view-investment-evolution-btn": "See investment growth"
+  },
+  "months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "account": {
+    "available": "Available Balance",
+    "charges": "Withdrawals",
+    "deposits": "Deposits",
+    "limit": "Limit",
+    "message": "You are pre-approved for a credit up to $",
+    "pay": "Pay",
+    "transfer": "Transfer",
+    "view-transactions": "View Transactions"
+  },
+  "commons": {
+    "download": "Download",
+    "search": "Search",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM dd, yyyy",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    }
+  },
+  "transaction-item": {
+    "amount": "Amount",
+    "balance": "Balance",
+    "details": "Transaction Details",
+    "number": "Transaction Nº",
+    "product": "Product"
+  },
+  "transactions-list": {
+    "empty": "No recent transactions",
+    "filters": {
+      "all": "All",
+      "income": "Deposit",
+      "outgoing": "Withdrawal"
+    },
+    "select-period": "Select Period",
+    "statements": "Statements",
+    "transactions": "Transactions"
+  }
+}

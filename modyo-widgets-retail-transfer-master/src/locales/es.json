@@ -1,0 +1,95 @@
+{
+  "commons": {
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "account": {
+    "available-balance": "Saldo disponible",
+    "balance": "Saldo",
+    "checking-account-abbr": "CC",
+    "destination-account": "Cuenta de Destino",
+    "from": "Desde",
+    "new-balance": "Saldo",
+    "origin-account": "Cuenta de Origen",
+    "remaining-balance": "Saldo restante",
+    "savings-account-abbr": "CV",
+    "type": {
+      "checking": "Cuenta Corriente",
+      "savings": "Cuenta Vista"
+    }
+  },
+  "actions": {
+    "back-to-transfers": "Volver a Transferencias",
+    "cancel-button": "Cancelar",
+    "contacts": "Mis contactos",
+    "continue": "Continuar",
+    "new-contact": "Nuevo contacto",
+    "search": "Buscar...",
+    "to-others": "A terceros",
+    "to-own": "Entre mis cuentas",
+    "transfer-button": "Transferir"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "PPPP 'a las' pp",
+      "short": "DD/MM/YYYY",
+      "this-month": "Este mes"
+    },
+    "frequency-list": {
+      "monthly": "Mensual",
+      "one-time": "Una vez",
+      "quarterly": "Trimestral",
+      "twice-a-month": "Quincenal",
+      "twice-a-year": "Semestral",
+      "weekly": "Semanal"
+    },
+    "schedule-transfer": "¿Programar transferencia",
+    "select-frequency": "Seleccionar frecuencia"
+  },
+  "new-contact": {
+    "account-number": "Nº de cuenta",
+    "account-type": "Tipo de Cuenta",
+    "bank": "Banco",
+    "email": "Correo",
+    "fullname": "Nombre Completo",
+    "payee-id": "Rut",
+    "select-bank": "Seleccione el Banco"
+  },
+  "transfer": {
+    "amount": "Monto",
+    "minimum-transfer-msg": "*El monto a transferir no puede ser inferior a {0}",
+    "title": "Monto",
+    "to": " Transferir a"
+  },
+  "transfer-confirm": {
+    "input": {
+      "password": "clave"
+    },
+    "title": "Ingresa tu Clave Internet"
+  },
+  "transfer-summary": {
+    "bank": "Banco",
+    "confirm-title": "Resumen de transferencia",
+    "name": "Nombre",
+    "voucher-title": "Comprobante de transferencia"
+  },
+  "transfer-voucher": {
+    "success": "Transferencia Exitosa",
+    "to": "Hacia",
+    "transaction-number": "Numero de transacción"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "commons": {
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "main": {
+    "bank-initial": "B",
+    "choose-payment-type": "Método de abono",
+    "deposit_amount": "Monto",
+    "deposit_to": "Cuenta de destino",
+    "investment-initial": "I",
+    "pay": "Abonar",
+    "title": "Abonar",
+    "continue": "Continuar",
+    "back": "Volver"
+  },
+  "accounts-slider": {
+    "available-balance": "Saldo disponible"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "payments": {
+    "summary": "Payments summary",
+    "add-bill": "Add bill",
+    "pay-bill": "Pay bill"
+  },
+  "recent-payments": {
+    "title": "Recent Payments",
+    "amount": "Amount",
+    "date": "Date"
+  },
+  "upcoming-payments": {
+    "title": "Upcoming Payments"
+  },
+  "activity": {
+    "title": "Activity",
+    "last-pay": "Last Pay",
+    "average": "Average",
+    "pay-day": "Pay Day",
+    "amount": "Amount"
+  },
+  "currency": {
+    "format": {
+      "symbol": "$",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ",",
+      "decimal": "."
+    }
+  },
+  "ranges": {
+    "last-3-months": "Last 3 months",
+    "last-6-months": "Last 6 months",
+    "last-9-months": "Last 9 months",
+    "last-12-months": "Last 12 months"
+  }
+}

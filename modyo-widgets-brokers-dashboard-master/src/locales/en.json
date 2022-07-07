@@ -1,0 +1,75 @@
+{
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM DD, YYYY",
+      "range": "Date range",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    }
+  },
+  "filter-by": {
+    "date": "Filter by date",
+    "filter-action": "Apply",
+    "icon-legend": "Filter",
+    "remove-filters": "Remove filters",
+    "status": "Filter by status"
+  },
+  "quote": {
+    "actions": {
+      "edit-quote": "Edit",
+      "issue-policy": "Issue policy",
+      "see-quote": "See details"
+    },
+    "headers": {
+      "actions": "Actions",
+      "brokerId": "Policyholder ID",
+      "brokerName": "Policyholder's name",
+      "modificationDate": "Last modification",
+      "quoteId": "Quote number",
+      "status": "Status",
+      "totalCost": "Prime plus taxes"
+    },
+    "status": {
+      "all": "All",
+      "approved": "Approved",
+      "draft": "Draft",
+      "expired": "Expired",
+      "preEmission": "Pre-emission"
+    }
+  },
+  "search-by": {
+    "broker-id": "Policyholder ID",
+    "broker-name": "Policyholder's name",
+    "clean-btn": "Clear search",
+    "quote-id": "Quote number",
+    "search-btn": "Search",
+    "step-one": "Please choose your search criteria",
+    "step-two": "Enter the {option}",
+    "title": "Search for quote"
+  },
+  "sort-by": {
+    "name-a-z": "Name from A-Z",
+    "name-z-a": "Name from Z-A",
+    "newest": "Newer",
+    "oldest": "Oldest"
+  },
+  "tabs": {
+    "actions": "New quote",
+    "policies": "Policies",
+    "quotes": "Quotes",
+    "renovations": "Renovations"
+  }
+}

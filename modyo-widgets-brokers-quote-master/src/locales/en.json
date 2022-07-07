@@ -1,0 +1,237 @@
+﻿{
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "form-builder": {
+    "rutCheckDigit": "Check Digit"
+  },
+  "quote": {
+    "amount-to-be-paid": "Amount to be paid",
+    "generate": "Generate Quote",
+    "ref-number": "Quote nº {n}",
+    "step1": {
+      "administration": {
+        "document-type": "Document Type",
+        "id": "Administration ID",
+        "name": "Social Reason or Administrator Name"
+      },
+      "administration-data": "Management Firm Data",
+      "building": {
+        "floors": "Number of Floors",
+        "units": "Number of Units",
+        "year": "Year of Construction"
+      },
+      "building-data": "Construction Features",
+      "location": {
+        "city": "City",
+        "country": "Country",
+        "region": "Region",
+        "street": "Street",
+        "zip": "ZIP Code"
+      },
+      "location-data": "Location Data",
+      "owner": {
+        "email": "Email Address",
+        "id": "Owner ID",
+        "social-reason": "Social Reason"
+      },
+      "title": "Property Data"
+    },
+    "step2": {
+      "insured-values": {
+        "insured-values-data": "Detail of Insured Property Values",
+        "values": {
+          "art": "Art Treasures Value",
+          "common-area": "Common Area Value",
+          "electronic-equipment": "Electronic Equipment Value",
+          "foundation": "Foundations Value",
+          "furniture-and-fixtures": "Furniture and Equipment Value",
+          "machines-and-equipment": "Machinery and Equipment Value",
+          "money-and-securities": "Money and Securities Value",
+          "private-area": "Private Area (Optional) Value",
+          "total": "Total Insured Amount"
+        }
+      },
+      "title": "Insured Securities"
+    },
+    "step3": {
+      "title": "Simulation Overview"
+    }
+  },
+  "stepper": {
+    "exit": "Exit",
+    "finish": "Finish",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save"
+  },
+  "countries": ["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua & Barbuda","Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas"
+		,"Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia & Herzegovina","Botswana","Brazil","British Virgin Islands"
+		,"Brunei","Bulgaria","Burkina Faso","Burundi","Cambodia","Cameroon","Cape Verde","Cayman Islands","Chad","Chile","China","Colombia","Congo","Cook Islands","Costa Rica"
+		,"Cote D Ivoire","Croatia","Cruise Ship","Cuba","Cyprus","Czech Republic","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea"
+		,"Estonia","Ethiopia","Falkland Islands","Faroe Islands","Fiji","Finland","France","French Polynesia","French West Indies","Gabon","Gambia","Georgia","Germany","Ghana"
+		,"Gibraltar","Greece","Greenland","Grenada","Guam","Guatemala","Guernsey","Guinea","Guinea Bissau","Guyana","Haiti","Honduras","Hong Kong","Hungary","Iceland","India"
+		,"Indonesia","Iran","Iraq","Ireland","Isle of Man","Israel","Italy","Jamaica","Japan","Jersey","Jordan","Kazakhstan","Kenya","Kuwait","Kyrgyz Republic","Laos","Latvia"
+		,"Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macau","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Mauritania"
+		,"Mauritius","Mexico","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Namibia","Nepal","Netherlands","Netherlands Antilles","New Caledonia"
+		,"New Zealand","Nicaragua","Niger","Nigeria","Norway","Oman","Pakistan","Palestine","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal"
+		,"Puerto Rico","Qatar","Reunion","Romania","Russia","Rwanda","Saint Pierre & Miquelon","Samoa","San Marino","Satellite","Saudi Arabia","Senegal","Serbia","Seychelles"
+		,"Sierra Leone","Singapore","Slovakia","Slovenia","South Africa","South Korea","Spain","Sri Lanka","St Kitts & Nevis","St Lucia","St Vincent","St. Lucia","Sudan"
+		,"Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor L'Este","Togo","Tonga","Trinidad & Tobago","Tunisia"
+		,"Turkey","Turkmenistan","Turks & Caicos","Uganda","Ukraine","United Arab Emirates","United Kingdom","Uruguay","Uzbekistan","Venezuela","Vietnam","Virgin Islands (US)"
+		,"Yemen","Zambia","Zimbabwe"],
+  "_quote-data": {
+    "agreements": [
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 1"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 2"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 3"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 4"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 5"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 6"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 7"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 8"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediary"
+      },
+      {
+        "description": "856347",
+        "label": "Intermediary Key"
+      },
+      {
+        "description": "COPROPERTIES",
+        "label": "Product"
+      },
+      {
+        "description": "Coproperty 100",
+        "label": "Name of the Holder"
+      },
+      {
+        "description": "New York",
+        "label": "City"
+      },
+      {
+        "description": "50 W 106th St, New York, NY 10025",
+        "label": "Property Address"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Validity of the Offer"
+      }
+    ],
+    "table": {
+      "body": [
+        [
+          "Property",
+          11990,
+          10000
+        ],
+        [
+          "Civil Liability",
+          11990,
+          10000
+        ],
+        [
+          "Management",
+          11990,
+          10000
+        ],
+        [
+          "Directors and Administrators",
+          11990,
+          10000
+        ],
+        [
+          "Personal Accidents",
+          11990,
+          10000
+        ],
+        [
+          "Assistance",
+          11990,
+          10000
+        ],
+        [
+          "Issuing Costs",
+          11990,
+          10000
+        ],
+        [
+          "Totals",
+          11990,
+          10000
+        ],
+        [
+          "Commission (15%)",
+          11990,
+          10000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Premium wit VAT"
+        },
+        {
+          "align": "right",
+          "name": "Premium"
+        }
+      ]
+    }
+  },
+  "body": {
+    "agreements-title": "Hedges and Deductibles",
+    "premium-increase": "Premium Increase",
+    "quote-title": "Your Quote Summary",
+    "status": {
+      "quoted": "Quoted"
+    },
+    "title-mobile": "Summary"
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "_policy-data": {
+    "agreements": [
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 1"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 2"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 3"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 4"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 5"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 6"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 7"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 8"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "0029476",
+        "label": "Nº de Póliza"
+      },
+      {
+        "description": "11/09/2019",
+        "label": "Fecha de Creación"
+      },
+      {
+        "description": "11/09/2019",
+        "label": "Fecha Fin de Vigencia"
+      },
+      {
+        "description": "COPROPIEDADES",
+        "label": "Producto"
+      },
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediario"
+      },
+      {
+        "description": "856347",
+        "label": "Clave Intermediario"
+      },
+      {
+        "description": "Copropiedad 100",
+        "label": "Nombre Tomador"
+      },
+      {
+        "description": "Santiago",
+        "label": "Ciudad"
+      },
+      {
+        "description": "Carrera 13A 106A - 20",
+        "label": "Dirección de la Propiedad"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Fecha de Creación"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Última Modificación"
+      }
+    ],
+    "historical-table": {
+      "body": [
+        [
+          "Cotizacion",
+          1,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Póliza Nueva",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Póliza Cancelada",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Endoso",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Endoso",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Endoso",
+          4,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Renovación",
+          2,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Invitación de Renovación",
+          3,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Invitación de Renovación",
+          5,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ],
+        [
+          "Invitación de Renovación",
+          6,
+          "16/09/2016",
+          "16/09/2016",
+          10000000
+        ]
+      ],
+      "header": [
+        {
+          "name": "Movimiento"
+        },
+        {
+          "name": "Estado"
+        },
+        {
+          "align": "center",
+          "name": "Fecha de Creación"
+        },
+        {
+          "align": "center",
+          "name": "Fecha de Vigencia"
+        },
+        {
+          "align": "right",
+          "name": "Prima"
+        }
+      ]
+    },
+    "table": {
+      "body": [
+        [
+          "Propiedad",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Responsabilidad Civil",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Manejo",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Directores y Administradores",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Accidentes Personales",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Asistencia",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Gastos por Emisión",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Totales",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Comisión (15%)",
+          11990000,
+          10000000,
+          10000000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Prima con IVA"
+        },
+        {
+          "align": "right",
+          "name": "Prima"
+        },
+        {
+          "align": "right",
+          "name": "Impuestos"
+        }
+      ]
+    }
+  },
+  "_quote-data": {
+    "agreements": [
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 1"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 2"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 3"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 4"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 5"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 6"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 7"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 8"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "0029476",
+        "label": "Nº de Cotización"
+      },
+      {
+        "description": "11/09/2019",
+        "label": "Fecha de Creación"
+      },
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediario"
+      },
+      {
+        "description": "856347",
+        "label": "Clave Intermediario"
+      },
+      {
+        "description": "COPROPIEDADES",
+        "label": "Producto"
+      },
+      {
+        "description": "Copropiedad 100",
+        "label": "Nombre Tomador"
+      },
+      {
+        "description": "Santiago",
+        "label": "Ciudad"
+      },
+      {
+        "description": "Carrera 13A 106A - 20",
+        "label": "Dirección de la Propiedad"
+      },
+      {
+        "description": "24/07/2019",
+        "label": "Validez de la Oferta"
+      }
+    ],
+    "table": {
+      "body": [
+        [
+          "Propiedad",
+          11990000,
+          10000000
+        ],
+        [
+          "Responsabilidad Civil",
+          11990000,
+          10000000
+        ],
+        [
+          "Manejo",
+          11990000,
+          10000000
+        ],
+        [
+          "Directores y Administradores",
+          11990000,
+          10000000
+        ],
+        [
+          "Accidentes Personales",
+          11990000,
+          10000000
+        ],
+        [
+          "Asistencia",
+          11990000,
+          10000000
+        ],
+        [
+          "Gastos por Emisión",
+          11990000,
+          10000000
+        ],
+        [
+          "Totales",
+          11990000,
+          10000000
+        ],
+        [
+          "Comisión (15%)",
+          11990000,
+          10000000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Prima con IVA"
+        },
+        {
+          "align": "right",
+          "name": "Prima"
+        }
+      ]
+    }
+  },
+  "body": {
+    "agreements-title": "Coberturas y Deductibles",
+    "btn-go-to-historical-table": "Ir al Histórico",
+    "historical-table": "Histórico de Póliza",
+    "policy-title": "Resumen de tu Póliza",
+    "premium-increase": "Incremento de Prima",
+    "quote-title": "Resumen de tu Cotización",
+    "status": {
+      "accepted": "Aceptada",
+      "confirmed": "Confirmada",
+      "issued": "Emitida",
+      "on-revision": "En Revisión",
+      "refused": "Rechazada",
+      "sent": "Enviada",
+      "valid": "Vigente",
+      "quoted": "Cotizada"
+    },
+    "title-mobile": "Resumen"
+  },
+  "commons": {
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "email-modal": {
+    "input-placeholder": "Correo",
+    "send": "Enviar",
+    "sending-email-state": "Enviando",
+    "title": "Ingresa el correo para enviarle la firma"
+  },
+  "email-sent-view": {
+    "message": "{email} recibirá pronto su póliza",
+    "title": "Póliza Enviada con Éxito",
+    "view-policy": "Ver Póliza"
+  },
+  "footer": {
+    "sign": "ENVIAR PARA FIRMAR"
+  },
+  "header": {
+    "download": "Descargar",
+    "exit": "Salir",
+    "main-title": "Cotización nº {number}"
+  }
+}

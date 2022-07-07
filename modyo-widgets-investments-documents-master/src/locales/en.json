@@ -1,0 +1,88 @@
+{
+  "certificates": {
+    "tax-certificates": {
+      "title": "Tax certificates"
+    }
+  },
+  "commons": {
+    "all": "All",
+    "amount": "Amount",
+    "date": "Date",
+    "download": "Download",
+    "name": "Name",
+    "no-documents-on-period": "There are no documents for the selected dates",
+    "number_abbr": "Nº",
+    "price": "Price",
+    "purchases": "Purchases",
+    "quantity": "Quantity",
+    "sales": "Sales",
+    "sheet": "Nº",
+    "type": "Type",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "date": {
+    "format": {
+      "date": "MMM DD, YYYY",
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "month": "MMMM YYYY",
+      "range": "Date range",
+      "this-month": "This month",
+      "year": "YYYY"
+    }
+  },
+  "documents": {
+    "invoices": {
+      "title": "Documents"
+    },
+    "legacy-statements": {
+      "item-lbl": "Consolidated financial statements",
+      "title": "Consolidated financial statements"
+    },
+    "orders-confirmation": {
+      "confirm-btn": "Confirm",
+      "confirmed": "Confirmed",
+      "filters": {
+        "all": "All",
+        "confirmed": "Confirmed",
+        "to-confirm": "Needs confirmation"
+      },
+      "title": "Order confirmation"
+    },
+    "orders-execution-report": {
+      "title": "Order execution report"
+    },
+    "signed-documents": {
+      "title": "Signed documents"
+    },
+    "unsigned-documents": {
+      "sign-btn": "Sign",
+      "sign-modal": {
+        "continue-btn": "Continue",
+        "terms-checkbox": "I have read the terms and conditions"
+      },
+      "title": "Unsigned documents"
+    }
+  },
+  "main": {
+    "certificate-types": {
+      "tax-certificates": "Tax certificates"
+    },
+    "certificates-lbl": "Certificates",
+    "document-types": {
+      "consolidated-legacy-statements": "Consolidated financial statements",
+      "invoices": "Invoices",
+      "orders-confirmation": "Order confirmation",
+      "orders-execution-report": "Order execution report",
+      "risk-table-per-product": "Product Risk Table",
+      "signed-documents": "Signed documents"
+    },
+    "documents-lbl": "Documents",
+    "title": "Documents & Certificates",
+    "unsigned-documents-lbl": "Unsigned Documents"
+  }
+}

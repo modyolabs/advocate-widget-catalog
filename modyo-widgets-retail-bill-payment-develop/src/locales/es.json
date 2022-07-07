@@ -1,0 +1,101 @@
+{
+  "commons": {
+    "back": "Volver",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando",
+    "accounts": "Cuentas"
+  },
+  "account": {
+    "add-title": "Agrega tus cuentas para poder pagar de forma simple a través de tu banco",
+    "client": "Cliente",
+    "client-number": "Número de cliente",
+    "alias": "Alias",
+    "category-placeholder": "Seleccione categoría",
+    "company-placeholder": "Seleccione empresa",
+    "transaction": "Cuenta Corriente"
+  },
+  "actions": {
+    "add-bill": "Agregar cuenta",
+    "add-account": "Add account",
+    "back-to-bills": "Volver a cuentas",
+    "cancel-button": "Cancelar",
+    "continue": "Continuar",
+    "edit-bill": "Editar cuenta",
+    "delete-bill": "Borrar cuenta",
+    "pay-button": "Pagar",
+    "pay-bill-button": "Pagar cuenta"
+  },
+  "bill": {
+    "client": "Cliente",
+    "history": {
+      "title": "Últimos pagos",
+      "date": "Fecha",
+      "amount": "Monto",
+      "operation": "ID Operación"
+    },
+    "schedule": "Programar esta transferencia?",
+    "resume": "Montos añadidos: ",
+    "total": "Total",
+    "pay-from": "Pagar desde",
+    "paid": "Sin deuda",
+    "auto-payment": "Pago automatico"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "PPPP 'a las' pp",
+      "short": "DD/MM/YYYY",
+      "this-month": "Este mes"
+    }
+  },
+  "payment": {
+    "end-date": "Fecha de fin",
+    "from": "Pagar desde",
+    "maximum": "Monto maximo",
+    "scheduled" : "{day} del mes",
+    "date": "Fecha de pago",
+    "amount": "Monto",
+    "chilean-currency": "Pesos Chilenos",
+    "exchange-type": "Tipo de Cambio",
+    "invoiced-amount-radio": "Pagar deuda facturada",
+    "lower-payment-msg": "*El saldo a pagar es inferior a la deuda facturada, es posible que se generen intereses adicionales.",
+    "minimum-amount-radio": "Pagar monto mínimo",
+    "minimum-payment": "Pago mínimo",
+    "minimum-payment-msg": "*El saldo a pagar no puede ser inferior al monto mínimo.",
+    "other-amount-radio": "Otro monto",
+    "title": "Monto a Pagar"
+  },
+  "payment-confirm": {
+    "password": "Clave",
+    "title": "Ingresa tu Clave de Internet"
+  },
+  "payment-voucher": {
+    "success": "Pago de factura exitoso",
+    "title": "Comprobante de Pago",
+    "transaction-number": "Numero de transacción",
+    "stub": "Pago de cuentas",
+    "from": "Desde",
+    "transaction-account": "Cuenta Corriente"
+  },
+  "tab": {
+    "bills": "Mis cuentas",
+    "add-bill": "Nueva Cuenta"
+  },
+  "selector": {
+    "credit-card": "Tarjeta de crédito",
+    "transaction-account": "Cuenta corriente"
+  }
+}

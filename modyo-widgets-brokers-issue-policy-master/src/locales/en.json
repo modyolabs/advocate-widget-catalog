@@ -1,0 +1,217 @@
+﻿{
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "issue-policy": {
+    "emit": "Issue Policy",
+    "step1": {
+      "title": "Valid Date",
+      "validity": {
+        "property-type": "Property Type",
+        "property-type-placeholder": "Choose the type of property",
+        "start-date": "Valid Starting Date",
+        "property-types-list": [
+          "Home",
+          "Department",
+          "Office",
+          "Business Premises",
+          "Site",
+          "Plot of Land",
+          "Warehouse",
+          "Parking",
+          "Studio",
+          "Loft",
+          "Land",
+          "Industrial Land",
+          "Agricultural Land",
+          "Forest Land"
+        ]
+      }
+    },
+    "step2": {
+      "confirmation-checkbox": "I accept the {0} stated in the document",
+      "confirmation-terms": "terms and conditions",
+      "title": "Confirmation"
+    }
+  },
+  "quote": {
+    "amount-to-be-paid": "Amount to be paid",
+    "generate": "Generate Quote",
+    "ref-number": "Quote nº {n}"
+  },
+  "stepper": {
+    "exit": "Exit",
+    "finish": "Finish",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save"
+  },
+  "_policy-data": {
+    "agreements": [
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 1"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 2"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 3"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 4"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 5"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 6"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Fire and Allies 7"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Household Appliances 8"
+      },
+      {
+        "description": "15% of loss; minimum 15 SMDLV",
+        "icon": "tint",
+        "label": "Flooding 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "11/09/2019",
+        "label": "Ending Date"
+      },
+      {
+        "description": "COPROPERTIES",
+        "label": "Product"
+      },
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediary"
+      },
+      {
+        "description": "856347",
+        "label": "Intermediary Key"
+      },
+      {
+        "description": "Coproperty 100",
+        "label": "Name of the Holder"
+      },
+      {
+        "description": "New York",
+        "label": "City"
+      },
+      {
+        "description": "50 W 106th St, New York, NY 10025",
+        "label": "Property Address"
+      }
+    ],
+    "table": {
+      "body": [
+        [
+          "Property",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Civil Liability",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Management",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Directors and Administrators",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Personal Accidents",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Assistance",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Issuing Costs",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Totals",
+          11990,
+          10000,
+          10000
+        ],
+        [
+          "Commission (15%)",
+          11990,
+          10000,
+          10000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Premium wit VAT"
+        },
+        {
+          "align": "right",
+          "name": "Premium"
+        },
+        {
+          "align": "right",
+          "name": "Taxes"
+        }
+      ]
+    }
+  },
+  "body": {
+    "agreements-title": "Hedges and Deductibles",
+    "btn-go-to-historical-table": "Go to History",
+    "historical-table": "Policy History",
+    "premium-increase": "Premium Increase",
+    "status": {
+      "valid": "Valid"
+    },
+    "title-mobile": "Summary"
+  }
+}

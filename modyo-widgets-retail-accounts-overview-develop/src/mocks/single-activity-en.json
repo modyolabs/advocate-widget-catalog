@@ -1,0 +1,952 @@
+[
+  {
+    "totalBudget": 4804.34,
+    "upcomingMovements": [
+      {
+        "id": "bfff8b37-2736-4849-99d8-135aaac7ac72",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "175.63",
+        "amountType": "in",
+        "business": "Bechtelar - Harber",
+        "name": "Auto Loan Account 8860",
+        "type": "deposit",
+        "account": "18719422"
+      }
+    ],
+    "trx": [
+      {
+        "id": "51542829-a55a-45e0-805f-f7edf450ff29",
+        "accountId": 0,
+        "name": "Home Loan Account 3063",
+        "description": "withdrawal transaction at Hodkiewicz - Fadel using card ending with ***8315 for SRD 463.74 in account ***67592270",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 34.24,
+        "concept": "payment",
+        "categoryId": 2,
+        "trxNumber": "3y2JCC48UBWi1bCgBnZc3UvLUM8h5tS"
+      },
+      {
+        "id": "8ed2cacc-cc16-4ada-9637-9260051a37b0",
+        "accountId": 0,
+        "name": "Checking Account 8694",
+        "description": "payment transaction at Heller, Trantow and Doyle using card ending with ***1432 for BOB 318.67 in account ***47216905",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 747.41,
+        "concept": "deposit",
+        "categoryId": 4,
+        "trxNumber": "3RHbXasp6WvqcTwE9pQpraMxho"
+      },
+      {
+        "id": "547dab8e-dc1e-430c-8501-d7f0e808c50a",
+        "accountId": 0,
+        "name": "Investment Account 8033",
+        "description": "deposit transaction at Metz - Spencer using card ending with ***8034 for XAF 121.34 in account ***86442856",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 287.6,
+        "concept": "invoice",
+        "categoryId": 1,
+        "trxNumber": "3uBmC1BaCa5vFkNsvZRhtVtc1Tsx5K2hY"
+      },
+      {
+        "id": "84a04647-cb06-4159-829e-3b489dab4b4e",
+        "accountId": 0,
+        "name": "Savings Account 5660",
+        "description": "withdrawal transaction at Willms, Kiehn and Jaskolski using card ending with ***0569 for MUR 145.98 in account ***67266761",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 101.47,
+        "concept": "payment",
+        "categoryId": 2,
+        "trxNumber": "1EVbk6C6zfh2NZoLkio2BhVquxx"
+      },
+      {
+        "id": "29b2abe8-3766-4197-9363-1aa7824de552",
+        "accountId": 0,
+        "name": "Credit Card Account 9071",
+        "description": "invoice transaction at Jerde - Walter using card ending with ***7224 for MVR 272.28 in account ***48761068",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 674.04,
+        "concept": "invoice",
+        "categoryId": 6,
+        "trxNumber": "1Rw3HEKArhhJReGoYKSB7eY1GFkSqg"
+      },
+      {
+        "id": "95a44d82-3ae5-43cc-911f-13e3a6c8678e",
+        "accountId": 0,
+        "name": "Home Loan Account 5589",
+        "description": "deposit transaction at Heller, Keebler and Willms using card ending with ***4080 for INR 97.95 in account ***00818726",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 122.75,
+        "concept": "withdrawal",
+        "categoryId": 4,
+        "trxNumber": "3Jin2CV85MWeRCd7RTM6P7TA3TEiuJM"
+      },
+      {
+        "id": "acc57db9-f394-447d-97a7-9388c91bfe5b",
+        "accountId": 0,
+        "name": "Home Loan Account 1206",
+        "description": "deposit transaction at Predovic Group using card ending with ***6418 for SYP 125.04 in account ***26914159",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 6.11,
+        "concept": "payment",
+        "categoryId": 4,
+        "trxNumber": "3SuvNMm2GyDMvd1Q6jSyxnrEbVG"
+      },
+      {
+        "id": "6bd9e8a9-bc1c-4928-ae86-0c3df2e346e0",
+        "accountId": 0,
+        "name": "Credit Card Account 3401",
+        "description": "withdrawal transaction at Lesch Group using card ending with ***5446 for HTG 552.20 in account ***63788476",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 650.32,
+        "concept": "deposit",
+        "categoryId": 1,
+        "trxNumber": "1SPbLf2y7owPSVmD5Ny7tipo2zQMohp"
+      },
+      {
+        "id": "a9e2ac74-221b-439b-b259-0af65af3e596",
+        "accountId": 0,
+        "name": "Credit Card Account 5099",
+        "description": "payment transaction at Sawayn LLC using card ending with ***5638 for EGP 404.71 in account ***25718968",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 672.84,
+        "concept": "withdrawal",
+        "categoryId": 2,
+        "trxNumber": "11rbtVXpapxNJkwNi1dWVQv4HzW3"
+      },
+      {
+        "id": "d406abbb-9e7c-4855-8cca-27aac7bfc544",
+        "accountId": 0,
+        "name": "Credit Card Account 6917",
+        "description": "invoice transaction at Paucek, Zboncak and Fritsch using card ending with ***7438 for TJS 316.30 in account ***61629748",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 235.32,
+        "concept": "withdrawal",
+        "categoryId": 1,
+        "trxNumber": "3A4aG9N8ta2SXR4QJ1fRkMsUKbftoLW5Ui"
+      },
+      {
+        "id": "5cf3ebc0-1cb0-4b58-89e8-b776456b790c",
+        "accountId": 0,
+        "name": "Home Loan Account 2569",
+        "description": "withdrawal transaction at Runolfsdottir LLC using card ending with ***6539 for MVR 187.09 in account ***50477276",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 294.8,
+        "concept": "payment",
+        "categoryId": 3,
+        "trxNumber": "1aPqVs3oFCd1zGoQWnx1Z6Lx1EP"
+      },
+      {
+        "id": "0f19b85b-6922-414f-9001-6e0163330de9",
+        "accountId": 0,
+        "name": "Investment Account 8278",
+        "description": "payment transaction at McClure Inc using card ending with ***7619 for LKR 478.54 in account ***45533680",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 977.44,
+        "concept": "withdrawal",
+        "categoryId": 6,
+        "trxNumber": "3RjBS4xLcWey5SeU2KQdqaRT57"
+      }
+    ],
+    "name": "Future Account",
+    "id": "758730",
+    "color": "#2E4553"
+  },
+  {
+    "totalBudget": 6631.81,
+    "upcomingMovements": [
+      {
+        "id": "59c6aeb9-579b-4913-8aae-14f5d40297c5",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "893.78",
+        "amountType": "in",
+        "business": "Witting, Bergnaum and Nitzsche",
+        "name": "Credit Card Account 2466",
+        "type": "withdrawal",
+        "account": "94299317"
+      },
+      {
+        "id": "6d2e5ee8-a531-4f97-866c-71398b4dd997",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "230.59",
+        "amountType": "out",
+        "business": "Hane - Hoppe",
+        "name": "Home Loan Account 2569",
+        "type": "withdrawal",
+        "account": "46548054"
+      },
+      {
+        "id": "d23466c8-cd6a-405b-b287-fc987583daf8",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "992.40",
+        "amountType": "out",
+        "business": "Witting - Jaskolski",
+        "name": "Auto Loan Account 9673",
+        "type": "deposit",
+        "account": "93404167"
+      },
+      {
+        "id": "9765ed14-01cd-413a-adc4-84b92ba4af9e",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "926.97",
+        "amountType": "in",
+        "business": "Heller, MacGyver and Simonis",
+        "name": "Checking Account 2911",
+        "type": "invoice",
+        "account": "21058506"
+      },
+      {
+        "id": "255f5d02-93f7-46f8-847d-6ae618f580c9",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "221.25",
+        "amountType": "in",
+        "business": "Douglas, White and Koss",
+        "name": "Credit Card Account 7846",
+        "type": "withdrawal",
+        "account": "00178996"
+      },
+      {
+        "id": "5f51e5de-ce5b-43f0-babb-7a26673426c2",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "203.37",
+        "amountType": "in",
+        "business": "Langosh - Pouros",
+        "name": "Auto Loan Account 8163",
+        "type": "payment",
+        "account": "17681786"
+      },
+      {
+        "id": "948ed2bb-36ab-4089-b2c1-41171f99f081",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "871.66",
+        "amountType": "out",
+        "business": "Franecki LLC",
+        "name": "Investment Account 2505",
+        "type": "deposit",
+        "account": "45438356"
+      },
+      {
+        "id": "f9770542-a8b1-4fe8-a869-3478225d827a",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "956.14",
+        "amountType": "out",
+        "business": "Price, Collier and Corwin",
+        "name": "Checking Account 1054",
+        "type": "withdrawal",
+        "account": "50716346"
+      }
+    ],
+    "trx": [
+      {
+        "id": "79d6d6a8-b02c-4025-b00c-968d862b1bfc",
+        "accountId": 1,
+        "name": "Credit Card Account 8408",
+        "description": "invoice transaction at Schmidt - Schuppe using card ending with ***5034 for BTN 793.03 in account ***55935552",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 156.46,
+        "concept": "deposit",
+        "categoryId": 4,
+        "trxNumber": "3VroEWtHrC2td95DsK1WNptMn4"
+      },
+      {
+        "id": "0204c116-6a3e-4462-9775-fce41d9202e0",
+        "accountId": 1,
+        "name": "Savings Account 8010",
+        "description": "withdrawal transaction at Daniel, Wiza and Trantow using card ending with ***6468 for DJF 734.54 in account ***65719714",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 84.52,
+        "concept": "invoice",
+        "categoryId": 8,
+        "trxNumber": "3rY3gFmS8HoysWYf297c35xJnmF3hzqda3"
+      },
+      {
+        "id": "8dbb18c5-67d4-4057-872a-f7226b059a01",
+        "accountId": 1,
+        "name": "Money Market Account 8476",
+        "description": "withdrawal transaction at Swaniawski - Lubowitz using card ending with ***5875 for ETB 223.09 in account ***78948958",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 567.62,
+        "concept": "invoice",
+        "categoryId": 10,
+        "trxNumber": "1HmNRs1ipBxxiQzJ3cJiVVVRW9QQ"
+      },
+      {
+        "id": "642edb5b-5f1c-4d0b-ad87-d09607dcbe69",
+        "accountId": 1,
+        "name": "Credit Card Account 1687",
+        "description": "withdrawal transaction at Hilpert, Beer and Spinka using card ending with ***4119 for IDR 36.62 in account ***24541081",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 921.1,
+        "concept": "payment",
+        "categoryId": 10,
+        "trxNumber": "1D3u3uHUaKnBNNSekfBFCnbtyuAUqAJy"
+      },
+      {
+        "id": "93d11b81-94d9-432e-9221-3122587c4ed2",
+        "accountId": 1,
+        "name": "Investment Account 4961",
+        "description": "invoice transaction at Sporer - West using card ending with ***7005 for AUD 419.29 in account ***48335510",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 948.42,
+        "concept": "payment",
+        "categoryId": 8,
+        "trxNumber": "3gAXFriHXwvaERGFGq7WL9eWCv4ro5HC"
+      },
+      {
+        "id": "dfcc2aa3-878e-423c-8cf7-3672a06e731e",
+        "accountId": 1,
+        "name": "Credit Card Account 4241",
+        "description": "invoice transaction at Welch Inc using card ending with ***2649 for KYD 765.56 in account ***13892593",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 840.89,
+        "concept": "deposit",
+        "categoryId": 5,
+        "trxNumber": "3P77gVja5MUqJqaEoks5pcGo79GKFyG5"
+      },
+      {
+        "id": "be92e00e-aca9-40d2-837d-3a4a3ab5df0e",
+        "accountId": 1,
+        "name": "Money Market Account 0642",
+        "description": "withdrawal transaction at Breitenberg Group using card ending with ***4678 for STN 148.07 in account ***86058382",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 845.96,
+        "concept": "withdrawal",
+        "categoryId": 10,
+        "trxNumber": "1yn2vxULopt2vcJ5rjVZQjq96SQjq4mU"
+      },
+      {
+        "id": "baf2d348-8163-44ef-8ed6-6222a33d5e15",
+        "accountId": 1,
+        "name": "Credit Card Account 2060",
+        "description": "invoice transaction at Hoppe, Feil and Hahn using card ending with ***0987 for TOP 88.92 in account ***01094802",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 709.61,
+        "concept": "invoice",
+        "categoryId": 6,
+        "trxNumber": "18Rh1dazKDJGBVYvadnzvGt7zR2"
+      },
+      {
+        "id": "77f8467b-5647-45ab-83e7-2b8848e4741c",
+        "accountId": 1,
+        "name": "Investment Account 0118",
+        "description": "deposit transaction at Doyle, Kling and D'Amore using card ending with ***1054 for XAU 917.08 in account ***44439674",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 171.11,
+        "concept": "deposit",
+        "categoryId": 7,
+        "trxNumber": "1GRqfSNhdwahH59C3BWT7SpQD3VKLm"
+      },
+      {
+        "id": "ca29b28b-8d32-468e-a984-b0edb6017157",
+        "accountId": 1,
+        "name": "Investment Account 1159",
+        "description": "deposit transaction at Reichert, Kuhic and Lynch using card ending with ***6715 for XDR 974.55 in account ***28945084",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 611.26,
+        "concept": "withdrawal",
+        "categoryId": 3,
+        "trxNumber": "3H86eWuK4Azm1v24rLhFng1gTcm"
+      },
+      {
+        "id": "5202e8ba-8b78-456b-9014-02b76c1e23bf",
+        "accountId": 1,
+        "name": "Personal Loan Account 7186",
+        "description": "deposit transaction at Haley LLC using card ending with ***6214 for SZL 134.48 in account ***24690124",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 165.41,
+        "concept": "payment",
+        "categoryId": 2,
+        "trxNumber": "3bYiTRAUr79ADhUX1uyczahPVvwEbUyRfQ"
+      },
+      {
+        "id": "9c9cfee0-a851-4613-8f01-27fd4cd33001",
+        "accountId": 1,
+        "name": "Investment Account 4783",
+        "description": "payment transaction at Herzog - Stiedemann using card ending with ***7876 for LBP 909.72 in account ***53019422",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 609.45,
+        "concept": "invoice",
+        "categoryId": 1,
+        "trxNumber": "34pMJtn9zZnJf5vSEBexSvoi2YiMdG"
+      }
+    ],
+    "name": "Master Account",
+    "id": "352471",
+    "color": "#515A5E"
+  },
+  {
+    "totalBudget": 7422.98,
+    "upcomingMovements": [
+      {
+        "id": "1e4627b1-4fc8-4650-9816-576f587320a5",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "168.64",
+        "amountType": "out",
+        "business": "D'Amore, Berge and Bode",
+        "name": "Credit Card Account 3611",
+        "type": "payment",
+        "account": "80900408"
+      },
+      {
+        "id": "8796d270-9dea-40d7-9c8f-446c14e6da41",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "109.77",
+        "amountType": "out",
+        "business": "Dickinson, Streich and Kautzer",
+        "name": "Personal Loan Account 3415",
+        "type": "withdrawal",
+        "account": "52040426"
+      },
+      {
+        "id": "02189a11-ae79-44c6-be73-373f11a7a482",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "40.96",
+        "amountType": "out",
+        "business": "Nikolaus - Weber",
+        "name": "Investment Account 3275",
+        "type": "payment",
+        "account": "17669060"
+      },
+      {
+        "id": "da1439d7-7fe7-4ae2-ab9f-5327d79e69d9",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "653.31",
+        "amountType": "in",
+        "business": "Terry, Schultz and Mohr",
+        "name": "Auto Loan Account 7850",
+        "type": "withdrawal",
+        "account": "26314232"
+      }
+    ],
+    "trx": [
+      {
+        "id": "58b1b032-4a44-4f81-8c7c-b480f677ef7f",
+        "accountId": 2,
+        "name": "Savings Account 4984",
+        "description": "deposit transaction at Kutch, Kling and Upton using card ending with ***5219 for CRC 401.50 in account ***68284671",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 123.56,
+        "concept": "payment",
+        "categoryId": 8,
+        "trxNumber": "1RUrYYT41oi2oVRjAGLQ5mY3jy6qc8"
+      },
+      {
+        "id": "0cdb8001-8c11-4045-9e0d-6f533ba77efb",
+        "accountId": 2,
+        "name": "Checking Account 9169",
+        "description": "payment transaction at Cronin, Beier and Williamson using card ending with ***6214 for GBP 550.52 in account ***85180735",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 681.86,
+        "concept": "deposit",
+        "categoryId": 6,
+        "trxNumber": "1vtFegnh2BN7smED8WsnY4TXXV2i"
+      },
+      {
+        "id": "eb9b0992-4f65-473d-a931-744762d1b567",
+        "accountId": 2,
+        "name": "Money Market Account 6855",
+        "description": "payment transaction at Cartwright - Tromp using card ending with ***7470 for AUD 300.93 in account ***92297134",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 429.15,
+        "concept": "deposit",
+        "categoryId": 8,
+        "trxNumber": "3bYBAKyZZz1szU91uo9vr3z3udfZ3z"
+      },
+      {
+        "id": "5f49789b-fd1c-4712-a0fc-12bf75ef883e",
+        "accountId": 2,
+        "name": "Personal Loan Account 6954",
+        "description": "invoice transaction at Schaden LLC using card ending with ***1696 for KZT 425.53 in account ***29878574",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 927.04,
+        "concept": "deposit",
+        "categoryId": 7,
+        "trxNumber": "1ojwD6VHSCKzyfqCBq6ZjMW4xG66d"
+      },
+      {
+        "id": "b63803f5-e559-426e-83c4-b89440ce80b6",
+        "accountId": 2,
+        "name": "Auto Loan Account 0381",
+        "description": "payment transaction at Hoppe, Douglas and Murphy using card ending with ***5866 for RUB 343.57 in account ***28250062",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 777.58,
+        "concept": "deposit",
+        "categoryId": 9,
+        "trxNumber": "3UC7mW9Ft8m5dAGumtzJevjJN"
+      },
+      {
+        "id": "8b805a39-5e6a-40c0-95cf-736a367af4eb",
+        "accountId": 2,
+        "name": "Personal Loan Account 3291",
+        "description": "invoice transaction at Predovic - Tromp using card ending with ***0005 for RUB 518.65 in account ***66162665",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 672.21,
+        "concept": "invoice",
+        "categoryId": 2,
+        "trxNumber": "32my7dJprcWQsYhMbKVcLRbwbL1ZwXdvu"
+      },
+      {
+        "id": "fe4f4a1d-3c3b-433f-a543-4ddf8768f177",
+        "accountId": 2,
+        "name": "Money Market Account 6541",
+        "description": "invoice transaction at Kuhn, Connelly and Kling using card ending with ***0978 for XBB 701.88 in account ***03908833",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 856.52,
+        "concept": "deposit",
+        "categoryId": 9,
+        "trxNumber": "3ygJk4xQum269hVjEJc5xvFpsFNLpZoaB"
+      },
+      {
+        "id": "6026545a-f0bc-45c3-bfa2-d804239d7613",
+        "accountId": 2,
+        "name": "Investment Account 3912",
+        "description": "invoice transaction at Koch, Fritsch and Rowe using card ending with ***2607 for BAM 804.67 in account ***79482735",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 307.42,
+        "concept": "invoice",
+        "categoryId": 4,
+        "trxNumber": "15bKgpnZAspfAyjfKZi7zP51R"
+      },
+      {
+        "id": "cbcbde8d-d8ee-4a49-a188-eaf720e15816",
+        "accountId": 2,
+        "name": "Auto Loan Account 6739",
+        "description": "payment transaction at Okuneva - Gerhold using card ending with ***6383 for KPW 345.59 in account ***31948660",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 260.68,
+        "concept": "deposit",
+        "categoryId": 7,
+        "trxNumber": "1sD9vjFKovY6uSJtVc5ZNndzAAY4PyYv"
+      },
+      {
+        "id": "a0fae155-95c2-4108-a822-bd79dfd2e180",
+        "accountId": 2,
+        "name": "Home Loan Account 8884",
+        "description": "payment transaction at Altenwerth - Corkery using card ending with ***7932 for ALL 593.88 in account ***26191789",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 745.84,
+        "concept": "deposit",
+        "categoryId": 3,
+        "trxNumber": "1MAfSe9erUkX6uim4i4SouNKSputH1ve"
+      },
+      {
+        "id": "e1238bef-0907-4926-b34d-28d018305e8f",
+        "accountId": 2,
+        "name": "Personal Loan Account 4343",
+        "description": "deposit transaction at Homenick - Doyle using card ending with ***6322 for LBP 599.07 in account ***97639626",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 808.45,
+        "concept": "payment",
+        "categoryId": 4,
+        "trxNumber": "3zJTtJVKwGSkMWKZZ9DrnKgjBDPfsfK"
+      },
+      {
+        "id": "f66c1106-1835-4e61-8bf9-f06080ed0411",
+        "accountId": 2,
+        "name": "Credit Card Account 8077",
+        "description": "invoice transaction at Koss Group using card ending with ***4851 for TZS 608.38 in account ***95823779",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 832.67,
+        "concept": "deposit",
+        "categoryId": 1,
+        "trxNumber": "1cRtrx1ogj75VvjKjBd3h2oWKR49BB9Pa"
+      }
+    ],
+    "name": "Savings Account",
+    "id": "479133",
+    "color": "#A3AFB4"
+  },
+  {
+    "totalBudget": 5224.07,
+    "upcomingMovements": [
+      {
+        "id": "fafcf72d-6ee9-4329-af2e-8e762ec2a6f4",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "440.20",
+        "amountType": "in",
+        "business": "Upton Group",
+        "name": "Auto Loan Account 9198",
+        "type": "payment",
+        "account": "80875775"
+      },
+      {
+        "id": "6803c7eb-b1a9-4798-b05f-7a05d5879463",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "357.46",
+        "amountType": "in",
+        "business": "Lemke, Miller and Stokes",
+        "name": "Money Market Account 3953",
+        "type": "payment",
+        "account": "84389722"
+      },
+      {
+        "id": "343a88d2-75fe-4cc9-9a4a-95226ecf5011",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "768.55",
+        "amountType": "out",
+        "business": "Krajcik - Trantow",
+        "name": "Home Loan Account 7881",
+        "type": "withdrawal",
+        "account": "33671017"
+      },
+      {
+        "id": "9891dcbd-57b7-47b1-9796-9a679439e504",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "16.60",
+        "amountType": "out",
+        "business": "Schamberger - Quitzon",
+        "name": "Personal Loan Account 5981",
+        "type": "deposit",
+        "account": "10671006"
+      },
+      {
+        "id": "5dbb8318-c4fd-43c9-907f-9171efe0164e",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "580.75",
+        "amountType": "out",
+        "business": "Labadie, Lesch and Bashirian",
+        "name": "Money Market Account 7164",
+        "type": "payment",
+        "account": "96198829"
+      },
+      {
+        "id": "7002392c-46d7-4842-9e5d-e6beddc4f3c4",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "994.60",
+        "amountType": "in",
+        "business": "Zboncak, Schmitt and Yundt",
+        "name": "Auto Loan Account 1515",
+        "type": "payment",
+        "account": "48896535"
+      }
+    ],
+    "trx": [
+      {
+        "id": "a08a79a4-14d1-445e-a789-96f22d577098",
+        "accountId": 3,
+        "name": "Money Market Account 0547",
+        "description": "deposit transaction at Haley and Sons using card ending with ***3297 for LBP 782.45 in account ***48000415",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 568.69,
+        "concept": "invoice",
+        "categoryId": 6,
+        "trxNumber": "3dBNU7rHdLeosYe2dEMAarMjp"
+      },
+      {
+        "id": "daf8bc86-1c4d-4f10-a519-f9525902f771",
+        "accountId": 3,
+        "name": "Money Market Account 5515",
+        "description": "invoice transaction at Crona - Schneider using card ending with ***7363 for VEF 945.60 in account ***69480784",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 166.44,
+        "concept": "invoice",
+        "categoryId": 3,
+        "trxNumber": "1NvBDboHj5KMy9kbduhx7hdjAfZvE"
+      },
+      {
+        "id": "465a6ba9-61c4-4b5f-ab15-9888f9a854b9",
+        "accountId": 3,
+        "name": "Investment Account 2903",
+        "description": "withdrawal transaction at Runte, Murphy and Rath using card ending with ***1440 for MRO 639.43 in account ***70083289",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 844.66,
+        "concept": "payment",
+        "categoryId": 4,
+        "trxNumber": "1DEfNk92J97US5D3gpAa1soUL67fNHYUBq"
+      },
+      {
+        "id": "4fa75df3-2d2d-49fd-a272-8a19d3173fbd",
+        "accountId": 3,
+        "name": "Savings Account 7770",
+        "description": "withdrawal transaction at Hills Group using card ending with ***6184 for ARS 315.09 in account ***15817967",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 44.06,
+        "concept": "withdrawal",
+        "categoryId": 6,
+        "trxNumber": "1dzBgPkbMvGBSubFhWUvqejk5Fug"
+      },
+      {
+        "id": "b63d8047-de4d-4601-bbc1-1ff4ca6ebc01",
+        "accountId": 3,
+        "name": "Money Market Account 4633",
+        "description": "deposit transaction at Kris - Wunsch using card ending with ***6922 for MMK 44.96 in account ***62156338",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 411.24,
+        "concept": "deposit",
+        "categoryId": 3,
+        "trxNumber": "1KCzax7xjDLiZrh4JANe2dx1QUhPirenWr"
+      },
+      {
+        "id": "bbeaa993-f5a3-4c3f-b8d6-23f1f572e489",
+        "accountId": 3,
+        "name": "Checking Account 2808",
+        "description": "withdrawal transaction at Wunsch, Lueilwitz and Lesch using card ending with ***8072 for PEN 845.32 in account ***36667181",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 298.15,
+        "concept": "invoice",
+        "categoryId": 1,
+        "trxNumber": "3Bx7Vbz9AxUXbKavTJJxCjqPb3xc"
+      },
+      {
+        "id": "371bb60e-a569-4cfd-8b84-181ec7467f9e",
+        "accountId": 3,
+        "name": "Credit Card Account 3950",
+        "description": "withdrawal transaction at Runolfsdottir LLC using card ending with ***7275 for NOK 10.42 in account ***83122241",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 388.89,
+        "concept": "payment",
+        "categoryId": 8,
+        "trxNumber": "1eTNLeekH6UF5ercZSxmtYNqk7L6efKeT"
+      },
+      {
+        "id": "1c560aaa-afd7-425b-823f-6093928cd9eb",
+        "accountId": 3,
+        "name": "Money Market Account 0383",
+        "description": "invoice transaction at McDermott and Sons using card ending with ***5019 for KWD 372.38 in account ***34713777",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 428.63,
+        "concept": "deposit",
+        "categoryId": 2,
+        "trxNumber": "1vx1L9QcKyLbb3cNwHkmvzrARB"
+      },
+      {
+        "id": "1636e085-9fd4-4862-8a01-3abf2d834222",
+        "accountId": 3,
+        "name": "Auto Loan Account 6023",
+        "description": "payment transaction at Reichert Group using card ending with ***4911 for PYG 912.18 in account ***08820459",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 612.58,
+        "concept": "payment",
+        "categoryId": 8,
+        "trxNumber": "38VJ283Cfgz82tmX4GuoknPVsNF3hgmd"
+      },
+      {
+        "id": "45b48869-b9f6-40f5-85bd-1bb17ee7e0cb",
+        "accountId": 3,
+        "name": "Money Market Account 9225",
+        "description": "payment transaction at Schmitt - Reinger using card ending with ***3806 for BMD 861.91 in account ***63772985",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 644.67,
+        "concept": "withdrawal",
+        "categoryId": 9,
+        "trxNumber": "1LAbA7BNARj6JBDHhzxopQWnzRYrcFV"
+      },
+      {
+        "id": "f119c785-41c9-4a38-a48d-ba236a7b5f02",
+        "accountId": 3,
+        "name": "Money Market Account 7123",
+        "description": "withdrawal transaction at Lebsack - Mosciski using card ending with ***4345 for TND 125.90 in account ***83388408",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 770.84,
+        "concept": "invoice",
+        "categoryId": 7,
+        "trxNumber": "3SY4R3aCCSWfsiNmrLpM9WnUrJQc"
+      },
+      {
+        "id": "3b6454b9-4785-4b29-9d93-674c264aa8ca",
+        "accountId": 3,
+        "name": "Money Market Account 2997",
+        "description": "invoice transaction at Gerlach - Quigley using card ending with ***7772 for LYD 307.30 in account ***39758002",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 45.22,
+        "concept": "payment",
+        "categoryId": 3,
+        "trxNumber": "3K6cUogg5px1HV1X32ivpE3XQKCP3gbsT"
+      }
+    ],
+    "name": "Lead Account",
+    "id": "222462",
+    "color": "#6F797D"
+  },
+  {
+    "totalBudget": 5788.63,
+    "upcomingMovements": [
+      {
+        "id": "327245f2-5fc7-4d77-b4b4-e1258aeb9d6c",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "874.13",
+        "amountType": "out",
+        "business": "Jakubowski LLC",
+        "name": "Home Loan Account 3379",
+        "type": "deposit",
+        "account": "63626081"
+      },
+      {
+        "id": "92cce702-7b36-4faf-b4ea-3e0fc6848f5e",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "711.65",
+        "amountType": "out",
+        "business": "Treutel, Dare and Pfannerstill",
+        "name": "Checking Account 2611",
+        "type": "payment",
+        "account": "33445954"
+      },
+      {
+        "id": "7b0aa0d2-6c5e-407e-9dbd-4e94954b2339",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "652.62",
+        "amountType": "out",
+        "business": "Abbott - Gerhold",
+        "name": "Auto Loan Account 4300",
+        "type": "withdrawal",
+        "account": "05748352"
+      },
+      {
+        "id": "59f5c345-e831-431e-9918-93c4355ade03",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "354.55",
+        "amountType": "out",
+        "business": "Jaskolski Inc",
+        "name": "Investment Account 9724",
+        "type": "deposit",
+        "account": "04967066"
+      },
+      {
+        "id": "8239f9d8-53d5-4c78-a4d9-deffc9ebed02",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "995.53",
+        "amountType": "out",
+        "business": "Jerde - Rutherford",
+        "name": "Credit Card Account 8646",
+        "type": "deposit",
+        "account": "20720530"
+      }
+    ],
+    "trx": [
+      {
+        "id": "1a8ff70c-bbc9-440c-ac21-241544757c3a",
+        "accountId": 4,
+        "name": "Home Loan Account 1071",
+        "description": "withdrawal transaction at Reynolds - Medhurst using card ending with ***6409 for KHR 65.29 in account ***73316319",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 296.81,
+        "concept": "deposit",
+        "categoryId": 5,
+        "trxNumber": "3L7ra1X8jE8kBrdr2qJxnkH9DyH6"
+      },
+      {
+        "id": "eb70f8d3-96bf-45b0-a51b-f82e2509dd96",
+        "accountId": 4,
+        "name": "Home Loan Account 8736",
+        "description": "invoice transaction at Bailey - Price using card ending with ***8361 for ERN 298.30 in account ***54975401",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 615.6,
+        "concept": "payment",
+        "categoryId": 4,
+        "trxNumber": "1fE7PBTWrgRqVfi8VBNQ73hPG5yGL7F"
+      },
+      {
+        "id": "301804e2-3896-42ef-8c67-c90f4189f5fe",
+        "accountId": 4,
+        "name": "Auto Loan Account 9020",
+        "description": "deposit transaction at Denesik, Thiel and Sauer using card ending with ***1420 for TRY 892.88 in account ***49359856",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 108.15,
+        "concept": "invoice",
+        "categoryId": 3,
+        "trxNumber": "3iW9ZbMtJBK75k5WA4sQXrz8pU8YESQzcv"
+      },
+      {
+        "id": "884179d3-10d4-45a7-b3b1-3b1861906593",
+        "accountId": 4,
+        "name": "Money Market Account 0451",
+        "description": "payment transaction at Miller, Berge and Feil using card ending with ***1218 for XAU 685.90 in account ***15794103",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 632.74,
+        "concept": "withdrawal",
+        "categoryId": 2,
+        "trxNumber": "1SuiRCcUQLeopJV25kH25PqPAHy"
+      },
+      {
+        "id": "7d9eaca2-bcf8-4c8a-b8ba-61339b04a90c",
+        "accountId": 4,
+        "name": "Investment Account 3260",
+        "description": "payment transaction at Altenwerth - Klein using card ending with ***9086 for XOF 648.07 in account ***40015477",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 500.08,
+        "concept": "withdrawal",
+        "categoryId": 8,
+        "trxNumber": "1SWG5CbvydLLQ5KsCri2aUhWmjbQkB"
+      },
+      {
+        "id": "c7b82bd6-7f49-4c79-bd26-25d120935d9f",
+        "accountId": 4,
+        "name": "Home Loan Account 8570",
+        "description": "payment transaction at Bogan, Lindgren and Ortiz using card ending with ***6280 for MNT 196.98 in account ***67150748",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 753.86,
+        "concept": "withdrawal",
+        "categoryId": 1,
+        "trxNumber": "3MgfVzqVcWoAEP5LdcSZMvobDMCGZwNLs"
+      },
+      {
+        "id": "5c3e7d11-945e-45ac-8a27-429abc08984e",
+        "accountId": 4,
+        "name": "Checking Account 8865",
+        "description": "payment transaction at Ullrich - Morissette using card ending with ***2125 for ARS 605.81 in account ***98810271",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 31.5,
+        "concept": "invoice",
+        "categoryId": 7,
+        "trxNumber": "3sL5gLzQHATp3pfRVmtXapvv8MeRDryUU"
+      },
+      {
+        "id": "7732c4c1-bce8-4775-8aef-9343bf02ae6d",
+        "accountId": 4,
+        "name": "Money Market Account 9683",
+        "description": "payment transaction at Hoppe and Sons using card ending with ***4238 for CZK 644.21 in account ***93646638",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 174.42,
+        "concept": "invoice",
+        "categoryId": 10,
+        "trxNumber": "1nxSsxUqeeGgsgdbwByyQ6PwxKtS"
+      },
+      {
+        "id": "cb683786-1160-4e52-b719-51c680492eb6",
+        "accountId": 4,
+        "name": "Credit Card Account 3177",
+        "description": "invoice transaction at Brown LLC using card ending with ***2934 for VEF 616.01 in account ***38510445",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 814.43,
+        "concept": "withdrawal",
+        "categoryId": 3,
+        "trxNumber": "1tbZh7qGyaxMu6i4KLDg9pggcRTzMW"
+      },
+      {
+        "id": "be4c6341-dfbd-4ac6-8c80-f97439bc4f78",
+        "accountId": 4,
+        "name": "Personal Loan Account 7766",
+        "description": "payment transaction at Beier, Dibbert and Okuneva using card ending with ***3715 for DJF 151.17 in account ***35680651",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 305.08,
+        "concept": "payment",
+        "categoryId": 9,
+        "trxNumber": "1SpZzWAettLQWXT8bKh5inhdw"
+      },
+      {
+        "id": "d8397a10-8e6f-4a8e-a601-751a7dba21bb",
+        "accountId": 4,
+        "name": "Investment Account 5291",
+        "description": "payment transaction at Shanahan - Kohler using card ending with ***8185 for ILS 900.97 in account ***48166588",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 701.86,
+        "concept": "payment",
+        "categoryId": 7,
+        "trxNumber": "1fyoLMeoPEwLUT222yE6fNZZdX"
+      },
+      {
+        "id": "3ce9870c-a72a-4788-9954-9574597ab1a3",
+        "accountId": 4,
+        "name": "Home Loan Account 2620",
+        "description": "deposit transaction at Kling and Sons using card ending with ***0728 for BGN 85.53 in account ***06683511",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 854.1,
+        "concept": "payment",
+        "categoryId": 3,
+        "trxNumber": "1JHJdm1iu9acJuh7sSm4eNBV9ifus8"
+      }
+    ],
+    "name": "Regional Account",
+    "id": "773524",
+    "color": "#8F999D"
+  }
+]

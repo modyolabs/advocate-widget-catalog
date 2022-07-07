@@ -1,0 +1,97 @@
+{
+  "main": {
+    "my-insurance": "My Insurance",
+    "status": {
+      "valid": "Valid"
+    },
+    "insurance-types": {
+      "1": "Policy"
+    }
+  },
+  "summary-card": {
+    "view-insurance": "View Insurance"
+  },
+  "_data": [
+    {
+      "title": "Life Savings Insurance",
+      "insuranceType": 1,
+      "insuranceId": "11173900",
+      "status": 1,
+      "icon": "hand-holding-usd",
+      "items": [
+        {
+          "title": "Purchase Detail",
+          "subtitle": "Payment of Fee: 1/3",
+          "value": "$34,98",
+          "itemType": 2
+        },
+        {
+          "title": "Insured Capital",
+          "subtitle": "Death",
+          "value": "$100.000,00"
+        }
+      ]
+    },
+    {
+      "title": "Life Insurance",
+      "insuranceType": 1,
+      "insuranceId": "11173923",
+      "status": 1,
+      "icon": "child",
+      "items": [
+        {
+          "title": "Insured Capital",
+          "subtitle": "Death",
+          "value": "$100.000,00"
+        }
+      ]
+    },
+    {
+      "title": "Special Life Insurance",
+      "insuranceType": 1,
+      "insuranceId": "11173954",
+      "status": 1,
+      "icon": "child",
+      "items": [
+        {
+          "title": "Insured Capital",
+          "subtitle": "Death",
+          "value": "$100.000,00"
+        }
+      ]
+    },
+    {
+      "title": "Family Insurance",
+      "insuranceType": 1,
+      "insuranceId": "11174554",
+      "status": 1,
+      "icon": "users",
+      "items": [
+        {
+          "title": "Purchase Detail",
+          "subtitle": "Payment of Fee: 1/3",
+          "value": "$34,98",
+          "itemType": 2
+        },
+        { "title": "Insured Capital",
+          "subtitle": "Death",
+          "value": "$100.000,00"
+        }
+      ]
+    },
+    {
+      "title": "Heirs Insurance",
+      "insuranceType": 1,
+      "insuranceId": "11175900",
+      "status": 1,
+      "icon": "hand-holding-usd",
+      "items": [
+        {
+          "title": "Insured Capital",
+          "subtitle": "Death",
+          "value": "$100.000,00"
+        }
+      ]
+    }
+  ]
+}

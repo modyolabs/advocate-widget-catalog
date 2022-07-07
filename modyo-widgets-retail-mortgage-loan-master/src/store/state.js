@@ -1,0 +1,25 @@
+const LANG = window.liquid ? window.liquid.lang : 'es-CL';
+
+export default {
+  installment: 0,
+  annualRate: 0,
+  monthlyRate: 0,
+  monthlyAmount: 0,
+  loanAmount: 0,
+  loanPercentage: 0,
+  totalLoanAmount: 0,
+  loanCosts: 0,
+  percentageLoanCosts: 0,
+  equivalentMonthlyRate: 0,
+  cae: 0,
+  stampTax: 0,
+  notaryFee: 0,
+  realStateFee: 0,
+  appraisal: 0,
+  deed: 0,
+  abstractOfTitle: 0,
+  unemploymentInsurance: true,
+  homeownersInsurance: true,
+  termLifeInsurance: true,
+  lang: LANG,
+};

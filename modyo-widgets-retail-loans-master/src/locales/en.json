@@ -1,0 +1,80 @@
+{
+  "commons": {
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "standar": {
+        "decimal": ".",
+        "formatWithSymbol": true,
+        "precision": 2,
+        "separator": ",",
+        "symbol": "$"
+      }
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM dd, yyyy",
+      "short": "MM/dd/yyyy",
+      "this-month": "This month"
+    }
+  },
+  "loan-item": {
+    "back": "Back",
+    "current-fee": "Current payment due",
+    "end-date": "End Date",
+    "grant-date": "Date Awarded",
+    "month-fee-payed": "This month's payment is already paid",
+    "outstanding-balance": "Outstanding Balance",
+    "pay-fee": "Make a payment",
+    "summary": {
+      "annual-interest-rate": "Interest rate (APR)",
+      "automatic-charge-in": "Automated payment from",
+      "collection": "Collection",
+      "credit-balance": "Loan balance",
+      "current-equivalent-annual-load": "Current Equivalent Annual Charge",
+      "current-guarantees": "Enforced warranties",
+      "delayed-payment-amount": "Amount charged for late payment",
+      "dividend-value": "Monthly payment",
+      "equivalent-annual-load": "Interest rate (APR)",
+      "fee-value": "Monthly payment",
+      "granted-gross-amount": "Gross amount awarded",
+      "insurances": {
+        "download-btn": "Download"
+      },
+      "insurances-details-btn": "Details",
+      "months": "{n} months",
+      "next-payment-date": "Next payment date",
+      "operation-number": "Operation number",
+      "outstanding-credit-term": "Outstanding loan term",
+      "outstanding-dividends-number": "Number of past due payments",
+      "outstanding-fees-number": "Number of payments made",
+      "overdue-amount": "Amount due not paid",
+      "payed-dividends-number": "Number of payments made",
+      "payed-fees-number": "Number of payments made",
+      "product-name": "Product name",
+      "title": "Summary",
+      "total-delayed-payment-amount": "Total amount past due",
+      "view-contracted-insurances": "Insurance policy"
+    },
+    "type": {
+      "mortgage": "mortgage",
+      "personal": "personal"
+    },
+    "view-details": "View details"
+  },
+  "main": {
+    "pre-approved-loan": "You are {0} for a loan of ",
+    "pre-approved-loan-strong": "pre-approved",
+    "pre-approved-loan-sub-msg": "Refinance your car, or remodel your house with this incredible offer",
+    "request-btn": "Apply now!",
+    "title": "Your loans"
+  }
+}

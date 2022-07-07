@@ -1,0 +1,26 @@
+const LANG = window.liquid ? window.liquid.lang : 'es-CL';
+
+export default {
+  accounts: [],
+  amount: 0,
+  amountOption: '',
+  banks: [],
+  contacts: [],
+  filteredContacts: [],
+  date: new Date(),
+  frequency: null,
+  fromAccountId: null,
+  isLoading: true,
+  lang: LANG,
+  minAmount: LANG === 'es-CL' ? 500 : 1,
+  paramClientId: 1,
+  scheduled: false,
+  step: { value: 1 },
+  stepAction: 'select',
+  stepper: {},
+  stepsCount: 3,
+  toAccountId: -1,
+  toNewContact: false,
+  toOthers: true,
+  payeeAccount: null,
+};

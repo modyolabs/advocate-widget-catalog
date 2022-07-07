@@ -1,0 +1,30 @@
+{
+  "commons": {
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "main": {
+    "bank-initial": "B",
+    "choose-payment-type": "Choose the payment method that best suits you",
+    "deposit_amount": "Amount",
+    "deposit_to": "Destination Account",
+    "investment-initial": "I",
+    "pay": "Deposit",
+    "title": "Deposit",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "accounts-slider": {
+    "available-balance": "Available Balance"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "DD MMMM, YYYY",
+      "range": "Rango de fechas",
+      "short": "DD/MM/YYYY",
+      "this-month": "Este mes"
+    }
+  },
+  "filter-by": {
+    "date": "Filtrar por fecha",
+    "filter-action": "Aplicar",
+    "icon-legend": "Filtrar",
+    "remove-filters": "Quitar filtros",
+    "status": "Filtrar por estado"
+  },
+  "quote": {
+    "actions": {
+      "edit-quote": "Editar",
+      "issue-policy": "Emitir póliza",
+      "see-quote": "Ver detalles"
+    },
+    "headers": {
+      "actions": "Acciones",
+      "brokerId": "Id del tomador",
+      "brokerName": "Nombre del tomador",
+      "modificationDate": "Ultima modificación",
+      "quoteId": "Nº de cotización",
+      "status": "Estado",
+      "totalCost": "Prima más impuestos"
+    },
+    "status": {
+      "all": "Todas",
+      "approved": "Cotizado",
+      "draft": "Borrador",
+      "expired": "Expirado",
+      "preEmission": "Pre-emisión"
+    }
+  },
+  "search-by": {
+    "broker-id": "Id del tomador",
+    "broker-name": "Nombre del tomador",
+    "clean-btn": "Limpiar búsqueda",
+    "quote-id": "Nº de cotización",
+    "search-btn": "Buscar",
+    "step-one": "Por favor elige el criterio de búsqueda",
+    "step-two": "Ingresa el {option}",
+    "title": "Buscar cotización"
+  },
+  "sort-by": {
+    "name-a-z": "Nombre de A-Z",
+    "name-z-a": "Nombre de Z-A",
+    "newest": "Más nuevo",
+    "oldest": "Más antiguo"
+  },
+  "tabs": {
+    "actions": "Nueva cotización",
+    "policies": "Pólizas",
+    "quotes": "Cotizaciones",
+    "renovations": "Renovaciones"
+  }
+}

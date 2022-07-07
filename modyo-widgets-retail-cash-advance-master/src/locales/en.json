@@ -1,0 +1,72 @@
+{
+  "commons": {
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM dd, yyyy",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    }
+  },
+  "main": {
+    "advance-amount": "Advance amount",
+    "amount-exceeds": "The requested amount {0} cannot exceed {1}",
+    "empty-message": "Enter the amount and select the number of payments to {0}",
+    "empty-message-strong": "start the simulation.",
+    "fees": "Payments",
+    "from": "From",
+    "max-advance-msg": "You have used {0}, you can request up to {1}",
+    "minimum-amount": "The minimum amount for the advance is {amount}",
+    "request-quota-increase-msg": {
+      "middle": "request a",
+      "start": "If you need more cash, {0}",
+      "strong": "credit limit increase"
+    },
+    "resume-request": {
+      "advance-amount": "Advance amount",
+      "commission": "Fees",
+      "equivalent-anual-load-abbr": "Annual Percentage Rate (APR)",
+      "fee-value": "Payment amount",
+      "fees": "Payments",
+      "make-advance-btn": "Apply now",
+      "rate": "Interest rate",
+      "tax": "Taxes",
+      "to-account": "Destination account",
+      "total-credit-cost": "Total advance cost",
+      "view-resume": "View summary"
+    },
+    "select-card": "Select card",
+    "select-to-account": "Select destination account",
+    "simulate-btn": "Simulate",
+    "simulation-summary": {
+      "advance-total-cost": "Total advance cost",
+      "complete-btn": "Apply now",
+      "fee-value": "Payment amount",
+      "fees": "Payments",
+      "monthly": "Monthly",
+      "no-fees": "{0} without payments",
+      "title": "Simulation summary",
+      "total-rate": "Total rate",
+      "view-detail": "View details",
+      "yearly": "Annual"
+    },
+    "title": "Cash Advance",
+    "to": "To"
+  }
+}

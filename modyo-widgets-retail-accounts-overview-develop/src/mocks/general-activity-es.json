@@ -1,0 +1,689 @@
+{
+  "total": {
+    "name": "Total",
+    "color": "#B0BABF",
+    "totalAmount": 23849,
+    "summary": [
+      {
+        "total": 7686,
+        "date": "1/1/2022"
+      },
+      {
+        "total": 5654,
+        "date": "1/15/2022"
+      },
+      {
+        "total": 9400,
+        "date": "2/1/2022"
+      },
+      {
+        "total": 6410,
+        "date": "2/15/2022"
+      },
+      {
+        "total": 9277,
+        "date": "3/1/2022"
+      },
+      {
+        "total": 10207,
+        "date": "3/15/2022"
+      },
+      {
+        "total": 12356,
+        "date": "4/1/2022"
+      },
+      {
+        "total": 11507,
+        "date": "4/15/2022"
+      },
+      {
+        "total": 13412,
+        "date": "5/1/2022"
+      },
+      {
+        "total": 4626,
+        "date": "5/15/2022"
+      },
+      {
+        "total": 12530,
+        "date": "6/1/2022"
+      },
+      {
+        "total": 12805,
+        "date": "6/15/2022"
+      },
+      {
+        "total": 13804,
+        "date": "7/1/2022"
+      },
+      {
+        "total": 8942,
+        "date": "7/15/2022"
+      },
+      {
+        "total": 8081,
+        "date": "8/1/2022"
+      },
+      {
+        "total": 10127,
+        "date": "8/15/2022"
+      },
+      {
+        "total": 10004,
+        "date": "9/1/2022"
+      },
+      {
+        "total": 5978,
+        "date": "9/15/2022"
+      },
+      {
+        "total": 11796,
+        "date": "10/1/2022"
+      },
+      {
+        "total": 13882,
+        "date": "10/15/2022"
+      },
+      {
+        "total": 12344,
+        "date": "11/1/2022"
+      },
+      {
+        "total": 16362,
+        "date": "11/15/2022"
+      },
+      {
+        "total": 3375,
+        "date": "12/1/2022"
+      },
+      {
+        "total": 5577,
+        "date": "12/15/2022"
+      }
+    ],
+    "upcomingMovements": [
+      {
+        "id": "f02a89e4-b245-4d75-8f94-8bb49e4de682",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "605.44",
+        "amountType": "out",
+        "business": "Korta - Guerra",
+        "name": "Inversión Cuenta 7879",
+        "type": "invoice",
+        "account": "33329690"
+      },
+      {
+        "id": "76d49b3e-03ea-4724-9722-c1c5ae79f0e3",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "942.58",
+        "amountType": "out",
+        "business": "Ojeda - Ibarra",
+        "name": "Casa Prestamo Account 9371",
+        "type": "withdrawal",
+        "account": "17332306"
+      },
+      {
+        "id": "e1b459e5-1411-49e4-b03a-15c0fd07ca57",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "762.13",
+        "amountType": "out",
+        "business": "Kanaria, Osorio and Manzanares",
+        "name": "Auto Prestamo Account 6629",
+        "type": "invoice",
+        "account": "30986999"
+      },
+      {
+        "id": "0c082985-15d0-4db2-a90b-af955f36a950",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "596.81",
+        "amountType": "in",
+        "business": "García - Hurtado",
+        "name": "Casa Prestamo Account 3755",
+        "type": "deposit",
+        "account": "40118126"
+      }
+    ]
+  },
+  "accounts": [
+    {
+      "name": "Cuenta Heredado",
+      "id": "228437",
+      "color": "#333333",
+      "summary": [
+        {
+          "budget": 1867,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 807,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 2266,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 272,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 3009,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 2123,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 573,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 620,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 3358,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 2112,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 1396,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 3921,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 3354,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 1189,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 1676,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 3036,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 2291,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 2425,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 3181,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 3252,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 3161,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 2664,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 833,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 1416,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "percentage": 0.1,
+        "price": 110.92,
+        "status": 3
+      }
+    },
+    {
+      "name": "Cuenta Director",
+      "id": "142071",
+      "color": "#515A5E",
+      "summary": [
+        {
+          "budget": 1207,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 1506,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 1161,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 942,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 2630,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 2188,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 1104,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 3886,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 369,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 18,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 3901,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 51,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 1207,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 253,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 3627,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 3473,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 2341,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 266,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 1877,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 1904,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 3013,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 3898,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 1845,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 1768,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "percentage": 0.15,
+        "price": 772.81,
+        "status": 1
+      }
+    },
+    {
+      "name": "Cuenta Interno",
+      "id": "818881",
+      "color": "#A3AFB4",
+      "summary": [
+        {
+          "budget": 2062,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 1597,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 2879,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 3812,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 2763,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 2582,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 3497,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 3066,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 3655,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 1151,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 1586,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 3809,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 2182,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 2748,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 765,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 1645,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 2996,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 2499,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 1712,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 2287,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 1227,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 3372,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 170,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 1983,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "price": 608.52,
+        "percentage": 0.25,
+        "status": 2
+      }
+    },
+    {
+      "name": "Cuenta Adelante",
+      "id": "264817",
+      "color": "#6F797D",
+      "summary": [
+        {
+          "budget": 525,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 137,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 995,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 1249,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 807,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 1200,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 3403,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 2030,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 2364,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 1035,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 2744,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 2624,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 3691,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 3118,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 73,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 155,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 1996,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 750,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 1279,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 3606,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 3800,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 3601,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 245,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 357,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "price": 440.51,
+        "percentage": 0.3,
+        "status": 2
+      }
+    },
+    {
+      "name": "Cuenta International",
+      "id": "522020",
+      "color": "#8F999D",
+      "summary": [
+        {
+          "budget": 2025,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 1607,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 2099,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 135,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 68,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 2114,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 3779,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 1905,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 3666,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 310,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 2903,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 2400,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 3370,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 1634,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 1940,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 1818,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 380,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 38,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 3747,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 2833,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 1143,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 2827,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 282,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 53,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "percentage": 0.2,
+        "price": 395.74,
+        "status": 5
+      }
+    }
+  ]
+}

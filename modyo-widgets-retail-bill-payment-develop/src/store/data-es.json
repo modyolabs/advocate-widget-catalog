@@ -1,0 +1,111 @@
+{
+  "companies": {
+    "Agua": [
+      {
+        "name": "Aguas Antofagasta",
+        "id": 5,
+        "icon": "antofagasta"
+      },
+      {
+        "name": "Aguas Andinas",
+        "id": 6,
+        "icon": "andinas"
+      },
+      {
+        "name": "Aguas Araucania",
+        "id": 7,
+        "icon": "araucania"
+      },
+      {
+        "name": "Aguas del Valle",
+        "id": 8,
+        "icon": "valle"
+      },
+      {
+        "name": "Aguas Magallanes",
+        "id": 9,
+        "icon": "magallanes"
+      }
+    ],
+    "Automotoras": [
+      {
+        "name": "Compañia Automotoras 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Compañia Automotoras 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Compañia Automotoras 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Autopistas": [
+      {
+        "name": "Compañia Autopistas 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Compañia Autopistas 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Compañia Autopistas 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Colegios": [
+      {
+        "name": "Colegio 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Colegio 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Colegio 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ],
+    "Default": [
+      {
+        "name": "Compañia Default 1",
+        "id": 1,
+        "icon": "example-company"
+      },
+      {
+        "name": "Compañia Default 2",
+        "id": 2,
+        "icon": "example-company"
+      },
+      {
+        "name": "Compañia Default 3",
+        "id": 3,
+        "icon": "example-company"
+      }
+    ]
+  },
+  "billCategories": [
+    { "icon": "tint", "name": "Agua", "code": 1 },
+    { "icon": "car", "name": "Automotoras", "code": 2 },
+    { "icon": "road", "name": "Autopistas", "code": 3 },
+    { "icon": "school", "name": "Colegios", "code": 4 },
+    { "icon": "file-invoice", "name": "Contribuciones", "code": 5 },
+    { "icon": "bolt", "name": "Electricidad", "code": 6 },
+    { "icon": "gas-pump", "name": "Gas", "code": 7 },
+    { "icon": "building", "name": "Inmobiliarias", "code": 8 },
+    { "icon": "hospital", "name": "Institutos", "code": 9 },
+    { "icon": "shield-alt", "name": "Seguros", "code": 10 }
+  ]
+}

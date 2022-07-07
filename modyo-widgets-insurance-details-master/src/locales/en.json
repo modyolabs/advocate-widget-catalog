@@ -1,0 +1,171 @@
+{
+    "body": {
+        "coverages": "Coverage",
+        "coverages-main": "Policyholder Coverage",
+        "current-portfolio": "Current Portfolio",
+        "funds-details": "Funds Information",
+        "main-insured": "Policyholder",
+        "notes": [
+            "Corresponds to the balance determined according to the number of quotas of the investment assets associated with the policy, multiplied by the quota value of these assets at the date of the calculation.",
+            "For more information please check your policy"
+        ],
+        "policy-value-details": "Policy Value Detail",
+        "policy-value-distribution-percentage": "Policy Value Distribution Percentage",
+        "portfolio-summary": "Portfolio Summary"
+    },
+    "commons": {
+        "accounts": "Accounts",
+        "at-date": "at {date}",
+        "back": "Back",
+        "back-home": "Back to Home",
+        "balance": "Balance",
+        "capital": "Capital",
+        "contractor": "Contractor",
+        "date": "Date",
+        "fee-number": "Fee No.",
+        "final-balance": "Final Balance",
+        "fund-value": "Fund Value",
+        "insured-capital": "Insured Capital",
+        "insured-amount": "Insured Amount",
+        "last-12-months": "Last 12 months",
+        "last-30-days": "Past 30 days",
+        "last-balance": "Last balance",
+        "last-balance-at": "Final balance at {date}",
+        "months": "{n} Months",
+        "order-number": "Transaction No. {n}",
+        "permanency": "Permanency",
+        "profitability": "Profitability",
+        "report-date": "Report Date",
+        "status": "Status",
+        "total": "Total",
+        "total-balance": "Total Balance",
+        "total-premium": "Premium Total",
+        "total-rescue": "Rescue Total",
+        "totals": "Totals",
+        "transfer-details": "Movement Detail",
+        "update-date": "Update Date",
+        "value": "Value",
+        "year-selection": "Select a year",
+        "years": "{n} Years",
+        "try-again": "Try again in a while",
+        "empty": "There's no data to show",
+        "loading": "Loading"
+    },
+    "currency": {
+        "format": {
+            "decimal": ",",
+            "formatWithSymbol": true,
+            "precision": 2,
+            "separator": ".",
+            "symbol": "$"
+        }
+    },
+    "forms": {
+        "email-input": "Enter your Email Address",
+        "email-input-confirmation": "Confirm Email Address",
+        "email-input-confirmation-name": "Confirmation Email Address",
+        "email-input-name": "Email Address",
+        "email-input-placeholder": "name@example.com",
+        "month": {
+            "label": "Month"
+        },
+        "terms": "Acceptance of {0}",
+        "terms-label": "Terms and Conditions",
+        "year": {
+            "label": "Year"
+        }
+    },
+    "funds": {
+        "available-funds": "Available Funds",
+        "change": {
+            "confirmation": {
+                "client-authorization": "I authorize the Insurance Company to make a modification of the composition of the assets to which the policy No. {number} is linked according to the distribution indicated.",
+                "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "request-tracking-label": "Enter your email to follow up on your application.",
+                "send": "Send Request",
+                "summary-title": "Overview of the Change",
+                "title": "Request to Change the composition of Investment Assets"
+            },
+            "history": "Funds Change History",
+            "modified-portfolio-dist": "Percentage (%) of Distribution of the Modified Portfolio",
+            "request": {
+                "message": "We have sent a copy of this receipt to the email {email}",
+                "title": "Modification request sent"
+            },
+            "result-portfolio-dist": "Percentage (%) of Distribution of the Resulting Portfolio",
+            "selector": {
+                "create-custom": "Create your portfolio",
+                "label": "Select the fund to Modify",
+                "title": "Choose one of 5 dynamic funds or select \"Create your Portfolio\" to make your portfolio manually."
+            },
+            "table": {
+                "request": "Request Modification",
+                "total-dist": "Total Distribution",
+                "total-dist-complete": "full",
+                "total-dist-message": "The distribution of funds {0} to 100%"
+            },
+            "title": "Funds Change"
+        },
+        "dynamic-fund": "Dynamic Fund",
+        "funds-distribution-percentages": "Distribution Percentage of the Policy Value",
+        "name": "{fund} Fund",
+        "notes": [
+            "The profitability of mutual funds does not correspond to that of your policy, because it does not consider costs and associated costs that are detailed in the particular conditions of your policy.",
+            "(1) The value fee of the mutual fund indicated is shown in pesos ($), although its currency is the dollar (USD$)."
+        ],
+        "portfolio-summary-notes": [
+            "Corresponds to the percentage of the policy value that is associated with each investment asset, calculated at a particular date."
+        ],
+        "risk-profile": "Risk profile",
+        "table": {
+            "header": {
+                "distribution": "Distribution %",
+                "fee-value": "Fee Value",
+                "funds": "Funds",
+                "profitability-last-12-months": "Profitability Last 12 Months",
+                "profitability-last-30-days": "Profitability Past 30 Days"
+            },
+            "percentage": "Percentage"
+        },
+        "types": {
+            "aggressive": "Aggressive",
+            "balanced": "Balanced",
+            "conservative": "Conservative",
+            "increase": "Growth",
+            "moderate": "Moderate"
+        }
+    },
+    "insurance": {
+        "coverage-types": {
+            "base": "Base Coverage",
+            "death": "Death"
+        }
+    },
+    "policy": {
+        "download-btn": "Download Policy",
+        "email-sent-message": "{email} will receive soon the policy.",
+        "email-sent-title": "Policy sent with success",
+        "historical-value": "Historical policy value",
+        "or": "or",
+        "policy-number": "Policy No. {number}",
+        "policy-value": "Policy value",
+        "send-email": "Send Email",
+        "subtitle": "Dear customer, if you would like to receive a copy of your policy in your email, please enter your email and click on send.",
+        "subtitle-2": "Obtain directly the policy",
+        "title": "Policy"
+    },
+    "statements": {
+        "download-btn": "Download Statement",
+        "monthly": "Monthly",
+        "period": {
+            "placeholder": "Select a period"
+        },
+        "subtitle": "Select the period and the statement to consult",
+        "title": "Statement",
+        "yearly": "Annual"
+    },
+    "status": {
+        "posted": "Entered",
+        "valid": "Current"
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "commons": {
+    "amount": "Monto",
+    "percentage": "Porcentaje",
+    "percentage-abbr": "Pct. (%)",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar"
+  },
+  "investment-evolution": {
+    "year": "Año",
+    "month": "Mes",
+    "filter": {
+      "montly": "Mensual",
+      "yearly": "Anual"
+    },
+    "title": "Evolución de la Inversión"
+  },
+  "main": {
+    "back-to-resume-btn": "Volver al Resumen",
+    "summary-tabs": {
+      "per-currency": "Por moneda",
+      "per-group": "Por cuenta",
+      "per-product": "Por producto"
+    },
+    "title": "Resumen General",
+    "total-legacy-lbl": "Patrimonio Total",
+    "view-investment-evolution-btn": "Ver evolución de la inversión"
+  },
+  "months": [
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre"
+  ]
+}

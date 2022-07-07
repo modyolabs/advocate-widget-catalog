@@ -1,0 +1,53 @@
+<template>
+  <div
+    id="detailed-view"
+    class="h-100 d-flex flex-column justify-content-between">
+    <detailed-view-body
+      class="pt-4 pt-md-5 overflow-auto flex-fill"
+      :status="bodyStatus"
+      :data-columns-items="dataColumnsItems"
+      :agreements="agreements"
+      :table-data="table"
+      :data-columns-cols="dataColumnsCols"
+      :historical-table-data="historicalTable" />
+  </div>
+</template>
+<script>
+import { currency } from '@modyo/financial-commons';
+
+import DetailedViewBody from './DetailedViewBody.vue';
+
+export default {
+  name: 'DetailedView',
+  components: {
+    DetailedViewBody,
+  },
+  data() {
+    const vm = this;
+    return {
+      bodyTitle: this.$t('body.quote-title'),
+      bodyStatus: this.$t('body.status.quoted'),
+      dataColumnsItems: this.$t('_quote-data.data-columns-items'),
+      agreements: this.$t('_quote-data.agreements'),
+      table: {
+        header: this.$t('_quote-data.table').header,
+        body: this.$t('_quote-data.table').body
+          .map((row) => row.map((item, index) => (index === 0 ? item : currency(item, vm.$t('currency.format'))))),
+      },
+      dataColumnsCols: {
+        xs: 1,
+        sm: 2,
+        md: 3,
+        lg: 3,
+        xl: 3,
+      },
+      historicalTable: undefined,
+    };
+  },
+  methods: {
+    showEmailModal() {
+      this.$store.commit('SET_SHOW_EMAIL_MODAL', true);
+    },
+  },
+};
+</script>

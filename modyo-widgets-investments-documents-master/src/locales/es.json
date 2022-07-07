@@ -1,0 +1,88 @@
+{
+  "certificates": {
+    "tax-certificates": {
+      "title": "Certificados tributarios"
+    }
+  },
+  "commons": {
+    "all": "Todas",
+    "amount": "Monto",
+    "date": "Fecha",
+    "download": "Descargar",
+    "name": "Nombre",
+    "no-documents-on-period": "No hay documentos para el período seleccionado",
+    "number_abbr": "Nº",
+    "price": "Precio",
+    "purchases": "Compras",
+    "quantity": "Cantidad",
+    "sales": "Ventas",
+    "sheet": "Nº",
+    "type": "Tipo",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "date": {
+    "format": {
+      "date": "DD MMM YYYY",
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "month": "MMMM YYYY",
+      "range": "Rango de fechas",
+      "this-month": "Este mes",
+      "year": "YYYY"
+    }
+  },
+  "documents": {
+    "invoices": {
+      "title": "Facturas"
+    },
+    "legacy-statements": {
+      "item-lbl": "Cartolas Patrimoniales Consolidadas",
+      "title": "Cartolas patrimoniales"
+    },
+    "orders-confirmation": {
+      "confirm-btn": "Confirmar",
+      "confirmed": "Confirmada",
+      "filters": {
+        "all": "Todas",
+        "confirmed": "Confirmadas",
+        "to-confirm": "Por Confirmar"
+      },
+      "title": "Confirmación de órdenes"
+    },
+    "orders-execution-report": {
+      "title": "Informe de ejecución de órdenes"
+    },
+    "signed-documents": {
+      "title": "Documentos firmados"
+    },
+    "unsigned-documents": {
+      "sign-btn": "Firmar",
+      "sign-modal": {
+        "continue-btn": "Continuar",
+        "terms-checkbox": "He leido los términos y condiciones"
+      },
+      "title": "Documentos sin firmar"
+    }
+  },
+  "main": {
+    "certificate-types": {
+      "tax-certificates": "Certificados tributarios"
+    },
+    "certificates-lbl": "Certificados",
+    "document-types": {
+      "consolidated-legacy-statements": "Cartolas patrimoniales consolidadas",
+      "invoices": "Facturas",
+      "orders-confirmation": "Confirmación de órdenes",
+      "orders-execution-report": "Informe de ejecución de órdenes",
+      "risk-table-per-product": "Tabla de riesgos por producto",
+      "signed-documents": "Documentos firmados"
+    },
+    "documents-lbl": "Documentos",
+    "title": "Documentos y Certificados",
+    "unsigned-documents-lbl": "Documentos sin firmar"
+  }
+}

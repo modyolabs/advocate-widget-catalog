@@ -1,0 +1,35 @@
+{
+  "account-list": {
+    "account-class": {
+      "bank-abbr": "B",
+      "investment-abbr": "I"
+    },
+    "balance": "Saldo",
+    "no-account-msg": "No tienes cuentas bancarias inscritas",
+    "no-currency-msg": "No tienes cuentas bancarias inscritas"
+  },
+  "commons": {
+    "amount": "Monto",
+    "from": "De",
+    "to": "A",
+    "loading": "Cargando",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar"
+  },
+  "main": {
+    "remaining-balance": "Saldo restante",
+    "title": "Transferencia entre mis productos",
+    "transfer-btn": "Transferir",
+    "transfer-from": "Origen",
+    "transfer-to": "Destino"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  }
+}

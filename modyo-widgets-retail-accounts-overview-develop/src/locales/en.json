@@ -1,0 +1,93 @@
+{
+  "commons": {
+    "download": "Download",
+    "search": "Search",
+    "loading": "Loading",
+    "others": "Others",
+    "upcoming": "Upcoming"
+  },
+  "header": {
+    "activity": "Activity",
+    "your-budget": "Your total budget",
+    "total-budget": "Total budget"
+  },
+  "movements": {
+    "upcoming": "Upcoming Movements"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    },
+    "formatDolar": {
+      "decimal": "",
+      "formatWithSymbol": "",
+      "precision": "",
+      "separator": "",
+      "symbol": ""
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "long": "MMMM dd, yyyy",
+      "this-month": "This month"
+    }
+  },
+  "transaction-item": {
+    "amount": "Amount",
+    "balance": "Balance",
+    "details": "Transaction Details",
+    "number": "Transaction Nº",
+    "product": "Product"
+  },
+  "transactions-list": {
+    "latest-transactions": "Latest transactions",
+    "empty": "No recent transactions",
+    "filters": {
+      "all": "All",
+      "income": "Deposit",
+      "outgoing": "Withdrawal"
+    },
+    "select-period": "Select Period",
+    "statements": "Statements",
+    "transactions": "Transactions"
+  },
+  "shortcuts": {
+    "name": "Your Shortcuts"
+  },
+  "insights": {
+    "name": "Insights",
+    "actions": "Actions"
+  },
+  "carousel": {
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "charts": {
+    "totalExpenses": "Total Expenses"
+  },
+  "datepicker": {
+    "name": "Select dates",
+    "lang": "en"
+  },
+  "chartFilter": {
+    "balance": "Balance",
+    "expenses": "Expenses"
+  },
+  "viewTrends": {
+    "name": "View Trends",
+    "overview": "Overview",
+    "accounts": "Accounts",
+    "balance": "Balance",
+    "distribution": "Distribution"
+  },
+  "presets": {
+    "year": "{0} yr",
+    "month": "{0} mth",
+    "week": "{0} wk"
+  }
+}

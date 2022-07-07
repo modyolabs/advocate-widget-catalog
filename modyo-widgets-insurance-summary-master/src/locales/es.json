@@ -1,0 +1,95 @@
+{
+  "main": {
+    "my-insurance": "Mis Seguros",
+    "status": {
+      "valid": "Vigente"
+    },
+    "insurance-types": {
+      "1": "Póliza"
+    }
+  },
+  "summary-card": {
+    "view-insurance": "Ver Seguro"
+  },
+  "_data": [
+    {
+      "title": "Seguro Vida Ahorro",
+      "insuranceType": 1,
+      "insuranceId": "11173900",
+      "status": 1,
+      "icon": "hand-holding-usd",
+      "items": [
+        {
+          "title": "Detalle de Compra",
+          "subtitle": "Pago de Cuota: 1/3",
+          "value": "UF 29,39"
+        },
+        {
+          "title": "Capital Asegurado",
+          "subtitle": "Fallecimiento",
+          "value": "UF 1.500" 
+        }
+      ]
+    },
+    {
+      "title": "Seguro Vida",
+      "insuranceType": 1,
+      "insuranceId": "11173923",
+      "status": 1,
+      "icon": "child",
+      "items": [
+        {
+          "title": "Capital Asegurado",
+          "subtitle": "Fallecimiento",
+          "value": "UF 1.500"
+        }
+      ]
+    },
+    {
+      "title": "Seguro Vida Especial",
+      "insuranceType": 1,
+      "insuranceId": "11173954",
+      "status": 1,
+      "icon": "child",
+      "items": [
+        {
+          "title": "Capital Asegurado",
+          "subtitle": "Fallecimiento",
+          "value": "UF 1.500"
+        }
+      ]
+    },
+    {
+      "title": "Seguro Familiar",
+      "insuranceType": 1,
+      "insuranceId": "11174554",
+      "status": 1,
+      "icon": "users",
+      "items": [
+        {
+          "title": "Detalle de Compra",
+          "subtitle": "Pago de Cuota: 1/3",
+          "value": "UF 29,39"
+        },
+        { "title": "Capital Asegurado",
+          "subtitle": "Fallecimiento",
+          "value": "UF 1.500"
+        }
+      ]
+    },
+    {
+      "title": "Seguro Herederos",
+      "insuranceType": 1,
+      "insuranceId": "11175900",
+      "status": 1,
+      "icon": "hand-holding-usd",
+      "items": [
+        {
+          "title": "Capital Asegurado",
+          "subtitle": "Fallecimiento",
+          "value": "UF 1.500"
+        }
+      ]
+    }
+  ]
+}

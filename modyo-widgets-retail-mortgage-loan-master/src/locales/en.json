@@ -1,0 +1,92 @@
+{
+  "commons": {
+    "back": "Back",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "standar": {
+        "decimal": ".",
+        "formatWithSymbol": true,
+        "precision": 2,
+        "separator": ",",
+        "symbol": "$"
+      }
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM dd, yyyy",
+      "short": "MM/dd/yyyy",
+      "this-month": "This month"
+    }
+  },
+  "main": {
+    "foot": "Down payment",
+    "foot-exceeded-msg": "Down payment cannot be greater than loan amount",
+    "housing-type-title": "Property type",
+    "housing-types": {
+      "department": "Apartment",
+      "house": "House"
+    },
+    "initial-msg": "Enter the loan amount and select the term to {0}",
+    "initial-msg-strong": "start the simulation.",
+    "insurances": "Insurance",
+    "insurances-types": {
+      "homeowners-insurance": "Homeowner's",
+      "term-life-insurance": "Life",
+      "unemployment-insurance": "Unemployment"
+    },
+    "loan-amount": "Loan amount",
+    "max-amount-exceeded-msg": "The maximum loan amount {0}",
+    "max-amount-exceeded-msg-inner": "cannot exceed {amount}",
+    "maximum-loan-amount-msg": "The maximum loan amount {0}",
+    "maximum-loan-amount-msg-inner": "cannot exceed {amount}",
+    "minimum-amount-msg": "The loan amount must be at least {amount}",
+    "minimum-foot-amount-msg": "The down payment must be at least {amount}",
+    "months-of-grace": "Grace period",
+    "simulate-btn": "Simulate",
+    "summary": {
+      "annual": "Annual",
+      "details": {
+        "abstract-of-title": "Abstract of title",
+        "annual": "Annual",
+        "annual-interest-rate": "Annual percentage rate (APR)",
+        "appraisal": "Appraisal",
+        "deed": "Deed",
+        "dividend-value": "Monthly payment",
+        "equivalent-annual-load": "CAE",
+        "foot": "Down payment",
+        "funding": "Financing",
+        "loan-amount": "Loan net value",
+        "loan-total-cost": "Total loan cost",
+        "monthly-interest-rate": "Interest rate",
+        "months-of-grace": "Grace period",
+        "notary-fee": "Notary fee",
+        "property-type": "Property type",
+        "real-state-fee": "Real estate fee",
+        "request-loan-btn": "Apply for loan",
+        "term": "Loan term",
+        "view-summary-btn": "View summary",
+        "years": "{years} years"
+      },
+      "dividend-value": "Monthly payment",
+      "equivalent-annual-load-abbr": "CAE",
+      "funding": "Financing",
+      "loan-total-cost": "Total loan cost",
+      "request-loan-btn": "Apply for loan",
+      "title": "Simulate Your Mortgage",
+      "total-rate": "Interest rate",
+      "view-details-btn": "View details",
+      "years": "Years"
+    },
+    "terms-in-years": "Loan term",
+    "title": "Apply for a mortgage"
+  }
+}

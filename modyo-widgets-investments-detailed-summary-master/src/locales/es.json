@@ -1,0 +1,34 @@
+{
+  "commons": {
+    "back": "Volver",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "accordion-table": {
+    "amount": "Monto",
+    "date": "Fecha",
+    "description": "Descripción",
+    "fees": "cuotas",
+    "product-name": "Nombre del producto",
+    "stock": "acciones"
+  },
+  "in-transit": {
+    "title": "Operaciones en tránsito"
+  },
+  "last-movements": {
+    "title": "Últimos movimientos"
+  },
+  "main": {
+    "filters": {
+      "per-account": "Por cuenta",
+      "per-currency": "Por moneda",
+      "per-product": "Por producto"
+    },
+    "title": "Resumen Detallado"
+  },
+  "summary-accordion": {
+    "account-legacy-lbl": "Patrimonio cuenta",
+    "details-btn": "Ver detalles"
+  }
+}

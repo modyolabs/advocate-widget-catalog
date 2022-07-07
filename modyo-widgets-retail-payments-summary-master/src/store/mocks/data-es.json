@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Enel",
+    "department": "Dept. electricidad",
+    "id": "514312351",
+    "color": "#2E4553",
+    "upcomingPayment" : {
+      "date": "12/12/21",
+      "amount": "24500"
+    },
+    "activity": {
+      "lastPayment": "23250",
+      "average": "24000"
+    },
+    "recentPayment": {
+      "date": "05/10/21",
+      "amount": 26250
+    }
+  },
+  {
+    "name": "Movistar",
+    "department": "Dept wifi",
+    "id": "514312352",
+    "color": "#5D6D7E",
+    "upcomingPayment" : {
+      "date": "05/10/21",
+      "amount": "12300"
+    },
+    "activity": {
+      "lastPayment": "15600",
+      "average": "10200"
+    },
+    "recentPayment": {
+      "date": "05/10/21",
+      "amount": 11340
+    }
+  },
+  {
+    "name": "Aguas Andina",
+    "department": "Dept de agua",
+    "id": "514312353",
+    "color": "#AEB6BF",
+    "upcomingPayment" : {
+      "date": "07/10/21",
+      "amount": "56900"
+    },
+    "activity": {
+      "lastPayment": "20800",
+      "average": "49860"
+    },
+    "recentPayment": {
+      "date": "05/10/21",
+      "amount": 55123
+    }
+  },
+  {
+    "name": "Consorcio",
+    "department": "Seguros de carro",
+    "id": "514312354",
+    "color": "#D6DBDF",
+    "activity": {
+      "lastPayment": "120500",
+      "average": "120500"
+    },
+    "recentPayment": {
+      "date": "05/10/21",
+      "amount": 120500
+    }
+  },
+  {
+    "name": "Vanti",
+    "department": "Dept de gas",
+    "id": "514312355",
+    "color": "#828B8E",
+    "upcomingPayment" : {
+      "date": "05/10/21",
+      "amount": "34600"
+    },
+    "activity": {
+      "lastPayment": "32100",
+      "average": "30125"
+    },
+    "recentPayment": {
+      "date": "05/10/21",
+      "amount": 31500
+    }
+  }
+]

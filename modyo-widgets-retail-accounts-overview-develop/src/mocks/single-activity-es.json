@@ -1,0 +1,932 @@
+[
+  {
+    "totalBudget": 5406.78,
+    "upcomingMovements": [
+      {
+        "id": "f02a89e4-b245-4d75-8f94-8bb49e4de682",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "605.44",
+        "amountType": "in",
+        "business": "Korta - Guerra",
+        "name": "Inversión cuenta 7879",
+        "type": "invoice",
+        "account": "33329690"
+      },
+      {
+        "id": "60cd5cbd-a542-4ed3-b6d5-c3d74360a7e4",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "604.94",
+        "amountType": "out",
+        "business": "Llamas S.A.",
+        "name": "Tarjeta credito Account 2852",
+        "type": "payment",
+        "account": "95657106"
+      },
+      {
+        "id": "1d0905dc-efb3-4d2e-b171-b3f09ec6fa05",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "247.39",
+        "amountType": "in",
+        "business": "Candelaria - Vanegas",
+        "name": "Personal Prestamo Account 2860",
+        "type": "invoice",
+        "account": "08949332"
+      },
+      {
+        "id": "242520bc-2f75-4e7c-8c04-ccf45814846d",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "610.47",
+        "amountType": "out",
+        "business": "Rascón, Madera and Alcántar",
+        "name": "Auto Prestamo Account 7108",
+        "type": "withdrawal",
+        "account": "70888011"
+      },
+      {
+        "id": "ce0441f8-a866-4a3d-96a7-a4d59a3d26db",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "870.35",
+        "amountType": "in",
+        "business": "Alaniz - Xicoy",
+        "name": "Casa Prestamo Account 1991",
+        "type": "deposit",
+        "account": "43663021"
+      },
+      {
+        "id": "8900f887-4bff-409f-9dae-a10b08ba5aa6",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "995.21",
+        "amountType": "out",
+        "business": "Maldonado Hermanos",
+        "name": "Personal Prestamo Account 0910",
+        "type": "invoice",
+        "account": "96908896"
+      },
+      {
+        "id": "4b28b5c5-3f42-4e0f-ab81-afdadb961c72",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "843.10",
+        "amountType": "out",
+        "business": "Meza - Barreto",
+        "name": "Personal Prestamo Account 7908",
+        "type": "invoice",
+        "account": "08222777"
+      }
+    ],
+    "trx": [
+      {
+        "id": "c533c6f1-4002-4f48-9f5e-653e6cdf683d",
+        "accountId": 0,
+        "name": "Tarjeta credito Account 6976",
+        "description": "withdrawal transaction at Delacrúz, Arreola and Monroy using card ending with ***8960 for ZMK 230.56 in account ***84055925",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 580.52,
+        "concept": "invoice",
+        "categoryId": 4,
+        "trxNumber": "3JYs84TxFCLJHTMqTYNehxpxK2jEvjzaa3"
+      },
+      {
+        "id": "5f30aabc-43b9-4235-bed2-76525010c514",
+        "accountId": 0,
+        "name": "Auto Prestamo Account 8417",
+        "description": "payment transaction at Piña - Negrón using card ending with ***2811 for CUP 327.73 in account ***00929861",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 605.37,
+        "concept": "withdrawal",
+        "categoryId": 4,
+        "trxNumber": "3yZkJUFMgaok7Vq81eUKNtFgmYc8PZ3VFr"
+      },
+      {
+        "id": "f336337d-479e-47cb-912d-c94d15e03f48",
+        "accountId": 0,
+        "name": "Mercado Monedas Account 4413",
+        "description": "payment transaction at Águilar - Molina using card ending with ***1951 for IRR 90.82 in account ***84242850",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 49.84,
+        "concept": "deposit",
+        "categoryId": 10,
+        "trxNumber": "1y6eATRTauCASNBjN3tS5b1Kkgt94G"
+      },
+      {
+        "id": "ab6ba4a9-7660-4916-b45d-992d205fd03d",
+        "accountId": 0,
+        "name": "Casa Prestamo Account 3582",
+        "description": "payment transaction at Orozco, Fonseca and Raya using card ending with ***4202 for LKR 752.02 in account ***28377589",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 109.91,
+        "concept": "deposit",
+        "categoryId": 2,
+        "trxNumber": "3sgz6oJYT9ZaTH2LkabTYDXgE2B"
+      },
+      {
+        "id": "02334cce-4529-4eeb-9156-871e9146ed5c",
+        "accountId": 0,
+        "name": "Tarjeta credito Account 2387",
+        "description": "deposit transaction at Morales, Mendoza and Águilar using card ending with ***4109 for RWF 435.10 in account ***09436582",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 519.11,
+        "concept": "payment",
+        "categoryId": 7,
+        "trxNumber": "38d6NckMPCmMWaQyyv5qcg4Hb4XYv"
+      },
+      {
+        "id": "86941f47-9345-4c6b-ac73-96953e405c5f",
+        "accountId": 0,
+        "name": "Vista Cuenta 3060",
+        "description": "withdrawal transaction at Duran, Baeza and Garibay using card ending with ***2543 for HTG 60.92 in account ***32115195",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 487.21,
+        "concept": "deposit",
+        "categoryId": 10,
+        "trxNumber": "15CHQL8fxVwvJZSSVAi7C9ugoF"
+      },
+      {
+        "id": "879931f6-fa99-4217-a5d1-bb5bc390795d",
+        "accountId": 0,
+        "name": "Auto Prestamo Account 3353",
+        "description": "invoice transaction at Garica, Fernández and Corral using card ending with ***7553 for MYR 759.86 in account ***58975730",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 812.68,
+        "concept": "invoice",
+        "categoryId": 3,
+        "trxNumber": "13pT9VosnNb8taLKGX73ARY4vUUkS"
+      },
+      {
+        "id": "e4cbb414-1df5-4f7b-b2a6-2a8acb7a3f54",
+        "accountId": 0,
+        "name": "Ahorros Cuenta 4167",
+        "description": "withdrawal transaction at Segovia Hermanos using card ending with ***4320 for CZK 715.23 in account ***91947021",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 79.2,
+        "concept": "withdrawal",
+        "categoryId": 10,
+        "trxNumber": "1eMYHGUr47X7bzcb23PAL1EC3fU7"
+      },
+      {
+        "id": "1d103e72-9952-4f42-997c-bdeb44705c4b",
+        "accountId": 0,
+        "name": "Vista Cuenta 7210",
+        "description": "payment transaction at Gracia, Huerta and Atencio using card ending with ***5998 for XDR 768.95 in account ***04969712",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 260.15,
+        "concept": "invoice",
+        "categoryId": 5,
+        "trxNumber": "1BQfCreQeHGtEXyTZY3fqiMqdJWV"
+      },
+      {
+        "id": "2ffb8513-9f80-4f35-854d-995f0394bf16",
+        "accountId": 0,
+        "name": "Mercado Monedas Account 6237",
+        "description": "deposit transaction at Pérez, Miramontes and Rivas using card ending with ***6272 for LBP 592.38 in account ***99053710",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 416.32,
+        "concept": "invoice",
+        "categoryId": 9,
+        "trxNumber": "3PDx9i7ioCism5zjotpiWHqSRNE"
+      },
+      {
+        "id": "709791b2-971a-453e-b573-3a1405873cb8",
+        "accountId": 0,
+        "name": "Vista Cuenta 0017",
+        "description": "payment transaction at Riojas e Hijos using card ending with ***5051 for KHR 223.84 in account ***16061963",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 753.51,
+        "concept": "payment",
+        "categoryId": 2,
+        "trxNumber": "1PusUu75cikPKve1GgLFjSabE4WTsMe3P"
+      },
+      {
+        "id": "40d6f71c-5bd3-4b0c-9c6c-a63b64611b07",
+        "accountId": 0,
+        "name": "Auto Prestamo Account 4336",
+        "description": "deposit transaction at Muñiz S.L. using card ending with ***7415 for BAM 534.58 in account ***51498792",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 732.96,
+        "concept": "deposit",
+        "categoryId": 6,
+        "trxNumber": "3vxsvtmkwihiepQ2Ue17XgBz3Sho"
+      }
+    ],
+    "name": "Cuenta Heredado",
+    "id": "228437",
+    "color": "#2E4553"
+  },
+  {
+    "totalBudget": 5897.03,
+    "upcomingMovements": [
+      {
+        "id": "76d49b3e-03ea-4724-9722-c1c5ae79f0e3",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "942.58",
+        "amountType": "in",
+        "business": "Ojeda - Ibarra",
+        "name": "Casa Prestamo Account 9371",
+        "type": "withdrawal",
+        "account": "17332306"
+      },
+      {
+        "id": "e1b459e5-1411-49e4-b03a-15c0fd07ca57",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "762.13",
+        "amountType": "out",
+        "business": "Kanaria, Osorio and Manzanares",
+        "name": "Auto Prestamo Account 6629",
+        "type": "invoice",
+        "account": "30986999"
+      },
+      {
+        "id": "e4ef7085-3e1f-43cc-9584-27b1a6eeedee",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "486.71",
+        "amountType": "in",
+        "business": "Robledo S.L.",
+        "name": "Ahorros Cuenta 3028",
+        "type": "invoice",
+        "account": "54856072"
+      },
+      {
+        "id": "1bf8313f-342f-4498-8d17-37edc31716ad",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "861.93",
+        "amountType": "in",
+        "business": "Moya S.A.",
+        "name": "Tarjeta credito Account 7271",
+        "type": "withdrawal",
+        "account": "24287511"
+      },
+      {
+        "id": "82ca8019-af33-41b7-982a-15337cb6d9be",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "671.64",
+        "amountType": "out",
+        "business": "Girón, Alfaro and Ordóñez",
+        "name": "Inversión cuenta 4044",
+        "type": "invoice",
+        "account": "18231460"
+      },
+      {
+        "id": "1257fb8c-6631-4ac9-a923-3bdf2d919769",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "679.06",
+        "amountType": "out",
+        "business": "Magaña, Naranjo and Vera",
+        "name": "Mercado Monedas Account 4082",
+        "type": "payment",
+        "account": "45804959"
+      }
+    ],
+    "trx": [
+      {
+        "id": "307bb2a8-7289-4b99-a8ab-bcfc79589cab",
+        "accountId": 1,
+        "name": "Tarjeta credito Account 1340",
+        "description": "withdrawal transaction at Abrego Hermanos using card ending with ***8110 for HRK 14.90 in account ***93420866",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 332.03,
+        "concept": "deposit",
+        "categoryId": 9,
+        "trxNumber": "3nuydkgu421xw8hwQHtGJ69Ed"
+      },
+      {
+        "id": "19a4d1c0-a3a4-4792-ba4f-6c2ba6b95c19",
+        "accountId": 1,
+        "name": "Casa Prestamo Account 9746",
+        "description": "payment transaction at Pulido - Vigil using card ending with ***6413 for BHD 873.64 in account ***03686085",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 337.85,
+        "concept": "payment",
+        "categoryId": 5,
+        "trxNumber": "1MhgLVjEszT74RsAGwy5PjNKrNS"
+      },
+      {
+        "id": "54bb6eb6-acdf-4b45-8fd8-0610ac50d55d",
+        "accountId": 1,
+        "name": "Auto Prestamo Account 7860",
+        "description": "payment transaction at Munguía S.L. using card ending with ***2016 for XDR 747.76 in account ***94822880",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 686.53,
+        "concept": "withdrawal",
+        "categoryId": 5,
+        "trxNumber": "1fKowsocthKMzZ6KLvPr4iwR4kxg6"
+      },
+      {
+        "id": "73be4a6c-971e-4e8e-8854-c631aef99309",
+        "accountId": 1,
+        "name": "Ahorros Cuenta 0346",
+        "description": "invoice transaction at Figueroa - Brito using card ending with ***9475 for PKR 441.10 in account ***48376238",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 386.17,
+        "concept": "withdrawal",
+        "categoryId": 7,
+        "trxNumber": "1HWN3T632LEqQ4kgM4PyhQShYQx4ZzSg"
+      },
+      {
+        "id": "584f8a07-6995-4fa8-a4c7-abb8ab2983d4",
+        "accountId": 1,
+        "name": "Mercado Monedas Account 3691",
+        "description": "invoice transaction at Alva, Mejía and Rivero using card ending with ***8011 for MMK 275.03 in account ***64312477",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 625.84,
+        "concept": "withdrawal",
+        "categoryId": 7,
+        "trxNumber": "3RZxCHaxH5boCYqGavP2ErWXChVn2UYn"
+      },
+      {
+        "id": "31092eb1-25a4-4ca4-b60b-f04b62360429",
+        "accountId": 1,
+        "name": "Auto Prestamo Account 6229",
+        "description": "invoice transaction at Olivárez e Hijos using card ending with ***2982 for VND 215.17 in account ***72020564",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 805.42,
+        "concept": "invoice",
+        "categoryId": 5,
+        "trxNumber": "1jbCrCzsxGL5rFEnYnXggzD8Ntk5GRU"
+      },
+      {
+        "id": "8c2d6bf6-679a-4078-9fdf-65f35c7dcb69",
+        "accountId": 1,
+        "name": "Ahorros Cuenta 1708",
+        "description": "deposit transaction at Miramontes, Pulido and Vanegas using card ending with ***2603 for TRY 776.05 in account ***30071277",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 119.42,
+        "concept": "withdrawal",
+        "categoryId": 9,
+        "trxNumber": "3RCAKym4Me4x2pfhVPnmPGNbfm5h"
+      },
+      {
+        "id": "d67eecd9-82ff-4a7a-8556-0f1819afdd22",
+        "accountId": 1,
+        "name": "Mercado Monedas Account 4296",
+        "description": "payment transaction at Gonzales, Camarillo and Negrete using card ending with ***8125 for ILS 578.62 in account ***72720856",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 18.41,
+        "concept": "deposit",
+        "categoryId": 1,
+        "trxNumber": "3X7AcBqSHK4L3GyRXQxYxwWeaxy"
+      },
+      {
+        "id": "29ccde41-f88c-4ff2-a252-15cd6e7929f7",
+        "accountId": 1,
+        "name": "Mercado Monedas Account 7120",
+        "description": "invoice transaction at Jaime, Peña and Ríos using card ending with ***0007 for UYU 758.23 in account ***36083701",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 472.45,
+        "concept": "invoice",
+        "categoryId": 4,
+        "trxNumber": "12QgCt5NYotGWWiUAwFfymtE4R"
+      },
+      {
+        "id": "7f2dfc86-353c-48d5-91bb-d26a24dab083",
+        "accountId": 1,
+        "name": "Mercado Monedas Account 5261",
+        "description": "payment transaction at Padilla, Navarrete and Feliciano using card ending with ***7384 for XFU 498.98 in account ***32142124",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 625.73,
+        "concept": "deposit",
+        "categoryId": 4,
+        "trxNumber": "3fbzMVbPk52DKMHBW8TtvrySH"
+      },
+      {
+        "id": "d27b2c66-ae8a-47cd-b2d2-1bbda0cd11d6",
+        "accountId": 1,
+        "name": "Ahorros Cuenta 0829",
+        "description": "deposit transaction at Ontiveros e Hijos using card ending with ***9842 for QAR 425.55 in account ***73105545",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 680.45,
+        "concept": "deposit",
+        "categoryId": 4,
+        "trxNumber": "1x7bE5H3qSHEKAXdLVveJZSv1NkZX"
+      },
+      {
+        "id": "6fd85771-5eb0-43c3-a164-7701e86c4030",
+        "accountId": 1,
+        "name": "Tarjeta credito Account 2307",
+        "description": "invoice transaction at Salinas - Amador using card ending with ***3278 for GHS 447.04 in account ***06906925",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 806.73,
+        "concept": "withdrawal",
+        "categoryId": 5,
+        "trxNumber": "1jvQjVqhMRJNX3pEEcNHAVZS8Ju"
+      }
+    ],
+    "name": "Cuenta Director",
+    "id": "142071",
+    "color": "#515A5E"
+  },
+  {
+    "totalBudget": 4006.33,
+    "upcomingMovements": [
+      {
+        "id": "0c082985-15d0-4db2-a90b-af955f36a950",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "596.81",
+        "amountType": "in",
+        "business": "García - Hurtado",
+        "name": "Casa Prestamo Account 3755",
+        "type": "deposit",
+        "account": "40118126"
+      },
+      {
+        "id": "bc6af80a-72a3-4ace-86cd-38575584147a",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "902.04",
+        "amountType": "out",
+        "business": "Zambrano, Zayas and Arreola",
+        "name": "Personal Prestamo Account 0158",
+        "type": "withdrawal",
+        "account": "19473188"
+      },
+      {
+        "id": "df2ffafd-16d9-4ce4-80bb-c52c915d742d",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "665.81",
+        "amountType": "in",
+        "business": "Villalpando, Feliciano and Mata",
+        "name": "Auto Prestamo Account 4919",
+        "type": "deposit",
+        "account": "25064738"
+      }
+    ],
+    "trx": [
+      {
+        "id": "e6bf6565-670d-4b4b-97a8-3be4ee4123ed",
+        "accountId": 2,
+        "name": "Inversión cuenta 5203",
+        "description": "invoice transaction at Carvajal, Cruz and Arias using card ending with ***3569 for SZL 477.37 in account ***67994616",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 150.8,
+        "concept": "deposit",
+        "categoryId": 10,
+        "trxNumber": "1tYcc3w6WosRn2M6fAWnjU4ftv"
+      },
+      {
+        "id": "7a2fe5ef-ee5d-4576-a861-7dbef3b03818",
+        "accountId": 2,
+        "name": "Inversión cuenta 2937",
+        "description": "deposit transaction at Guerra, Ledesma and Cazares using card ending with ***2379 for VUV 222.41 in account ***79379861",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 57.86,
+        "concept": "payment",
+        "categoryId": 9,
+        "trxNumber": "1KAYQjJyE64QiSnY5UKyr5q2GNj2eu"
+      },
+      {
+        "id": "42b6ad49-1add-4f8d-816f-945611da91f7",
+        "accountId": 2,
+        "name": "Inversión cuenta 2477",
+        "description": "withdrawal transaction at Arteaga, Calderón and Berríos using card ending with ***2582 for XPF 201.87 in account ***76315314",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 478.09,
+        "concept": "deposit",
+        "categoryId": 4,
+        "trxNumber": "1yYKdjdYCb23vktSv6X6YumMX6LQM"
+      },
+      {
+        "id": "f2fe016f-eb0d-4efb-8faf-34c1f4186bab",
+        "accountId": 2,
+        "name": "Vista Cuenta 2344",
+        "description": "deposit transaction at Krasnova, Ybarra and Quiros using card ending with ***1336 for MVR 611.03 in account ***61087687",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 356.66,
+        "concept": "deposit",
+        "categoryId": 8,
+        "trxNumber": "3MCovEuSDNyE9e8wA7znA2LBdNvM9MgitW"
+      },
+      {
+        "id": "ddecbf15-12bf-47b0-85c5-2963fe635334",
+        "accountId": 2,
+        "name": "Personal Prestamo Account 4433",
+        "description": "invoice transaction at Karem, Gracia and Pizarro using card ending with ***0193 for KZT 965.82 in account ***60363102",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 239.54,
+        "concept": "payment",
+        "categoryId": 9,
+        "trxNumber": "3NEg1udaMbdSUL1U7pCCG4sFB6xh"
+      },
+      {
+        "id": "ef3de0cf-92d4-4116-be0f-e88927451f63",
+        "accountId": 2,
+        "name": "Inversión cuenta 9297",
+        "description": "withdrawal transaction at Palomo - Ojeda using card ending with ***4096 for UAH 689.18 in account ***42280597",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 814.44,
+        "concept": "invoice",
+        "categoryId": 8,
+        "trxNumber": "3XebMZMopMs123SWSiBccQaE6yE"
+      },
+      {
+        "id": "1f11e0cd-057e-46be-91c9-e3dc4b5289b5",
+        "accountId": 2,
+        "name": "Inversión cuenta 0407",
+        "description": "withdrawal transaction at Arias - Rivas using card ending with ***9848 for XOF 756.56 in account ***39096038",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 104.25,
+        "concept": "invoice",
+        "categoryId": 3,
+        "trxNumber": "3v846vzES7ZYp21LtcUthjfw9B1PjzHNT"
+      },
+      {
+        "id": "b790259b-5222-40fd-8c06-800365a6e16e",
+        "accountId": 2,
+        "name": "Mercado Monedas Account 1519",
+        "description": "withdrawal transaction at Acosta - Jáquez using card ending with ***1346 for SOS 647.75 in account ***76327655",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 144.49,
+        "concept": "deposit",
+        "categoryId": 4,
+        "trxNumber": "1VYU9mPRQnBGe1qmugidjRFKinT"
+      },
+      {
+        "id": "51421c04-bb29-4095-b721-5949350b5e81",
+        "accountId": 2,
+        "name": "Tarjeta credito Account 8407",
+        "description": "payment transaction at Garibay e Hijos using card ending with ***2595 for MOP 611.43 in account ***44133388",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 801.44,
+        "concept": "withdrawal",
+        "categoryId": 10,
+        "trxNumber": "3k5aTcyhK8LL1DGFharhdCLzf"
+      },
+      {
+        "id": "72ad68a9-583a-413e-86da-df4c4e1f5c99",
+        "accountId": 2,
+        "name": "Tarjeta credito Account 3853",
+        "description": "deposit transaction at Arriaga S.L. using card ending with ***4068 for ILS 403.94 in account ***23065114",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 365.92,
+        "concept": "deposit",
+        "categoryId": 9,
+        "trxNumber": "1UxfKpQNarSG9uHTDmcuHSPDp3iPH"
+      },
+      {
+        "id": "db763251-2dee-4ae6-8f5f-e7e3d1e20cc2",
+        "accountId": 2,
+        "name": "Ahorros Cuenta 0559",
+        "description": "invoice transaction at Yago - Yanes using card ending with ***3390 for BGN 636.92 in account ***68082530",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 49.61,
+        "concept": "deposit",
+        "categoryId": 1,
+        "trxNumber": "3LBffF8Vdwa3zgBd3tcUsGW6JS"
+      },
+      {
+        "id": "8991fea4-bcd7-4a9e-916f-af3d8712b800",
+        "accountId": 2,
+        "name": "Personal Prestamo Account 9699",
+        "description": "payment transaction at Mejía - Pineda using card ending with ***3122 for EEK 467.96 in account ***40808380",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 443.23,
+        "concept": "withdrawal",
+        "categoryId": 10,
+        "trxNumber": "34WL3Cm8A5ogiMkNJmrNRqziMp7E"
+      }
+    ],
+    "name": "Cuenta Interno",
+    "id": "818881",
+    "color": "#A3AFB4"
+  },
+  {
+    "totalBudget": 7700.18,
+    "upcomingMovements": [
+      {
+        "id": "8b4e11d8-2eeb-4663-9870-7bafcd172ee3",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "744.75",
+        "amountType": "in",
+        "business": "Guillen - Hinojosa",
+        "name": "Tarjeta credito Account 5356",
+        "type": "deposit",
+        "account": "73510067"
+      },
+      {
+        "id": "2d745b75-34d7-46d0-9d3a-7ce431906dd2",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "171.05",
+        "amountType": "in",
+        "business": "Maya S.A.",
+        "name": "Tarjeta credito Account 8772",
+        "type": "payment",
+        "account": "92842224"
+      },
+      {
+        "id": "c0077330-15aa-493f-803d-ff39981680d5",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "764.77",
+        "amountType": "in",
+        "business": "Guerra S.A.",
+        "name": "Ahorros Cuenta 9511",
+        "type": "deposit",
+        "account": "22781870"
+      },
+      {
+        "id": "18cf5d19-51ad-47ff-b2e4-80b1cdb7db44",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "372.72",
+        "amountType": "in",
+        "business": "Ramón S.A.",
+        "name": "Casa Prestamo Account 7501",
+        "type": "withdrawal",
+        "account": "47485620"
+      }
+    ],
+    "trx": [
+      {
+        "id": "515492a5-9ab9-47dc-aac4-98969e98a435",
+        "accountId": 3,
+        "name": "Vista Cuenta 9830",
+        "description": "invoice transaction at Atencio Hermanos using card ending with ***6745 for SEK 589.95 in account ***11067547",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 936.25,
+        "concept": "invoice",
+        "categoryId": 5,
+        "trxNumber": "31A9whUNQoRdyvaGQdrD8sqMyb"
+      },
+      {
+        "id": "a88937fd-ed99-40ad-9c50-b9babaae32d7",
+        "accountId": 3,
+        "name": "Vista Cuenta 1126",
+        "description": "withdrawal transaction at Cedillo S.A. using card ending with ***9602 for RON 80.64 in account ***66390173",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 678,
+        "concept": "deposit",
+        "categoryId": 9,
+        "trxNumber": "37HwdjwBSCF9WZBbY3eaCS7e4b"
+      },
+      {
+        "id": "b2938572-0365-4cf0-9597-9b106eb89c33",
+        "accountId": 3,
+        "name": "Mercado Monedas Account 0774",
+        "description": "deposit transaction at Monroy, Sánchez and Meza using card ending with ***4123 for HTG 701.14 in account ***59985847",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 701.24,
+        "concept": "withdrawal",
+        "categoryId": 9,
+        "trxNumber": "1aq2K6VhooyoBdAaThsaBdtdKcAdZ"
+      },
+      {
+        "id": "2a5bc626-e357-4d47-b257-8a487a7e9ab3",
+        "accountId": 3,
+        "name": "Vista Cuenta 3479",
+        "description": "withdrawal transaction at Heredia S.L. using card ending with ***7429 for NPR 373.77 in account ***22775202",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 778.79,
+        "concept": "invoice",
+        "categoryId": 1,
+        "trxNumber": "3cZsA2KtU8Y3ExCoWPdH8Vwau4neDuf"
+      },
+      {
+        "id": "422242b4-91f9-46ac-9d8b-01bb45e85a17",
+        "accountId": 3,
+        "name": "Inversión cuenta 4299",
+        "description": "payment transaction at Lovato - Gurule using card ending with ***2008 for PKR 992.61 in account ***43522540",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 669.37,
+        "concept": "withdrawal",
+        "categoryId": 10,
+        "trxNumber": "3LN3ULRtNLLc3BtbJYmj4Ua2NbhZfAQT9r"
+      },
+      {
+        "id": "413fb98b-7cfc-4015-b864-3ac72d2f3b41",
+        "accountId": 3,
+        "name": "Casa Prestamo Account 9007",
+        "description": "payment transaction at Leiva S.L. using card ending with ***9382 for BTN 57.37 in account ***28198495",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 842.47,
+        "concept": "withdrawal",
+        "categoryId": 10,
+        "trxNumber": "1BVGSdoVrZW9Q1QGcXLAsJgkNtvCASN"
+      },
+      {
+        "id": "0c8a0b5a-852e-4000-bf88-15e607bab542",
+        "accountId": 3,
+        "name": "Ahorros Cuenta 3322",
+        "description": "payment transaction at Portillo - Ontiveros using card ending with ***0549 for UZS 625.29 in account ***25831800",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 651.54,
+        "concept": "payment",
+        "categoryId": 5,
+        "trxNumber": "3z7iApF5SW3Bt882yLqaFN4ahQM"
+      },
+      {
+        "id": "f4088bd5-d340-4d03-918e-99d4ed4495b7",
+        "accountId": 3,
+        "name": "Inversión cuenta 5620",
+        "description": "invoice transaction at Amador e Hijos using card ending with ***7031 for NPR 490.82 in account ***77480755",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 3.6,
+        "concept": "payment",
+        "categoryId": 6,
+        "trxNumber": "1iRsHGeRMsUwRUbS8cSSVbxJEaeB7goUZ"
+      },
+      {
+        "id": "3013566b-2c0e-4c35-88ff-cc5d124e93c2",
+        "accountId": 3,
+        "name": "Personal Prestamo Account 1458",
+        "description": "deposit transaction at Zamarreno - Abrego using card ending with ***3244 for KMF 672.02 in account ***48771981",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 980.29,
+        "concept": "withdrawal",
+        "categoryId": 9,
+        "trxNumber": "1zQ9C7nzBwYWoXG5pRjRVnU4x"
+      },
+      {
+        "id": "43991021-a0fb-4118-bd9b-604e00ce4967",
+        "accountId": 3,
+        "name": "Inversión cuenta 9767",
+        "description": "invoice transaction at Nájera, Malave and Almaraz using card ending with ***4496 for LSL 829.25 in account ***63418392",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 757.55,
+        "concept": "payment",
+        "categoryId": 3,
+        "trxNumber": "1tRW7oqyv6DF3FzBf9hJUaX8Pmps"
+      },
+      {
+        "id": "7d2b0e21-92e8-4e27-80c3-3f031a5fbf0f",
+        "accountId": 3,
+        "name": "Auto Prestamo Account 9355",
+        "description": "withdrawal transaction at Bonilla - Arteaga using card ending with ***6780 for BOB 644.92 in account ***12398938",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 386.59,
+        "concept": "withdrawal",
+        "categoryId": 7,
+        "trxNumber": "1zT54fQGDDkoFJGxoPDnGKdxuUju4v"
+      },
+      {
+        "id": "d1fe2f22-6644-4285-a825-e56bd4826f32",
+        "accountId": 3,
+        "name": "Vista Cuenta 3679",
+        "description": "withdrawal transaction at Ramón Hermanos using card ending with ***1083 for XAG 54.51 in account ***38982353",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 314.49,
+        "concept": "deposit",
+        "categoryId": 10,
+        "trxNumber": "166by7YGrTX6VhXC9UP2mRphJhSorFubp"
+      }
+    ],
+    "name": "Cuenta Adelante",
+    "id": "264817",
+    "color": "#6F797D"
+  },
+  {
+    "totalBudget": 6725.38,
+    "upcomingMovements": [
+      {
+        "id": "aa945b1c-3e94-4bd8-aba5-a414a3f4e9ca",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "607.37",
+        "amountType": "out",
+        "business": "Cerda - Xicoy",
+        "name": "Ahorros Cuenta 6533",
+        "type": "withdrawal",
+        "account": "33230950"
+      },
+      {
+        "id": "30ee0caa-c437-4954-8e31-d2491560d721",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "872.64",
+        "amountType": "out",
+        "business": "Mesa S.L.",
+        "name": "Auto Prestamo Account 0353",
+        "type": "payment",
+        "account": "81382679"
+      }
+    ],
+    "trx": [
+      {
+        "id": "45cd4922-4cd5-4ea9-925e-0231c194022d",
+        "accountId": 4,
+        "name": "Inversión cuenta 8284",
+        "description": "payment transaction at Navarro, Colunga and Madrid using card ending with ***4783 for XCD 785.44 in account ***48602366",
+        "date": "2022-01-02T05:00:00.000Z",
+        "amount": 501.2,
+        "concept": "invoice",
+        "categoryId": 3,
+        "trxNumber": "1w1pX9uArguYJDTSP3NjCmtGkwkH33KJ"
+      },
+      {
+        "id": "3b78119d-d17c-41c3-9cfd-9aeeeef4d833",
+        "accountId": 4,
+        "name": "Tarjeta credito Account 8533",
+        "description": "invoice transaction at Báez, Matos and Cordero using card ending with ***2632 for XPF 192.04 in account ***62164230",
+        "date": "2022-02-04T05:00:00.000Z",
+        "amount": 856,
+        "concept": "invoice",
+        "categoryId": 1,
+        "trxNumber": "31Sf5FjRMg8tyaLdqvSJVcPii"
+      },
+      {
+        "id": "562c6b05-f675-468c-829f-2a2113ac02a9",
+        "accountId": 4,
+        "name": "Inversión cuenta 9695",
+        "description": "deposit transaction at Montoya - Tello using card ending with ***6962 for ERN 514.70 in account ***81933823",
+        "date": "2022-03-06T05:00:00.000Z",
+        "amount": 903.78,
+        "concept": "payment",
+        "categoryId": 3,
+        "trxNumber": "3HvnKdTUoR5GhtnxybpXJd29sCa9eJ"
+      },
+      {
+        "id": "fd43a82f-d8c3-47c5-b9fa-99c996760ae4",
+        "accountId": 4,
+        "name": "Mercado Monedas Account 3543",
+        "description": "withdrawal transaction at Guzmán, Rico and Varela using card ending with ***9573 for NIO 317.60 in account ***16321547",
+        "date": "2022-04-08T05:00:00.000Z",
+        "amount": 368.5,
+        "concept": "deposit",
+        "categoryId": 7,
+        "trxNumber": "1PYXSKzPJrXcqo2rayjWf2aLBA"
+      },
+      {
+        "id": "eeb95fdc-2c77-4ac7-a5ea-0dee09d988b6",
+        "accountId": 4,
+        "name": "Ahorros Cuenta 7107",
+        "description": "invoice transaction at Ayala e Hijos using card ending with ***7758 for NZD 715.78 in account ***71060522",
+        "date": "2022-05-10T05:00:00.000Z",
+        "amount": 597.99,
+        "concept": "payment",
+        "categoryId": 1,
+        "trxNumber": "3xddXnCfVjR5eXT8M24D5vmer9drpwM21p"
+      },
+      {
+        "id": "057d7c75-879a-41ff-80c8-604d335a4a5f",
+        "accountId": 4,
+        "name": "Personal Prestamo Account 0345",
+        "description": "deposit transaction at Delapaz, Espinal and Rincón using card ending with ***7322 for SZL 669.28 in account ***26677509",
+        "date": "2022-06-12T05:00:00.000Z",
+        "amount": 484.81,
+        "concept": "payment",
+        "categoryId": 7,
+        "trxNumber": "1BUGCFGNXz5rJmVfnLvJPf8EKWr4YjSd"
+      },
+      {
+        "id": "695436ce-07f1-4760-8230-c52ff7d7e118",
+        "accountId": 4,
+        "name": "Mercado Monedas Account 2979",
+        "description": "invoice transaction at Alonso - Navarro using card ending with ***3804 for ARS 823.64 in account ***93687998",
+        "date": "2022-07-14T05:00:00.000Z",
+        "amount": 959,
+        "concept": "invoice",
+        "categoryId": 4,
+        "trxNumber": "1sboTMSoX4UJzBWAbRB7rzzbCgVGahEfeE"
+      },
+      {
+        "id": "bfd46e20-915b-4eaf-81e7-f14487f1ea01",
+        "accountId": 4,
+        "name": "Vista Cuenta 3657",
+        "description": "payment transaction at Xairo Belmonte S.L. using card ending with ***5149 for BAM 197.58 in account ***68032781",
+        "date": "2022-08-16T05:00:00.000Z",
+        "amount": 238.67,
+        "concept": "withdrawal",
+        "categoryId": 6,
+        "trxNumber": "1ww3wqYkchiKSMuUMrzHDfs3V6p"
+      },
+      {
+        "id": "d3e80dcc-999b-4c0d-8fff-e2ff6c71c5f1",
+        "accountId": 4,
+        "name": "Personal Prestamo Account 5703",
+        "description": "invoice transaction at Nieves, Heredia and Meléndez using card ending with ***9760 for XBD 744.83 in account ***59811454",
+        "date": "2022-09-18T05:00:00.000Z",
+        "amount": 281.02,
+        "concept": "deposit",
+        "categoryId": 8,
+        "trxNumber": "3zUQ4LrkMFGfv7xVkfZnkeQir1a1sX5wC"
+      },
+      {
+        "id": "97e906e2-4587-4334-9e32-ad63b3f4135f",
+        "accountId": 4,
+        "name": "Personal Prestamo Account 2670",
+        "description": "withdrawal transaction at Armas - Gallegos using card ending with ***9159 for ZWL 698.79 in account ***26386762",
+        "date": "2022-10-20T05:00:00.000Z",
+        "amount": 172.99,
+        "concept": "payment",
+        "categoryId": 10,
+        "trxNumber": "37bEYnK6C8T4x8Dyfx9QVjSWxT93sR"
+      },
+      {
+        "id": "a58567d7-52e1-4f82-ad4d-c7b3f3ae39f4",
+        "accountId": 4,
+        "name": "Vista Cuenta 9071",
+        "description": "invoice transaction at Gálvez e Hijos using card ending with ***1234 for HUF 585.34 in account ***26151270",
+        "date": "2022-11-22T05:00:00.000Z",
+        "amount": 499.1,
+        "concept": "invoice",
+        "categoryId": 9,
+        "trxNumber": "1m6BgXuL2YjuxFXqYRyNVAbM1FLdyP3o"
+      },
+      {
+        "id": "cef68d75-a133-456c-83d4-3ab65f3fa3be",
+        "accountId": 4,
+        "name": "Personal Prestamo Account 1013",
+        "description": "deposit transaction at Ulibarri - León using card ending with ***3282 for RUB 73.88 in account ***78983270",
+        "date": "2022-12-24T05:00:00.000Z",
+        "amount": 862.32,
+        "concept": "payment",
+        "categoryId": 7,
+        "trxNumber": "1DEjid8E4qLRcQVrwpgJhWNzP"
+      }
+    ],
+    "name": "Cuenta International",
+    "id": "522020",
+    "color": "#8F999D"
+  }
+]

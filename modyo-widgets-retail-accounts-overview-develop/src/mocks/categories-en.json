@@ -1,0 +1,42 @@
+{
+  "1": {
+    "name": "Transfer",
+    "color": "#2E4553"
+  },
+  "2": {
+    "name": "Cash deposit",
+    "color": "#47586F"
+  },
+  "3": {
+    "name": "Deposit same bank",
+    "color": "#666A89"
+  },
+  "4": {
+    "name": "Deposit other bank",
+    "color": "#8C7C9F"
+  },
+  "5": {
+    "name": "Automatic Payment",
+    "color": "#B48DAF"
+  },
+  "6": {
+    "name": "Payment",
+    "color": "#DC9FBA"
+  },
+  "7": {
+    "name": "Charge",
+    "color": "#5E7584"
+  },
+  "8": {
+    "name": "Check deposit",
+    "color": "#503C49"
+  },
+  "9": {
+    "name": "ATM Withdrawal",
+    "color": "#826C7A"
+  },
+  "10": {
+    "name": "Transfer on ATM",
+    "color": "#B7CFE0"
+  }
+}

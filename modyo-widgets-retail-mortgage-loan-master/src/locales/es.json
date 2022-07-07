@@ -1,0 +1,99 @@
+{
+  "commons": {
+    "back": "Back",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "currency": {
+    "format": {
+      "standar": {
+        "decimal": ",",
+        "formatWithSymbol": true,
+        "precision": 0,
+        "separator": ".",
+        "symbol": "$"
+      },
+      "uf": {
+        "decimal": ",",
+        "formatWithSymbol": true,
+        "precision": 2,
+        "separator": ".",
+        "symbol": "UF "
+      }
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "dd MMMM yyyy",
+      "short": "dd/MM/yyyy",
+      "this-month": "Este mes"
+    }
+  },
+  "main": {
+    "foot": "Pie",
+    "foot-exceeded-msg": "El monto del pie no puede ser superior al monto solicitado",
+    "housing-type-title": "Tipo de vivienda",
+    "housing-types": {
+      "department": "Departamento",
+      "house": "Casa"
+    },
+    "initial-msg": "Ingresa los montos y selecciona las cuotas para {0}",
+    "initial-msg-strong": "comenzar la simulación.",
+    "insurances": "Seguros",
+    "insurances-types": {
+      "homeowners-insurance": "Incendio/Sismo",
+      "term-life-insurance": "Desgravamen",
+      "unemployment-insurance": "Cesantía"
+    },
+    "loan-amount": "Monto del Crédito",
+    "max-amount-exceeded-msg": "El monto del crédito {0}",
+    "max-amount-exceeded-msg-inner": "no puede ser mayor a {amount}",
+    "maximum-loan-amount-msg": "El monto del crédito {0}",
+    "maximum-loan-amount-msg-inner": "no puede ser mayor a {amount}",
+    "minimum-amount-msg": "El monto del crédito debe ser mínimo {amount}",
+    "minimum-foot-amount-msg": "El monto del pie debe ser mínimo {amount}",
+    "months-of-grace": "Meses de gracia",
+    "simulate-btn": "Simular",
+    "summary": {
+      "annual": "Anual",
+      "details": {
+        "abstract-of-title": "Estudio de títulos",
+        "annual": "anual",
+        "annual-interest-rate": "Tasa de interes anual",
+        "appraisal": "Tasación",
+        "deed": "Redacción de escritura",
+        "dividend-value": "Valor dividendo",
+        "equivalent-annual-load": "CAE",
+        "foot": "Pie",
+        "funding": "Financiamiento",
+        "loan-amount": "Monto líquido del crédito",
+        "loan-total-cost": "Costo total del crédito",
+        "monthly-interest-rate": "Tasa de interes mensual",
+        "months-of-grace": "Meses de gracia",
+        "notary-fee": "Gastos notariales",
+        "property-type": "Tipo de propiedad",
+        "real-state-fee": "Conservador de Bienes Raices",
+        "request-loan-btn": "Solicitar Crédito",
+        "term": "Plazo",
+        "view-summary-btn": "Ver resumen",
+        "years": "{years} años"
+      },
+      "dividend-value": "valor dividendo",
+      "equivalent-annual-load-abbr": "CAE",
+      "funding": "Financiamiento",
+      "loan-total-cost": "Costo total del crédito",
+      "request-loan-btn": "Solicitar Crédito",
+      "title": "Resumen de Simulación",
+      "total-rate": "Tasa total",
+      "view-details-btn": "Ver Detalle",
+      "years": "Años"
+    },
+    "terms-in-years": "Plazo en Años",
+    "title": "Solicitar Crédito Hipotecario"
+  }
+}

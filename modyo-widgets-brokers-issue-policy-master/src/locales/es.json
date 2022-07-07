@@ -1,0 +1,217 @@
+{
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "issue-policy": {
+    "emit": "Emitir Póliza",
+    "step1": {
+      "title": "Fecha de Vigencia",
+      "validity": {
+        "property-type": "Tipo de Propiedad",
+        "property-type-placeholder": "Elige el tipo de propiedad",
+        "property-types-list": [
+          "Casa",
+          "Departamento",
+          "Oficina",
+          "Local Comercial",
+          "Sitio",
+          "Parcela",
+          "Bodega",
+          "Estacionamiento",
+          "Estudio",
+          "Loft",
+          "Terreno",
+          "Terreno Industrial",
+          "Terreno Agrícola",
+          "Terreno Forestal"
+        ],
+        "start-date": "Fecha de Inicio de Vigencia"
+      }
+    },
+    "step2": {
+      "confirmation-checkbox": "Acepto los {0} declarados en el documento",
+      "confirmation-terms": "términos y condiciones",
+      "title": "Confirmación"
+    }
+  },
+  "quote": {
+    "amount-to-be-paid": "Valor a pagar",
+    "generate": "Generar Cotización",
+    "ref-number": "Cotización nº {n}"
+  },
+  "stepper": {
+    "exit": "Salir",
+    "finish": "Terminar",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "save": "Guardar"
+  },
+  "_policy-data": {
+    "agreements": [
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 1"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 2"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 3"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 4"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 5"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 6"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "fire-alt",
+        "label": "Incendio y Aliadas 7"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "lightbulb",
+        "label": "Electrodomesticos 8"
+      },
+      {
+        "description": "15% de la pérdida; mínimo 15 SMDLV",
+        "icon": "tint",
+        "label": "Inundación 9"
+      }
+    ],
+    "data-columns-items": [
+      {
+        "description": "11/09/2019",
+        "label": "Fecha Fin de Vigencia"
+      },
+      {
+        "description": "COPROPIEDADES",
+        "label": "Producto"
+      },
+      {
+        "description": "BROKER COMPANY 1",
+        "label": "Intermediario"
+      },
+      {
+        "description": "856347",
+        "label": "Clave Intermediario"
+      },
+      {
+        "description": "Copropiedad 100",
+        "label": "Nombre Tomador"
+      },
+      {
+        "description": "Santiago",
+        "label": "Ciudad"
+      },
+      {
+        "description": "Carrera 13A 106A - 20",
+        "label": "Dirección de la Propiedad"
+      }
+    ],
+    "table": {
+      "body": [
+        [
+          "Propiedad",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Responsabilidad Civil",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Manejo",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Directores y Administradores",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Accidentes Personales",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Asistencia",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Gastos por Emisión",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Totales",
+          11990000,
+          10000000,
+          10000000
+        ],
+        [
+          "Comisión (15%)",
+          11990000,
+          10000000,
+          10000000
+        ]
+      ],
+      "header": [
+        null,
+        {
+          "align": "right",
+          "name": "Prima con IVA"
+        },
+        {
+          "align": "right",
+          "name": "Prima"
+        },
+        {
+          "align": "right",
+          "name": "Impuestos"
+        }
+      ]
+    }
+  },
+  "body": {
+    "agreements-title": "Coberturas y Deductibles",
+    "btn-go-to-historical-table": "Ir al Histórico",
+    "historical-table": "Histórico de Póliza",
+    "premium-increase": "Incremento de Prima",
+    "status": {
+      "valid": "Vigente"
+    },
+    "title-mobile": "Resumen"
+  }
+}

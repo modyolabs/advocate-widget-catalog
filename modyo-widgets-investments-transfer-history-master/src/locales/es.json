@@ -1,0 +1,34 @@
+{
+  "commons": {
+    "amount": "Monto",
+    "date": "Fecha",
+    "description": "Descripción",
+    "from": "Origen",
+    "to": "Destino",
+    "loading": "Cargando",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar"
+  },
+  "main": {
+    "transfer-type": "Tipo de transferencia",
+    "filters": {
+      "all": "Todos",
+      "payments": "Abonos",
+      "transfers": "Transferencias"
+    },
+    "no-movements": "No hay movimientos",
+    "title": "Transferencias y abonos"
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "dd/MM/yyyy",
+      "short": "DD/MM/YYYY",
+      "this-month": "Este mes",
+      "range": "Rango de fechas"
+    }
+  }
+}

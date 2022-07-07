@@ -1,0 +1,171 @@
+{
+  "body": {
+    "coverages": "Coberturas",
+    "coverages-main": "Coberturas Asegurado Principal",
+    "current-portfolio": "Portafolio Actual",
+    "funds-details": "Información de Fondos",
+    "main-insured": "Asegurado Principal",
+    "notes": [
+      "Corresponde al saldo que se determina según el número de cuotas de los activos de inversión asociados a la póliza, multiplicado por el valor cuota de dichos activos a la fecha del cálculo.",
+      "Para más información revisa tu póliza"
+    ],
+    "policy-value-details": "Detalle Valor Póliza",
+    "policy-value-distribution-percentage": "Porcentaje de Distribución del Valor de Póliza",
+    "portfolio-summary": "Resumen Portafolio"
+  },
+  "commons": {
+    "accounts": "Cuentas",
+    "at-date": "al {date}",
+    "back": "Volver",
+    "back-home": "Volver al Inicio",
+    "balance": "Saldo",
+    "capital": "Capital",
+    "contractor": "Contratante",
+    "date": "Fecha",
+    "fee-number": "Nro. Cuota",
+    "final-balance": "Saldo Final",
+    "fund-value": "Valor Fondo",
+    "insured-amount": "Monto Asegurado",
+    "insured-capital": "Capital Asegurado",
+    "last-12-months": "Últimos 12 meses",
+    "last-30-days": "Últimos 30 días",
+    "last-balance": "Último saldo",
+    "last-balance-at": "Saldo final al {date}",
+    "months": "{n} Meses",
+    "order-number": "Transacción Nº {n}",
+    "permanency": "Permanencia",
+    "profitability": "Rentabilidad",
+    "report-date": "Fecha Informe",
+    "status": "Estatus",
+    "total": "Total",
+    "total-balance": "Saldo Total",
+    "total-premium": "Total Prima",
+    "total-rescue": "Total Rescate",
+    "totals": "Totales",
+    "transfer-details": "Detalle de Movimiento",
+    "update-date": "Fecha Actualización",
+    "value": "Valor",
+    "year-selection": "Selecciona un año",
+    "years": "{n} Años",
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "forms": {
+    "email-input": "Ingresa tu Correo Electrónico",
+    "email-input-confirmation": "Confirmar Correo Electrónico",
+    "email-input-confirmation-name": "Correo Electrónico de Confirmación",
+    "email-input-name": "Correo Electrónico",
+    "email-input-placeholder": "name@example.com",
+    "month": {
+      "label": "Mes"
+    },
+    "terms": "Aceptación de {0}",
+    "terms-label": "Términos y Condiciones",
+    "year": {
+      "label": "Año"
+    }
+  },
+  "funds": {
+    "available-funds": "Fondos Disponibles",
+    "change": {
+      "confirmation": {
+        "client-authorization": "Autorizo a Compañía de Seguros a realizar una modificación de la composición de los activos a los que se encuentra vinculada la póliza Nº {number} según la distribución que se indica.",
+        "note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "request-tracking-label": "Ingresa tu correo para el seguimiento de tu solicitud.",
+        "send": "Enviar Solicitud",
+        "summary-title": "Resumen de la Modificación",
+        "title": "Solicitud Modificación Composición de Activos de Inversión"
+      },
+      "history": "Historial de Cambios de Fondos",
+      "modified-portfolio-dist": "Porcentaje (%) de Distribución del Portafolios Modificado",
+      "request": {
+        "message": "Hemos enviado una copia de este comprobante al email {email}",
+        "title": "Solicitud de modificación enviada"
+      },
+      "result-portfolio-dist": "Porcentaje (%) de Distribución del Portafolios Resultante",
+      "selector": {
+        "create-custom": "Crea tu portafolio",
+        "label": "Selecciona el fondo a Modificar",
+        "title": "Elige uno de los 5 fondos dinámicos o selecciona \"Crea tu Portafolio\" para confeccionar tu portafolio manualmente."
+      },
+      "table": {
+        "request": "Solicitar Modificación",
+        "total-dist": "Total de Distribución",
+        "total-dist-complete": "completa",
+        "total-dist-message": "La distribución de fondos {0} al 100%"
+      },
+      "title": "Cambio de Fondo"
+    },
+    "dynamic-fund": "Fondo Dinámico",
+    "funds-distribution-percentages": "Porcentaje de Distribución del Valor Póliza",
+    "name": "Fondo {fund}",
+    "notes": [
+      "La rentabilidad de los fondos mutuos no corresponde a la de su póliza, ya que no considera los costos y gastos asociados que se detallan en las condiciones particulares de su póliza.",
+      "(1) El valor cuota del fondo mutuo indicado se muestra en pesos ($), aunque su moneda es el dólar (USD$)."
+    ],
+    "portfolio-summary-notes": [
+      "Corresponde al porcentaje del valor póliza que se encuentra asociado a cada activo de inversión, calculado a una fecha determinada."
+    ],
+    "risk-profile": "Perfil de riesgo",
+    "table": {
+      "header": {
+        "distribution": "% Distribución",
+        "fee-value": "Valor Cuota",
+        "funds": "Fondos",
+        "profitability-last-12-months": "Rentabilidad Últimos 12 Meses",
+        "profitability-last-30-days": "Rentabilidad Últimos 30 Días"
+      },
+      "percentage": "Percentage"
+    },
+    "types": {
+      "aggressive": "Agresivo",
+      "balanced": "Balanceado",
+      "conservative": "Conservador",
+      "increase": "Crecimiento",
+      "moderate": "Moderado"
+    }
+  },
+  "insurance": {
+    "coverage-types": {
+      "base": "Cobertura Base",
+      "death": "Fallecimiento"
+    }
+  },
+  "policy": {
+    "download-btn": "Descargar Póliza",
+    "email-sent-message": "{email} recibirá pronto su póliza.",
+    "email-sent-title": "Póliza enviada con éxito",
+    "historical-value": "Valor póliza histórico",
+    "or": "o",
+    "policy-number": "Póliza Nº {number}",
+    "policy-value": "Valor póliza",
+    "send-email": "Enviar Correo",
+    "subtitle": "Estimado cliente, si desea recibir una copia de su póliza en su correo electrónico, por favor ingrese su email y haga click en enviar.",
+    "subtitle-2": "Obtener directamente la póliza",
+    "title": "Póliza"
+  },
+  "statements": {
+    "download-btn": "Descargar Cartola",
+    "monthly": "Mensual",
+    "period": {
+      "placeholder": "Selecciona un período"
+    },
+    "subtitle": "Seleccione el período y la cartola a consultar",
+    "title": "Cartola",
+    "yearly": "Anual"
+  },
+  "status": {
+    "posted": "Ingresado",
+    "valid": "Vigente"
+  }
+}

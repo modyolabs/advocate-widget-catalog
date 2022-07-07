@@ -1,0 +1,93 @@
+{
+  "commons": {
+    "download": "Descargar",
+    "search": "Buscar",
+    "loading": "Cargando",
+    "others": "Otros",
+    "upcoming": "Proximos"
+  },
+  "header": {
+    "activity": "Actividad",
+    "your-budget": "Tu presupuesto total",
+    "total-budget": "Presupuesto total"
+  },
+  "movements": {
+    "upcoming": "Próximos movimientos"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    },
+    "formatDolar": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ".",
+      "symbol": "US$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "long": "dd MMMM yyyy",
+      "this-month": "Este mes"
+    }
+  },
+  "transaction-item": {
+    "amount": "Monto",
+    "balance": "Saldo",
+    "details": "Detalle de movimiento",
+    "number": "Nº movimiento",
+    "product": "Producto"
+  },
+  "transactions-list": {
+    "latest-transactions": "Últimas transacciones",
+    "empty": "No registra movimientos",
+    "filters": {
+      "all": "Todos",
+      "income": "Abonos",
+      "outgoing": "Cargos"
+    },
+    "select-period": "Seleccionar periodo",
+    "statements": "Cartolas",
+    "transactions": "Movimientos"
+  },
+  "shortcuts": {
+    "name": "Tus accesos directos"
+  },
+  "insights": {
+    "name": "Ideas",
+    "actions": "Acciones"
+  },
+  "carousel": {
+    "prev": "Anterior",
+    "next": "Siguiente"
+  },
+  "charts": {
+    "totalExpenses": "Gastos Totales"
+  },
+  "datepicker": {
+    "name": "Seleccionar fechas",
+    "lang": "es"
+  },
+  "chartFilter": {
+    "balance": "Balance",
+    "expenses": "Gastos"
+  },
+  "viewTrends": {
+    "name": "Ver tendencias",
+    "overview": "Resumen",
+    "accounts": "Cuentas",
+    "balance": "Balance",
+    "distribution": "Distribución"
+  },
+  "presets": {
+    "year": "{0} año",
+    "month": "{0} mes",
+    "week": "{0} sem"
+  }
+}

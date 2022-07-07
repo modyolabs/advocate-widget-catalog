@@ -1,0 +1,103 @@
+/*! purgecss start ignore */
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+/******************
+EXTEND BOOTSTRAP
+*******************/
+
+@include bg-variant(".bg-tertiary", $tertiary, true);
+@include bg-variant(".bg-tertiary-10", $tertiary-10, true);
+
+// Extend Bootstrap Button classes
+.btn-tertiary {
+  @include button-variant($tertiary, $tertiary);
+}
+
+.btn-outline-tertiary {
+  @include button-outline-variant($tertiary, $white, $primary-80, $primary-80 );
+  color: $secondary-100;
+}
+
+/******************
+END EXTEND BOOTSTRAP
+*******************/
+
+/********************************************
+VUE TRANSITIONS COMPONENT ANIMATIONS
+Enter and leave animations can use different
+*********************************************/
+
+.slide-fade-enter-active {
+  transition: all .3s ease;
+}
+
+.slide-fade-leave-active {
+  transition: all .8s cubic-bezier(1, .5, .8, 1);
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+  opacity: 0;
+
+  transform: translateX(10px);
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .5s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+/**********
+STYLES
+***********/
+
+[v-cloak] {
+  display: none;
+}
+
+/******************
+MEDIA QUERIES
+*******************/
+
+@include media-breakpoint-down(xs) {
+  .custom-radio {
+    .custom-control-label--block {
+      font-size: 12px;
+    }
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .border-md { border: $border-width solid $border-color; }
+
+  .border-md-top { border-top: $border-width solid $border-color; }
+
+  .border-md-right { border-right: $border-width solid $border-color; }
+
+  .border-md-bottom { border-bottom: $border-width solid $border-color; }
+
+  .border-md-left { border-left: $border-width solid $border-color; }
+
+  .rounded-md-0 {
+    border-radius: 0;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .btn-outline-lg-tertiary {
+    @include button-outline-variant($tertiary, $white, $primary-80, $primary-80 );
+    color: $secondary-100;
+  }
+}
+
+/*! purgecss end ignore */

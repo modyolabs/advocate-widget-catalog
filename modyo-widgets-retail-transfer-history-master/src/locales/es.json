@@ -1,0 +1,78 @@
+{
+  "commons": {
+    "try-again": "Intente de nuevo en un momento",
+    "empty": "No hay datos para mostrar",
+    "loading": "Cargando"
+  },
+  "accounts": {
+    "type": {
+      "checking-account": "Cuenta Corriente",
+      "savings-account": "Cuenta Vista"
+    }
+  },
+  "actions": {
+    "add": "Crear",
+    "back": "Volver",
+    "edit": "Guardar",
+    "search": "Buscar...",
+    "to-own-accounts": "Entre mis cuentas",
+    "to-third-parties": "A Terceros",
+    "view-contacts": "Ver Contactos"
+  },
+  "contact": {
+    "accountNumber": "Nº de cuenta",
+    "accountType": "Tipo de Cuenta",
+    "bank": "Banco",
+    "delete-msg": "Seguro que desea eliminar este contacto.",
+    "email": "Correo",
+    "loading": "Cargando",
+    "name": "Nombre Completo",
+    "new": "Nuevo",
+    "rut": "Rut",
+    "selectBank": "Seleccione el Banco"
+  },
+  "contacts": {
+    "add-contact": "Agregar Contacto",
+    "edit-contact": "Editar Contacto",
+    "remove-contact": "Eliminar Contacto",
+    "new-contact": "Nuevo Contacto",
+    "recipients": "Contactos"
+  },
+  "currency": {
+    "format": {
+      "decimal": ",",
+      "formatWithSymbol": true,
+      "precision": 0,
+      "separator": ".",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "es",
+      "last-3-months": "Últimos 3 meses",
+      "last-6-months": "Últimos 6 meses",
+      "last-month": "Mes pasado",
+      "long": "dd MMMM yyyy",
+      "short": "DD/MM/YYYY",
+      "this-month": "Este mes"
+    }
+  },
+  "transaction-item": {
+    "amount": "Monto",
+    "balance": "Saldo",
+    "details": "Detalle de movimiento",
+    "number": "Nº movimiento",
+    "product": "Producto"
+  },
+  "transactions-list": {
+    "empty": "No registra movimientos",
+    "filters": {
+      "all": "Todas",
+      "income": "Recibidas",
+      "outgoing": "Enviadas"
+    },
+    "select-period": "Seleccionar periodo",
+    "title": "Historial de Transferencias"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "commons": {
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM dd, yyyy",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month",
+      "months": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+      }
+    }
+  },
+  "main": {
+    "credit-amount": "Loan amount",
+    "credit-amount-exceeds-msg": "The request amount {0} cannot exceed {1}",
+    "credit-minimum-amount-insert-msg": "Enter the loan amount and term to {0}",
+    "credit-minimum-amount-insert-msg-strong": "start the simulation.",
+    "credit-quote-increase-request": "If you need a larger amount, {0}",
+    "credit-quote-increase-request-link": "request a",
+    "credit-quote-increase-request-link-strong": "loan increase",
+    "deposit-to-account": "Destination account",
+    "disencumbrance": "Life",
+    "fees": "Loan term",
+    "insurances": "Insurance",
+    "minimum-credit-msg": "The minimum amount for the loan is {amount}",
+    "months-of-grace": "Grace period",
+    "no-payment-dates": "Months of non-payment",
+    "select-month-of-no-payment": "Select month of non-payment (max {max})",
+    "select-to-account": "Select Destination Account",
+    "simulate": "Simulate",
+    "simulation-summary": {
+      "credit-total-cost": "Total loan cost",
+      "fee-value": "Monthly payment",
+      "fees": "Payments",
+      "interest-rate": "Interest rate",
+      "monthly": "Monthly",
+      "no-fees": "{0} non-payments",
+      "request-advance-btn": "Request loan",
+      "title": "Simulate Personal Loan",
+      "total-tax": "Total Tax",
+      "view-detail-btn": "View Details",
+      "yearly": "Annually",
+      "to-account": "Destination account"
+    },
+    "summary": {
+      "annual": "annual",
+      "annual-interest": "Annual percentage rate (APR)",
+      "credit-total-amount": "Gross loan amount",
+      "credit-total-cost": "Total loan cost",
+      "disgrace-insurance": "Life insurance",
+      "equivalent-anual-load-abbr": "CAE",
+      "interest-rate": "Interest rate",
+      "monthly": "monthly",
+      "months-of-grace": "Grace period (in months)",
+      "notarial-fees": "Notary fees",
+      "request-advance-btn": "Request loan",
+      "stamps-tax": "Stamp Tax",
+      "unemployment-insurance": "Unemployment insurance",
+      "view-summary-btn": "View summary"
+    },
+    "title": "Simulate Personal Loan",
+    "unemployment": "Unemployment"
+  }
+}

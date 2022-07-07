@@ -1,0 +1,95 @@
+{
+  "commons": {
+    "account": "Account",
+    "all": "All",
+    "amount": "Amount",
+    "back-btn": "Back",
+    "cancel-btn": "Cancel",
+    "cash-balance": "Cash balance",
+    "confirm": "Confirm",
+    "finish-btn": "Finish",
+    "name": "Name",
+    "next-btn": "Next",
+    "only-today": "Today only",
+    "price": "Price",
+    "price-per-stock": "Price per stock",
+    "purchase": "Purchase",
+    "quantity": "Quantity",
+    "sale": "Sell",
+    "search": "Search",
+    "select-account": "Select account",
+    "total-amount": "Total amount",
+    "type": "Type",
+    "until": "Until",
+    "validity": "Validity",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "main": {
+    "mutual-funds-link": "Mutual Funds",
+    "title": "Stocks"
+  },
+  "stock-details": {
+    "closing-peak": "Peak purchase",
+    "graph": {
+      "filter": {
+        "days": "1 day | {n} days",
+        "months": "1 month | {n} months",
+        "years": "1 year | {n} years"
+      }
+    },
+    "graph-btn": "Graph",
+    "info": "Info",
+    "last-day-values-msg": "Previous day's closing values",
+    "last-price": "Price",
+    "max": "Max",
+    "min": "Min",
+    "selling-peak": "Peak sale",
+    "subtitle": "Select a stock to view its information",
+    "title": "Stocks",
+    "traded-stocks": "Traded stocks",
+    "variation": "Change %"
+  },
+  "stock-list": {
+    "my-stock-lbl": "My stocks",
+    "variation-tooltip": "Price variation previous month"
+  },
+  "stock-sell": {
+    "select-to-account": "Select destination account",
+    "stocks": "Stocks"
+  },
+  "stocks-buy": {
+    "buy-btn": "Buy",
+    "max-price-per-stock": "Maximum price per share",
+    "success-msg": "Order sent successfully.",
+    "title": "Purchase",
+    "options": {
+      "per-stocks": "by Quantity",
+      "per-amount": "by Amount"
+    }
+  },
+  "stocks-sell": {
+    "fund": "Fund",
+    "investment-account": "Investment Account",
+    "minimum-price-per-stock": "Minimum price per share",
+    "select-account": "Select investment account",
+    "sell-btn": "Sell",
+    "success-msg": "Order sent successfully.",
+    "title": "Sell",
+    "to-account": "Destination account",
+    "options": {
+      "per-stocks": "by Quantity",
+      "per-amount": "by Amount"
+    }
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  }
+}

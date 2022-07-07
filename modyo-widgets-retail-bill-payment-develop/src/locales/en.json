@@ -1,0 +1,101 @@
+{
+  "commons": {
+    "back": "Volver",
+    "try-again": "Try again in a while",
+    "empty": "You don’t have an associated account",
+    "loading": "Loading",
+    "accounts": "Accounts"
+  },
+  "account": {
+    "add-title": "Add your accounts to be able to pay via your bank",
+    "client": "Client",
+    "client-number": "Client Number",
+    "alias": "Alias",
+    "category-placeholder": "Select Category",
+    "company-placeholder": "Select Company",
+    "transaction": "Transaction account"
+  },
+  "actions": {
+    "add-bill": "Add bill",
+    "add-account": "Add account",
+    "back-to-bills": "Return to Bills",
+    "cancel-button": "Cancel",
+    "continue": "Continue",
+    "edit-bill": "Edit Bill",
+    "delete-bill": "Delete Bill",
+    "pay-button": "Pay",
+    "pay-bill-button": "Pay bill"
+  },
+  "bill": {
+    "client": "Client",
+    "history": {
+      "title": "Last Payments",
+      "date": "Date",
+      "amount": "Amount",
+      "operation": "Operation ID"
+    },
+    "schedule": "Program this transfer?",
+    "resume": "Amounts added",
+    "total": "Total",
+    "pay-from": "Pay From",
+    "paid": "Without debt",
+    "auto-payment": "Automatic payment"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "PPPP 'at' pp",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    }
+  },
+  "payment": {
+    "end-date": "End date",
+    "from": "Payment From",
+    "maximum": "Maximum amount",
+    "scheduled" : "{day} of every month",
+    "date": "Payment Date",
+    "amount": "Amount",
+    "chilean-currency": "Chilean Pesos",
+    "exchange-type": "Exchange Type",
+    "invoiced-amount-radio": "Pay Invoiced Amount",
+    "lower-payment-msg": "*The balance to be paid is less than the invoiced total. It is possible that additional interest will be generated.",
+    "minimum-amount-radio": "Pay Minimum Amount",
+    "minimum-payment": "Minimum payment",
+    "minimum-payment-msg": "*Your payment cannot be less than the minimum amount due.",
+    "other-amount-radio": "Other Amount",
+    "title": "Amount to be paid"
+  },
+  "payment-confirm": {
+    "password": "Password",
+    "title": "Enter your password"
+  },
+  "payment-voucher": {
+    "success": "Payment Successful",
+    "title": "Proof of Payment",
+    "transaction-number": "Transaction Number",
+    "stub": "Bill Payment Stub",
+    "from": "From",
+    "transaction-account": "Transaction account"
+  },
+  "tab": {
+    "bills": "My bills",
+    "add-bill": "Add New Bill"
+  },
+  "selector": {
+    "credit-card": "Credit card",
+    "transaction-account": "Transaction account"
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "total": {
+    "name": "Total",
+    "color": "#B0BABF",
+    "totalAmount": 45230,
+    "summary": [
+      {
+        "total": 10878,
+        "date": "1/1/2022"
+      },
+      {
+        "total": 8230,
+        "date": "1/15/2022"
+      },
+      {
+        "total": 13847,
+        "date": "2/1/2022"
+      },
+      {
+        "total": 12576,
+        "date": "2/15/2022"
+      },
+      {
+        "total": 5321,
+        "date": "3/1/2022"
+      },
+      {
+        "total": 13194,
+        "date": "3/15/2022"
+      },
+      {
+        "total": 6900,
+        "date": "4/1/2022"
+      },
+      {
+        "total": 7873,
+        "date": "4/15/2022"
+      },
+      {
+        "total": 10356,
+        "date": "5/1/2022"
+      },
+      {
+        "total": 11742,
+        "date": "5/15/2022"
+      },
+      {
+        "total": 11882,
+        "date": "6/1/2022"
+      },
+      {
+        "total": 7673,
+        "date": "6/15/2022"
+      },
+      {
+        "total": 6056,
+        "date": "7/1/2022"
+      },
+      {
+        "total": 8242,
+        "date": "7/15/2022"
+      },
+      {
+        "total": 11581,
+        "date": "8/1/2022"
+      },
+      {
+        "total": 10346,
+        "date": "8/15/2022"
+      },
+      {
+        "total": 9046,
+        "date": "9/1/2022"
+      },
+      {
+        "total": 7290,
+        "date": "9/15/2022"
+      },
+      {
+        "total": 12644,
+        "date": "10/1/2022"
+      },
+      {
+        "total": 5314,
+        "date": "10/15/2022"
+      },
+      {
+        "total": 10851,
+        "date": "11/1/2022"
+      },
+      {
+        "total": 9585,
+        "date": "11/15/2022"
+      },
+      {
+        "total": 14955,
+        "date": "12/1/2022"
+      },
+      {
+        "total": 5647,
+        "date": "12/15/2022"
+      }
+    ],
+    "upcomingMovements": [
+      {
+        "id": "59c6aeb9-579b-4913-8aae-14f5d40297c5",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "893.78",
+        "amountType": "in",
+        "business": "Witting, Bergnaum and Nitzsche",
+        "name": "Credit Card Account 2466",
+        "type": "withdrawal",
+        "account": "94299317"
+      },
+      {
+        "id": "1e4627b1-4fc8-4650-9816-576f587320a5",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "168.64",
+        "amountType": "out",
+        "business": "D'Amore, Berge and Bode",
+        "name": "Credit Card Account 3611",
+        "type": "payment",
+        "account": "80900408"
+      },
+      {
+        "id": "fafcf72d-6ee9-4329-af2e-8e762ec2a6f4",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "440.20",
+        "amountType": "out",
+        "business": "Upton Group",
+        "name": "Auto Loan Account 9198",
+        "type": "payment",
+        "account": "80875775"
+      },
+      {
+        "id": "327245f2-5fc7-4d77-b4b4-e1258aeb9d6c",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "874.13",
+        "amountType": "in",
+        "business": "Jakubowski LLC",
+        "name": "Home Loan Account 3379",
+        "type": "deposit",
+        "account": "63626081"
+      },
+      {
+        "id": "92cce702-7b36-4faf-b4ea-3e0fc6848f5e",
+        "date": "2012-02-02T05:00:00.000Z",
+        "amount": "711.65",
+        "amountType": "out",
+        "business": "Treutel, Dare and Pfannerstill",
+        "name": "Checking Account 2611",
+        "type": "payment",
+        "account": "33445954"
+      }
+    ]
+  },
+  "accounts": [
+    {
+      "name": "Future Account",
+      "id": "758730",
+      "color": "#333333",
+      "variation": {
+        "price": 419.03,
+        "percentage": 0.1,
+        "status": 1
+      },
+      "summary": [
+        {
+          "budget": 3108,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 2473,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 1734,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 3360,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 2016,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 2463,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 701,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 276,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 0,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 3378,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 1350,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 2531,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 1347,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 2400,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 2824,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 837,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 1781,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 692,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 1586,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 330,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 778,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 2013,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 3406,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 729,
+          "date": "12/15/2022"
+        }
+      ]
+    },
+    {
+      "name": "Master Account",
+      "id": "352471",
+      "color": "#515A5E",
+      "variation": {
+        "percentage": 0.15,
+        "price": 489.81,
+        "status": 2
+      },
+      "summary": [
+        {
+          "budget": 2766,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 1741,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 3691,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 1297,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 412,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 1520,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 2355,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 1441,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 3462,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 581,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 2674,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 832,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 3235,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 355,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 359,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 360,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 2561,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 847,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 2319,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 1683,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 2482,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 1007,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 2820,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 1159,
+          "date": "12/15/2022"
+        }
+      ]
+    },
+    {
+      "name": "Savings Account",
+      "id": "479133",
+      "color": "#A3AFB4",
+      "summary": [
+        {
+          "budget": 2274,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 35,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 996,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 2359,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 682,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 3891,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 997,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 2047,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 504,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 3829,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 477,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 1016,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 1286,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 3713,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 1157,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 2829,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 2452,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 2574,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 3753,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 1821,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 3058,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 3036,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 2838,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 866,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "price": 224.25,
+        "percentage": 0.25,
+        "status": 3
+      }
+    },
+    {
+      "name": "Lead Account",
+      "id": "222462",
+      "color": "#6F797D",
+      "variation": {
+        "percentage": 0.3,
+        "price": 590.76,
+        "status": 4
+      },
+      "summary": [
+        {
+          "budget": 427,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 723,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 3639,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 3819,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 239,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 3287,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 935,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 3436,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 3173,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 1397,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 3601,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 2002,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 188,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 1078,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 3962,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 2463,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 1119,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 333,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 3115,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 293,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 1437,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 724,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 2059,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 807,
+          "date": "12/15/2022"
+        }
+      ]
+    },
+    {
+      "name": "Regional Account",
+      "id": "773524",
+      "color": "#8F999D",
+      "summary": [
+        {
+          "budget": 2303,
+          "date": "1/1/2022"
+        },
+        {
+          "budget": 3258,
+          "date": "1/15/2022"
+        },
+        {
+          "budget": 3787,
+          "date": "2/1/2022"
+        },
+        {
+          "budget": 1741,
+          "date": "2/15/2022"
+        },
+        {
+          "budget": 1972,
+          "date": "3/1/2022"
+        },
+        {
+          "budget": 2033,
+          "date": "3/15/2022"
+        },
+        {
+          "budget": 1912,
+          "date": "4/1/2022"
+        },
+        {
+          "budget": 673,
+          "date": "4/15/2022"
+        },
+        {
+          "budget": 3217,
+          "date": "5/1/2022"
+        },
+        {
+          "budget": 2557,
+          "date": "5/15/2022"
+        },
+        {
+          "budget": 3780,
+          "date": "6/1/2022"
+        },
+        {
+          "budget": 1292,
+          "date": "6/15/2022"
+        },
+        {
+          "budget": 0,
+          "date": "7/1/2022"
+        },
+        {
+          "budget": 696,
+          "date": "7/15/2022"
+        },
+        {
+          "budget": 3279,
+          "date": "8/1/2022"
+        },
+        {
+          "budget": 3857,
+          "date": "8/15/2022"
+        },
+        {
+          "budget": 1133,
+          "date": "9/1/2022"
+        },
+        {
+          "budget": 2844,
+          "date": "9/15/2022"
+        },
+        {
+          "budget": 1871,
+          "date": "10/1/2022"
+        },
+        {
+          "budget": 1187,
+          "date": "10/15/2022"
+        },
+        {
+          "budget": 3096,
+          "date": "11/1/2022"
+        },
+        {
+          "budget": 2805,
+          "date": "11/15/2022"
+        },
+        {
+          "budget": 3832,
+          "date": "12/1/2022"
+        },
+        {
+          "budget": 2086,
+          "date": "12/15/2022"
+        }
+      ],
+      "variation": {
+        "price": 401.91,
+        "percentage": 0.2,
+        "status": 5
+      }
+    }
+  ]
+}

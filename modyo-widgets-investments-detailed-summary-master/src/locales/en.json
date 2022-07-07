@@ -1,0 +1,34 @@
+{
+  "commons": {
+    "back": "Back",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "accordion-table": {
+    "amount": "Amount",
+    "date": "Date",
+    "description": "Description",
+    "fees": "shares",
+    "product-name": "Product name",
+    "stock": "stocks"
+  },
+  "in-transit": {
+    "title": "Operations in transit"
+  },
+  "last-movements": {
+    "title": "Last movements"
+  },
+  "main": {
+    "filters": {
+      "per-account": "By Account",
+      "per-currency": "By Currency",
+      "per-product": "By Position"
+    },
+    "title": "Detailed Summary"
+  },
+  "summary-accordion": {
+    "account-legacy-lbl": "Account assets",
+    "details-btn": "View in detail"
+  }
+}
