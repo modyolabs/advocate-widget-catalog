@@ -1,3 +1,8 @@
+# IMPORTANT
+
+These widgets are a DEMO and provided "as is" code is not maintained and you may experience compatibility issues.
+To access the updated and suported version contact us to provide access to official repos.
+
 # widget catalog for modyo clients and partners
 
 Initialize and publish a widget locally using Modyo CLI.
